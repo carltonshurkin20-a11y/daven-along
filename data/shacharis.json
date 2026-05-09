@@ -1,0 +1,28 @@
+{
+  "id": 1, "slug": "shacharis",
+  "nameHeb": "שַׁחֲרִית", "nameEn": "Shacharit",
+  "nusach": "ashkenaz", "timeOfDay": "morning",
+  "totalDuration": 204, "audioUrl": "/audio/shacharis.mp3",
+  "sections": [
+    {
+      "id": "modeh-ani", "title": "מוֹדֶה אֲנִי", "titleEn": "Modeh Ani",
+      "translation": "I gratefully acknowledge before You, living and eternal King, that You have mercifully restored my soul within me; great is Your faithfulness.",
+      "lines": [
+        { "words": [{"text":"מוֹדֶה","start":0.0,"end":1.2},{"text":"אֲנִי","start":1.3,"end":2.0},{"text":"לְפָנֶיךָ","start":2.1,"end":3.2}]},
+        { "words": [{"text":"מֶלֶךְ","start":3.4,"end":4.2},{"text":"חַי","start":4.3,"end":4.8},{"text":"וְקַיָּם","start":4.9,"end":5.9}]},
+        { "words": [{"text":"שֶׁהֶחֱזַרְתָּ","start":6.2,"end":7.6},{"text":"בִּי","start":7.7,"end":8.2},{"text":"נִשְׁמָתִי","start":8.3,"end":9.4}]},
+        { "words": [{"text":"בְּחֶמְלָה","start":9.6,"end":10.8},{"text":"רַבָּה","start":10.9,"end":11.8},{"text":"אֱמוּנָתֶךָ","start":12.0,"end":13.5}]}
+      ]
+    },
+    {
+      "id": "brachot", "title": "בִּרְכּוֹת הַשַּׁחַר", "titleEn": "Morning Blessings",
+      "translation": "Blessed are You, Lord our God, King of the universe, who has sanctified us with His commandments and commanded us concerning the washing of hands. Blessed are You who removes sleep from my eyes and slumber from my eyelids.",
+      "lines": [
+        { "words": [{"text":"בָּרוּךְ","start":15.0,"end":16.0},{"text":"אַתָּה","start":16.1,"end":16.8},{"text":"יְיָ","start":17.0,"end":17.6},{"text":"אֱלֹהֵינוּ","start":17.8,"end":19.0}]},
+        { "words": [{"text":"מֶלֶךְ","start":19.2,"end":20.0},{"text":"הָעוֹלָם","start":20.2,"end":21.3},{"text":"אֲשֶׁר","start":21.6,"end":22.2}]},
+        { "words": [{"text":"קִדְּשָׁנוּ","start":22.3,"end":23.6},{"text":"בְּמִצְוֹתָיו","start":23.8,"end":25.2},{"text":"וְצִוָּנוּ","start":25.5,"end":26.6}]},
+        { "words": [{"text":"עַל","start":26.8,"end":27.2},{"text":"נְטִילַת","start":27.4,"end":28.4},{"text":"יָדָיִם","start":28.6,"end":29.8}]}
+      ]
+    }
+  ]
+}
