@@ -1,0 +1,2865 @@
+{
+  "id": "Vezot-Habracha",
+  "slug": "vezot-habracha",
+  "nameHeb": "דברים",
+  "nameEn": "V'Zot HaBerachah",
+  "nusach": "torah",
+  "timeOfDay": "any",
+  "totalDuration": 0,
+  "audioUrl": "",
+  "sections": [
+    {
+      "id": "Vezot-Habracha-1-1",
+      "title": "1:1",
+      "titleEn": "1:1",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְזֹ֣את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַבְּרָכָ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֵּרַ֥ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֥ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֱלֹהִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֑ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹתֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vezot-Habracha-1-2",
+      "title": "1:2",
+      "titleEn": "1:2",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֹּאמַ֗ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֞ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִסִּינַ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּא֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְזָרַ֤ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִשֵּׂעִיר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָ֔מוֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הוֹפִ֙יעַ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵהַ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פָּארָ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאָתָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵרִבְבֹ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קֹ֑דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִימִינ֕וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "(אשדת)",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "[אֵ֥שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דָּ֖ת]",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָֽמוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vezot-Habracha-1-3",
+      "title": "1:3",
+      "titleEn": "1:3",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אַ֚ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֹבֵ֣ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַמִּ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־קְדֹשָׁ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּיָדֶ֑ךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהֵם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֻּכּ֣וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְרַגְלֶ֔ךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשָּׂ֖א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִדַּבְּרֹתֶֽיךָ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vezot-Habracha-1-4",
+      "title": "1:4",
+      "titleEn": "1:4",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "תּוֹרָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צִוָּה־לָ֖נוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹרָשָׁ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קְהִלַּ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַעֲקֹֽב׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vezot-Habracha-1-5",
+      "title": "1:5",
+      "titleEn": "1:5",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְהִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִישֻׁר֖וּן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֶ֑לֶךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּהִתְאַסֵּף֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רָ֣אשֵׁי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַ֖חַד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁבְטֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵֽל׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vezot-Habracha-1-6",
+      "title": "1:6",
+      "titleEn": "1:6",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "יְחִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רְאוּבֵ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַל־יָמֹ֑ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וִיהִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְתָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִסְפָּֽר׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vezot-Habracha-1-7",
+      "title": "1:7",
+      "titleEn": "1:7",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְזֹ֣את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִיהוּדָה֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיֹּאמַר֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁמַ֤ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ק֣וֹל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהוּדָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶל־עַמּ֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּבִיאֶ֑נּוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָדָיו֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רָ֣ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ל֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעֵ֥זֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִצָּרָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּהְיֶֽה׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vezot-Habracha-1-8",
+      "title": "1:8",
+      "titleEn": "1:8",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּלְלֵוִ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָמַ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֻּמֶּ֥יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאוּרֶ֖יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְאִ֣ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲסִידֶ֑ךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נִסִּיתוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּמַסָּ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּרִיבֵ֖הוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־מֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְרִיבָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vezot-Habracha-1-9",
+      "title": "1:9",
+      "titleEn": "1:9",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "הָאֹמֵ֞ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְאָבִ֤יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּלְאִמּוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רְאִיתִ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־אֶחָיו֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִכִּ֔יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־בָּנָ֖ו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָדָ֑ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָֽׁמְרוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִמְרָתֶ֔ךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבְרִיתְךָ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִנְצֹֽרוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vezot-Habracha-1-10",
+      "title": "1:10",
+      "titleEn": "1:10",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "יוֹר֤וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִשְׁפָּטֶ֙יךָ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְיַֽעֲקֹ֔ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְתוֹרָתְךָ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְיִשְׂרָאֵ֑ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָשִׂ֤ימוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קְטוֹרָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאַפֶּ֔ךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכָלִ֖יל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַֽל־מִזְבְּחֶֽךָ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vezot-Habracha-1-11",
+      "title": "1:11",
+      "titleEn": "1:11",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "בָּרֵ֤ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֵיל֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּפֹ֥עַל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָדָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּרְצֶ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְחַ֨ץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מׇתְנַ֧יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קָמָ֛יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמְשַׂנְאָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־יְקוּמֽוּן׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vezot-Habracha-1-12",
+      "title": "1:12",
+      "titleEn": "1:12",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לְבִנְיָמִ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָמַ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְדִ֣יד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׁכֹּ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָבֶ֖טַח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלָ֑יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֹפֵ֤ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלָיו֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־הַיּ֔וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבֵ֥ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּתֵפָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁכֵֽן׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vezot-Habracha-1-13",
+      "title": "1:13",
+      "titleEn": "1:13",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּלְיוֹסֵ֣ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָמַ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְבֹרֶ֥כֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַרְצ֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמֶּ֤גֶד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁמַ֙יִם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִטָּ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִתְּה֖וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֹבֶ֥צֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תָּֽחַת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vezot-Habracha-1-14",
+      "title": "1:14",
+      "titleEn": "1:14",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּמִמֶּ֖גֶד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּבוּאֹ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁ֑מֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִמֶּ֖גֶד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גֶּ֥רֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְרָחִֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vezot-Habracha-1-15",
+      "title": "1:15",
+      "titleEn": "1:15",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּמֵרֹ֖אשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַרְרֵי־קֶ֑דֶם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִמֶּ֖גֶד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גִּבְע֥וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עוֹלָֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vezot-Habracha-1-16",
+      "title": "1:16",
+      "titleEn": "1:16",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּמִמֶּ֗גֶד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶ֚רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמְלֹאָ֔הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּרְצ֥וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֹׁכְנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סְנֶ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תָּב֙וֹאתָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְרֹ֣אשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוֹסֵ֔ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּלְקׇדְקֹ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נְזִ֥יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶחָֽיו׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vezot-Habracha-1-17",
+      "title": "1:17",
+      "titleEn": "1:17",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "בְּכ֨וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שׁוֹר֜וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָדָ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ל֗וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְקַרְנֵ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רְאֵם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קַרְנָ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּהֶ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַמִּ֛ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְנַגַּ֥ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַחְדָּ֖ו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַפְסֵי־אָ֑רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהֵם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רִבְב֣וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶפְרַ֔יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהֵ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַלְפֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְנַשֶּֽׁה׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vezot-Habracha-1-18",
+      "title": "1:18",
+      "titleEn": "1:18",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְלִזְבוּלֻ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָמַ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׂמַ֥ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זְבוּלֻ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּצֵאתֶ֑ךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיִשָּׂשכָ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאֹהָלֶֽיךָ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vezot-Habracha-1-19",
+      "title": "1:19",
+      "titleEn": "1:19",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "עַמִּים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַר־יִקְרָ֔אוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִזְבְּח֣וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זִבְחֵי־צֶ֑דֶק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֶׁ֤פַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַמִּים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִינָ֔קוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּשְׂפֻנֵ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טְמ֥וּנֵי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֽוֹל׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vezot-Habracha-1-20",
+      "title": "1:20",
+      "titleEn": "1:20",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּלְגָ֣ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָמַ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּר֖וּךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַרְחִ֣יב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גָּ֑ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּלָבִ֣יא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁכֵ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְטָרַ֥ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זְר֖וֹעַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַף־קׇדְקֹֽד׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vezot-Habracha-1-21",
+      "title": "1:21",
+      "titleEn": "1:21",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיַּ֤רְא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֵאשִׁית֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ל֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּי־שָׁ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֶלְקַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְחֹקֵ֖ק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סָפ֑וּן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיֵּתֵא֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רָ֣אשֵׁי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צִדְקַ֤ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָשָׂ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִשְׁפָּטָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִם־יִשְׂרָאֵֽל׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vezot-Habracha-1-22",
+      "title": "1:22",
+      "titleEn": "1:22",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּלְדָ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָמַ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דָּ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גּ֣וּר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַרְיֵ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְזַנֵּ֖ק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הַבָּשָֽׁן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vezot-Habracha-1-23",
+      "title": "1:23",
+      "titleEn": "1:23",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּלְנַפְתָּלִ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָמַ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נַפְתָּלִי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׂבַ֣ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רָצ֔וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמָלֵ֖א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּרְכַּ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְדָר֖וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְרָֽשָׁה׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vezot-Habracha-1-24",
+      "title": "1:24",
+      "titleEn": "1:24",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּלְאָשֵׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָמַ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּר֥וּךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִבָּנִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָשֵׁ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהִ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רְצוּי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶחָ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְטֹבֵ֥ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּשֶּׁ֖מֶן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רַגְלֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vezot-Habracha-1-25",
+      "title": "1:25",
+      "titleEn": "1:25",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "בַּרְזֶ֥ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּנְחֹ֖שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִנְעָלֶ֑ךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּכְיָמֶ֖יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דׇּבְאֶֽךָ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vezot-Habracha-1-26",
+      "title": "1:26",
+      "titleEn": "1:26",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֵ֥ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כָּאֵ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְשֻׁר֑וּן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֹכֵ֤ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁמַ֙יִם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּעֶזְרֶ֔ךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבְגַאֲוָת֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁחָקִֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vezot-Habracha-1-27",
+      "title": "1:27",
+      "titleEn": "1:27",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "מְעֹנָהֿ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹ֣הֵי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קֶ֔דֶם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִתַּ֖חַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זְרֹעֹ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עוֹלָ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיְגָ֧רֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִפָּנֶ֛יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אוֹיֵ֖ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיֹּ֥אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשְׁמֵֽד׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vezot-Habracha-1-28",
+      "title": "1:28",
+      "titleEn": "1:28",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּשְׁכֹּן֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֨ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּ֤טַח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּדָד֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֵ֣ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַֽעֲקֹ֔ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־אֶ֖רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דָּגָ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְתִיר֑וֹשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַף־שָׁמָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַ֥עַרְפוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טָֽל׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vezot-Habracha-1-29",
+      "title": "1:29",
+      "titleEn": "1:29",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אַשְׁרֶ֨יךָ*(בספרי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תימן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַשְׁרֶ֨יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "באל״ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גדולה)",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֜ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כָמ֗וֹךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֚ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נוֹשַׁ֣ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּֽיהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מָגֵ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶזְרֶ֔ךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַאֲשֶׁר־חֶ֖רֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גַּאֲוָתֶ֑ךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיִכָּחֲשׁ֤וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹיְבֶ֙יךָ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָ֔ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַתָּ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־בָּמוֹתֵ֥ימוֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִדְרֹֽךְ׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vezot-Habracha-2-1",
+      "title": "2:1",
+      "titleEn": "2:1",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיַּ֨עַל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁ֜ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵעַרְבֹ֤ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹאָב֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הַ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נְב֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֹ֚אשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַפִּסְגָּ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־פְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְרֵח֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיַּרְאֵ֨הוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֧ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־כׇּל־הָאָ֛רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַגִּלְעָ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַד־דָּֽן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vezot-Habracha-2-2",
+      "title": "2:2",
+      "titleEn": "2:2",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאֵת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־נַפְתָּלִ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־אֶ֥רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶפְרַ֖יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמְנַשֶּׁ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־אֶ֣רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהוּדָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיָּ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאַחֲרֽוֹן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vezot-Habracha-2-3",
+      "title": "2:3",
+      "titleEn": "2:3",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאֶת־הַנֶּ֗גֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְֽאֶת־הַכִּכָּ֞ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּקְעַ֧ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְרֵח֛וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִ֥יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַתְּמָרִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַד־צֹֽעַר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vezot-Habracha-2-4",
+      "title": "2:4",
+      "titleEn": "2:4",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֹּ֨אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֜ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵלָ֗יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זֹ֤את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֙רֶץ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נִ֠שְׁבַּ֠עְתִּי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְאַבְרָהָ֨ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְיִצְחָ֤ק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּֽלְיַעֲקֹב֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאמֹ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְזַרְעֲךָ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְּנֶ֑נָּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֶרְאִיתִ֣יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְעֵינֶ֔יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשָׁ֖מָּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַעֲבֹֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vezot-Habracha-2-5",
+      "title": "2:5",
+      "titleEn": "2:5",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיָּ֨מׇת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁ֜ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁ֧ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶבֶד־יְהֹוָ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאֶ֥רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹאָ֖ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־פִּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vezot-Habracha-2-6",
+      "title": "2:6",
+      "titleEn": "2:6",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּקְבֹּ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֤וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַגַּי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאֶ֣רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹאָ֔ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מ֖וּל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֵּ֣ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פְּע֑וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹא־יָדַ֥ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִישׁ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־קְבֻ֣רָת֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיּ֥וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזֶּֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vezot-Habracha-2-7",
+      "title": "2:7",
+      "titleEn": "2:7",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּמֹשֶׁ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־מֵאָ֧ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעֶשְׂרִ֛ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁנָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּמֹת֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹא־כָהֲתָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֵינ֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹא־נָ֥ס",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵחֹֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vezot-Habracha-2-8",
+      "title": "2:8",
+      "titleEn": "2:8",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּבְכּוּ֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְנֵ֨י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֧ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מֹשֶׁ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּעַֽרְבֹ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹאָ֖ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁלֹשִׁ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "י֑וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיִּתְּמ֔וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְמֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְכִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֥בֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶֽׁה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vezot-Habracha-2-9",
+      "title": "2:9",
+      "titleEn": "2:9",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וִיהוֹשֻׁ֣עַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּן־נ֗וּן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מָלֵא֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ר֣וּחַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חׇכְמָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־סָמַ֥ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־יָדָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלָ֑יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּשְׁמְע֨וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵלָ֤יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵֽי־יִשְׂרָאֵל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיַּעֲשׂ֔וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּאֲשֶׁ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צִוָּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מֹשֶֽׁה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vezot-Habracha-2-10",
+      "title": "2:10",
+      "titleEn": "2:10",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְלֹא־קָ֨ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נָבִ֥יא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ע֛וֹד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּיִשְׂרָאֵ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּמֹשֶׁ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְדָע֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פָּנִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־פָּנִֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vezot-Habracha-2-11",
+      "title": "2:11",
+      "titleEn": "2:11",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לְכׇל־הָ֨אֹתֹ֜ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהַמּוֹפְתִ֗ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁלָחוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַעֲשׂ֖וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאֶ֣רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִצְרָ֑יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְפַרְעֹ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּלְכׇל־עֲבָדָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּלְכׇל־אַרְצֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vezot-Habracha-2-12",
+      "title": "2:12",
+      "titleEn": "2:12",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּלְכֹל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיָּ֣ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַחֲזָקָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּלְכֹ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמּוֹרָ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַגָּד֑וֹל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָשָׂ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְעֵינֵ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־יִשְׂרָאֵֽל׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6950 @@
+{
+  "id": "Behar",
+  "slug": "behar",
+  "nameHeb": "ויקרא",
+  "nameEn": "Behar",
+  "nusach": "torah",
+  "timeOfDay": "any",
+  "totalDuration": 0,
+  "audioUrl": "",
+  "sections": [
+    {
+      "id": "Behar-1-1",
+      "title": "1:1",
+      "titleEn": "1:1",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְדַבֵּ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּהַ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סִינַ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאמֹֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-2",
+      "title": "1:2",
+      "titleEn": "1:2",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "דַּבֵּ֞ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־בְּנֵ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאָמַרְתָּ֣",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲלֵהֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תָבֹ֙אוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הָאָ֔רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֹתֵ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשָׁבְתָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֔רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שַׁבָּ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-3",
+      "title": "1:3",
+      "titleEn": "1:3",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "שֵׁ֤שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁנִים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּזְרַ֣ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׂדֶ֔ךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשֵׁ֥שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁנִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּזְמֹ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּרְמֶ֑ךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאָסַפְתָּ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־תְּבוּאָתָֽהּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-4",
+      "title": "1:4",
+      "titleEn": "1:4",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּבַשָּׁנָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשְּׁבִיעִ֗ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שַׁבַּ֤ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שַׁבָּתוֹן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְיֶ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָאָ֔רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שַׁבָּ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיהֹוָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָֽׂדְךָ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִזְרָ֔ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכַרְמְךָ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִזְמֹֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-5",
+      "title": "1:5",
+      "titleEn": "1:5",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֵ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סְפִ֤יחַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קְצִֽירְךָ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִקְצ֔וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־עִנְּבֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נְזִירֶ֖ךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִבְצֹ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁנַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שַׁבָּת֖וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְיֶ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָאָֽרֶץ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-6",
+      "title": "1:6",
+      "titleEn": "1:6",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְ֠הָיְתָ֠ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שַׁבַּ֨ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֤רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְאׇכְלָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְךָ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּלְעַבְדְּךָ֣",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלַאֲמָתֶ֑ךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלִשְׂכִֽירְךָ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּלְתוֹשָׁ֣בְךָ֔",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַגָּרִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִמָּֽךְ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-7",
+      "title": "1:7",
+      "titleEn": "1:7",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְלִ֨בְהֶמְתְּךָ֔",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלַֽחַיָּ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאַרְצֶ֑ךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּהְיֶ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇל־תְּבוּאָתָ֖הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֶאֱכֹֽל׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-8",
+      "title": "1:8",
+      "titleEn": "1:8",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְסָפַרְתָּ֣",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְךָ֗",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֶׁ֚בַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שַׁבְּתֹ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁנִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֶׁ֥בַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁנִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֶׁ֣בַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פְּעָמִ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָי֣וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְךָ֗",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְמֵי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֶׁ֚בַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שַׁבְּתֹ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשָּׁנִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֵּ֥שַׁע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַרְבָּעִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁנָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-9",
+      "title": "1:9",
+      "titleEn": "1:9",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהַֽעֲבַרְתָּ֞",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שׁוֹפַ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּרוּעָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּחֹ֣דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשְּׁבִעִ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּעָשׂ֖וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַחֹ֑דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּיוֹם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכִּפֻּרִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּעֲבִ֥ירוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שׁוֹפָ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּכׇל־אַרְצְכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-10",
+      "title": "1:10",
+      "titleEn": "1:10",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְקִדַּשְׁתֶּ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁנַ֤ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַחֲמִשִּׁים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁנָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּקְרָאתֶ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דְּר֛וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּאָ֖רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְכׇל־יֹשְׁבֶ֑יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוֹבֵ֥ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִוא֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּהְיֶ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשַׁבְתֶּ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֚ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־אֲחֻזָּת֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאִ֥ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מִשְׁפַּחְתּ֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תָּשֻֽׁבוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-11",
+      "title": "1:11",
+      "titleEn": "1:11",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "יוֹבֵ֣ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִ֗וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁנַ֛ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַחֲמִשִּׁ֥ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁנָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּהְיֶ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִזְרָ֔עוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹ֤א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִקְצְרוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־סְפִיחֶ֔יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִבְצְר֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־נְזִרֶֽיהָ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-12",
+      "title": "1:12",
+      "titleEn": "1:12",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כִּ֚י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוֹבֵ֣ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִ֔וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קֹ֖דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּהְיֶ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִ֨ן־הַשָּׂדֶ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֹּאכְל֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־תְּבוּאָתָֽהּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-13",
+      "title": "1:13",
+      "titleEn": "1:13",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "בִּשְׁנַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיּוֹבֵ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזֹּ֑את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תָּשֻׁ֕בוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֖ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־אֲחֻזָּתֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-14",
+      "title": "1:14",
+      "titleEn": "1:14",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְכִֽי־תִמְכְּר֤וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמְכָּר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַעֲמִיתֶ֔ךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֥וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קָנֹ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִיַּ֣ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲמִיתֶ֑ךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַל־תּוֹנ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֥ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־אָחִֽיו׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-15",
+      "title": "1:15",
+      "titleEn": "1:15",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "בְּמִסְפַּ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁנִים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַחַ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיּוֹבֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּקְנֶ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאֵ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲמִיתֶ֑ךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּמִסְפַּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁנֵֽי־תְבוּאֹ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִמְכׇּר־לָֽךְ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-16",
+      "title": "1:16",
+      "titleEn": "1:16",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לְפִ֣י&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֹ֣ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשָּׁנִ֗ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּרְבֶּה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקְנָת֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּלְפִי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְעֹ֣ט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשָּׁנִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּמְעִ֖יט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקְנָת֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֚י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִסְפַּ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּבוּאֹ֔ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ה֥וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹכֵ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָֽךְ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-17",
+      "title": "1:17",
+      "titleEn": "1:17",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְלֹ֤א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תוֹנוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֣ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־עֲמִית֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיָרֵ֖אתָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵֽאֱלֹהֶ֑יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֛י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹהֵיכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-18",
+      "title": "1:18",
+      "titleEn": "1:18",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַעֲשִׂיתֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־חֻקֹּתַ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־מִשְׁפָּטַ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּשְׁמְר֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַעֲשִׂיתֶ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וִֽישַׁבְתֶּ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־הָאָ֖רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָבֶֽטַח׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-19",
+      "title": "1:19",
+      "titleEn": "1:19",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְנָתְנָ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֙רֶץ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פִּרְיָ֔הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַאֲכַלְתֶּ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָשֹׂ֑בַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וִֽישַׁבְתֶּ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָבֶ֖טַח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלֶֽיהָ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-20",
+      "title": "1:20",
+      "titleEn": "1:20",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְכִ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֹאמְר֔וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַה־נֹּאכַ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּשָּׁנָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשְּׁבִיעִ֑ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֵ֚ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נִזְרָ֔ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֶאֱסֹ֖ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־תְּבוּאָתֵֽנוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-21",
+      "title": "1:21",
+      "titleEn": "1:21",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְצִוִּ֤יתִי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בִּרְכָתִי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּשָּׁנָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשִּׁשִּׁ֑ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעָשָׂת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַתְּבוּאָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִשְׁלֹ֖שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשָּׁנִֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-22",
+      "title": "1:22",
+      "titleEn": "1:22",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּזְרַעְתֶּ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֚ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשָּׁנָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשְּׁמִינִ֔ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַאֲכַלְתֶּ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הַתְּבוּאָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָשָׁ֑ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֣ד&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשָּׁנָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַתְּשִׁיעִ֗ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַד־בּוֹא֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּב֣וּאָתָ֔הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֹּאכְל֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָשָֽׁן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-23",
+      "title": "1:23",
+      "titleEn": "1:23",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהָאָ֗רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֤א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִמָּכֵר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִצְמִתֻ֔ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּי־לִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֑רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־גֵרִ֧ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְתוֹשָׁבִ֛ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַתֶּ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִמָּדִֽי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-24",
+      "title": "1:24",
+      "titleEn": "1:24",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּבְכֹ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶ֣רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲחֻזַּתְכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גְּאֻלָּ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּתְּנ֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָאָֽרֶץ׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-25",
+      "title": "1:25",
+      "titleEn": "1:25",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כִּֽי־יָמ֣וּךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָחִ֔יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמָכַ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאֲחֻזָּת֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבָ֤א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גֹֽאֲלוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַקָּרֹ֣ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵלָ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְגָאַ֕ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמְכַּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָחִֽיו׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-26",
+      "title": "1:26",
+      "titleEn": "1:26",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִ֕ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֛י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִֽהְיֶה־לּ֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גֹּאֵ֑ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִשִּׂ֣יגָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָד֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמָצָ֖א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּדֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גְאֻלָּתֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-27",
+      "title": "1:27",
+      "titleEn": "1:27",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְחִשַּׁב֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־שְׁנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמְכָּר֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהֵשִׁיב֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָ֣עֹדֵ֔ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָאִ֖ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מָֽכַר־ל֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשָׁ֖ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַאֲחֻזָּתֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-28",
+      "title": "1:28",
+      "titleEn": "1:28",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִ֨ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹֽא־מָצְאָ֜ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָד֗וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דֵּי֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָשִׁ֣יב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לוֹ֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָיָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמְכָּר֗וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּיַד֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַקֹּנֶ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁנַ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיּוֹבֵ֑ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיָצָא֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּיֹּבֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשָׁ֖ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַאֲחֻזָּתֽוֹ׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-29",
+      "title": "1:29",
+      "titleEn": "1:29",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִ֗ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־יִמְכֹּ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֵּית־מוֹשַׁב֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִ֣יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חוֹמָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָיְתָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גְּאֻלָּת֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַד־תֹּ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁנַ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמְכָּר֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָמִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּהְיֶ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גְאֻלָּתֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-30",
+      "title": "1:30",
+      "titleEn": "1:30",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹֽא־יִגָּאֵ֗ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַד־מְלֹ֣את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לוֹ֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁנָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְמִימָה֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְ֠קָ֠ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַבַּ֨יִת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־בָּעִ֜יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־[ל֣וֹ]",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "(לא)",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֹמָ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַצְּמִיתֻ֛ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַקֹּנֶ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְדֹרֹתָ֑יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֵצֵ֖א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּיֹּבֵֽל׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-31",
+      "title": "1:31",
+      "titleEn": "1:31",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּבָתֵּ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַחֲצֵרִ֗ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵין־לָהֶ֤ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֹמָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סָבִ֔יב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־שְׂדֵ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֖רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֵחָשֵׁ֑ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גְּאֻלָּה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּהְיֶה־לּ֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבַיֹּבֵ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֵצֵֽא׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-32",
+      "title": "1:32",
+      "titleEn": "1:32",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְעָרֵי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַלְוִיִּ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּתֵּ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָרֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲחֻזָּתָ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גְּאֻלַּ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עוֹלָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּהְיֶ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַלְוִיִּֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-33",
+      "title": "1:33",
+      "titleEn": "1:33",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַאֲשֶׁ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִגְאַל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הַלְוִיִּ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיָצָ֧א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמְכַּר־בַּ֛יִת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעִ֥יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲחֻזָּת֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּיֹּבֵ֑ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָתֵּ֞י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָרֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַלְוִיִּ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִ֚וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲחֻזָּתָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּת֖וֹךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵֽל׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-34",
+      "title": "1:34",
+      "titleEn": "1:34",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּֽשְׂדֵ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִגְרַ֥שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָרֵיהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִמָּכֵ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־אֲחֻזַּ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עוֹלָ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ה֖וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָהֶֽם׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-35",
+      "title": "1:35",
+      "titleEn": "1:35",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְכִֽי־יָמ֣וּךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָחִ֔יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמָ֥טָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָד֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִמָּ֑ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהֶֽחֱזַ֣קְתָּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בּ֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גֵּ֧ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְתוֹשָׁ֛ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָחַ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִמָּֽךְ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-36",
+      "title": "1:36",
+      "titleEn": "1:36",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אַל־תִּקַּ֤ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵֽאִתּוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֶ֣שֶׁךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְתַרְבִּ֔ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיָרֵ֖אתָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵֽאֱלֹהֶ֑יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְחֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָחִ֖יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִמָּֽךְ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-37",
+      "title": "1:37",
+      "titleEn": "1:37",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֶ֨ת־כַּסְפְּךָ֔",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹֽא־תִתֵּ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ל֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֶ֑שֶׁךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבְמַרְבִּ֖ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹא־תִתֵּ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אׇכְלֶֽךָ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-38",
+      "title": "1:38",
+      "titleEn": "1:38",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֲנִ֗י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹ֣הֵיכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־הוֹצֵ֥אתִי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאֶ֣רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִצְרָ֑יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָתֵ֤ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־אֶ֣רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּנַ֔עַן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִהְי֥וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאלֹהִֽים׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-39",
+      "title": "1:39",
+      "titleEn": "1:39",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְכִֽי־יָמ֥וּךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָחִ֛יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִמָּ֖ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנִמְכַּר־לָ֑ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹא־תַעֲבֹ֥ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בּ֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲבֹ֥דַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָֽבֶד׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-40",
+      "title": "1:40",
+      "titleEn": "1:40",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כְּשָׂכִ֥יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּתוֹשָׁ֖ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְיֶ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִמָּ֑ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַד־שְׁנַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיֹּבֵ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַעֲבֹ֥ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִמָּֽךְ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-41",
+      "title": "1:41",
+      "titleEn": "1:41",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְיָצָא֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵֽעִמָּ֔ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ה֖וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבָנָ֣יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִמּ֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשָׁב֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מִשְׁפַּחְתּ֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶל־אֲחֻזַּ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲבֹתָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָשֽׁוּב׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-42",
+      "title": "1:42",
+      "titleEn": "1:42",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כִּֽי־עֲבָדַ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֵ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־הוֹצֵ֥אתִי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאֶ֣רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִצְרָ֑יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִמָּכְר֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמְכֶּ֥רֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָֽבֶד׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-43",
+      "title": "1:43",
+      "titleEn": "1:43",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לֹא־תִרְדֶּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ב֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּפָ֑רֶךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיָרֵ֖אתָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאֱלֹהֶֽיךָ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-44",
+      "title": "1:44",
+      "titleEn": "1:44",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְעַבְדְּךָ֥",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַאֲמָתְךָ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְיוּ־לָ֑ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאֵ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַגּוֹיִ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סְבִיבֹ֣תֵיכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵהֶ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּקְנ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶ֥בֶד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאָמָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-45",
+      "title": "1:45",
+      "titleEn": "1:45",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְ֠גַ֠ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִבְּנֵ֨י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַתּוֹשָׁבִ֜ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַגָּרִ֤ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִמָּכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵהֶ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּקְנ֔וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִמִּשְׁפַּחְתָּם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִמָּכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הוֹלִ֖ידוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאַרְצְכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָי֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽאֲחֻזָּֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-46",
+      "title": "1:46",
+      "titleEn": "1:46",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהִתְנַחַלְתֶּ֨ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֜ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִבְנֵיכֶ֤ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַחֲרֵיכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָרֶ֣שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲחֻזָּ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְעֹלָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּהֶ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּעֲבֹ֑דוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבְאַ֨חֵיכֶ֤ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵֽי־יִשְׂרָאֵל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֣ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאָחִ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹא־תִרְדֶּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ב֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּפָֽרֶךְ׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-47",
+      "title": "1:47",
+      "titleEn": "1:47",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְכִ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַשִּׂ֗יג",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַ֣ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גֵּ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְתוֹשָׁב֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִמָּ֔ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמָ֥ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָחִ֖יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִמּ֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנִמְכַּ֗ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְגֵ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תּוֹשָׁב֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִמָּ֔ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֥וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְעֵ֖קֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִשְׁפַּ֥חַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גֵּֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-48",
+      "title": "1:48",
+      "titleEn": "1:48",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אַחֲרֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נִמְכַּ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גְּאֻלָּ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּהְיֶה־לּ֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶחָ֥ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאֶחָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִגְאָלֶֽנּוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-49",
+      "title": "1:49",
+      "titleEn": "1:49",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אוֹ־דֹד֞וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֤וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶן־דֹּדוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִגְאָלֶ֔נּוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֽוֹ־מִשְּׁאֵ֧ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּשָׂר֛וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמִּשְׁפַּחְתּ֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִגְאָלֶ֑נּוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֽוֹ־הִשִּׂ֥יגָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָד֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנִגְאָֽל׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-50",
+      "title": "1:50",
+      "titleEn": "1:50",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְחִשַּׁב֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִם־קֹנֵ֔הוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִשְּׁנַת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִמָּ֣כְרוֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ל֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁנַ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיֹּבֵ֑ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָיָ֞ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֶּ֤סֶף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמְכָּרוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּמִסְפַּ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁנִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּימֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׂכִ֖יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְיֶ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִמּֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-51",
+      "title": "1:51",
+      "titleEn": "1:51",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אִם־ע֥וֹד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רַבּ֖וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּשָּׁנִ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְפִיהֶן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָשִׁ֣יב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גְּאֻלָּת֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִכֶּ֖סֶף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקְנָתֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-52",
+      "title": "1:52",
+      "titleEn": "1:52",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם־מְעַ֞ט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נִשְׁאַ֧ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּשָּׁנִ֛ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַד־שְׁנַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיֹּבֵ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְחִשַּׁב־ל֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּפִ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁנָ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָשִׁ֖יב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־גְּאֻלָּתֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-53",
+      "title": "1:53",
+      "titleEn": "1:53",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כִּשְׂכִ֥יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁנָ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּשָׁנָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְיֶ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִמּ֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹֽא־יִרְדֶּ֥נּֽוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּפֶ֖רֶךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְעֵינֶֽיךָ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-54",
+      "title": "1:54",
+      "titleEn": "1:54",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם־לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִגָּאֵ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאֵ֑לֶּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיָצָא֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּשְׁנַ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיֹּבֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ה֖וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבָנָ֥יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִמּֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-1-55",
+      "title": "1:55",
+      "titleEn": "1:55",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כִּֽי־לִ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְנֵֽי־יִשְׂרָאֵל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲבָדִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲבָדַ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֵ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־הוֹצֵ֥אתִי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אוֹתָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאֶ֣רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִצְרָ֑יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹהֵיכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-1",
+      "title": "2:1",
+      "titleEn": "2:1",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לֹֽא־תַעֲשׂ֨וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֜ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלִילִ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּפֶ֤סֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמַצֵּבָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹֽא־תָקִ֣ימוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶ֣בֶן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַשְׂכִּ֗ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֤א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִתְּנוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאַרְצְכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְהִֽשְׁתַּחֲוֺ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלֶ֑יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֛י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹהֵיכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-2",
+      "title": "2:2",
+      "titleEn": "2:2",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֶת־שַׁבְּתֹתַ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּשְׁמֹ֔רוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִקְדָּשִׁ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּירָ֑אוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָֽה׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-3",
+      "title": "2:3",
+      "titleEn": "2:3",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אִם־בְּחֻקֹּתַ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֵּלֵ֑כוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־מִצְוֺתַ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּשְׁמְר֔וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַעֲשִׂיתֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-4",
+      "title": "2:4",
+      "titleEn": "2:4",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְנָתַתִּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גִשְׁמֵיכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּעִתָּ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנָתְנָ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֙רֶץ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְבוּלָ֔הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעֵ֥ץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשָּׂדֶ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִתֵּ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פִּרְיֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-5",
+      "title": "2:5",
+      "titleEn": "2:5",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהִשִּׂ֨יג",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דַּ֙יִשׁ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בָּצִ֔יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבָצִ֖יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַשִּׂ֣יג",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־זָ֑רַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַאֲכַלְתֶּ֤ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַחְמְכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָשֹׂ֔בַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וִֽישַׁבְתֶּ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָבֶ֖טַח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאַרְצְכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-6",
+      "title": "2:6",
+      "titleEn": "2:6",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְנָתַתִּ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁלוֹם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּאָ֔רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּשְׁכַבְתֶּ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵ֣ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַחֲרִ֑יד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִשְׁבַּתִּ֞י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חַיָּ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רָעָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הָאָ֔רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְחֶ֖רֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹא־תַעֲבֹ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאַרְצְכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-7",
+      "title": "2:7",
+      "titleEn": "2:7",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּרְדַפְתֶּ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־אֹיְבֵיכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנָפְל֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵיכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֶחָֽרֶב׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-8",
+      "title": "2:8",
+      "titleEn": "2:8",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְרָדְפ֨וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִכֶּ֤ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲמִשָּׁה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמֵאָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִכֶּ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רְבָבָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִרְדֹּ֑פוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנָפְל֧וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹיְבֵיכֶ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵיכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֶחָֽרֶב׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-9",
+      "title": "2:9",
+      "titleEn": "2:9",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּפָנִ֣יתִי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲלֵיכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִפְרֵיתִ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִרְבֵּיתִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַהֲקִימֹתִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בְּרִיתִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִתְּכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-10",
+      "title": "2:10",
+      "titleEn": "2:10",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַאֲכַלְתֶּ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָשָׁ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נוֹשָׁ֑ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיָשָׁ֕ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִפְּנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חָדָ֖שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תּוֹצִֽיאוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-11",
+      "title": "2:11",
+      "titleEn": "2:11",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְנָתַתִּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִשְׁכָּנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּתוֹכְכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹֽא־תִגְעַ֥ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נַפְשִׁ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-12",
+      "title": "2:12",
+      "titleEn": "2:12",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהִתְהַלַּכְתִּי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּת֣וֹכְכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָיִ֥יתִי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵֽאלֹהִ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַתֶּ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּהְיוּ־לִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְעָֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-13",
+      "title": "2:13",
+      "titleEn": "2:13",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֲנִ֞י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹֽהֵיכֶ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הוֹצֵ֤אתִי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאֶ֣רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִצְרַ֔יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִֽהְיֹ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲבָדִ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָאֶשְׁבֹּר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹטֹ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֻלְּכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָאוֹלֵ֥ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קֽוֹמְמִיּֽוּת׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-14",
+      "title": "2:14",
+      "titleEn": "2:14",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם־לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִשְׁמְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִ֑י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַעֲשׂ֔וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־הַמִּצְוֺ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֵֽלֶּה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-15",
+      "title": "2:15",
+      "titleEn": "2:15",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם־בְּחֻקֹּתַ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "��ִּמְאָ֔סוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאִ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מִשְׁפָּטַ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּגְעַ֣ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נַפְשְׁכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְבִלְתִּ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲשׂוֹת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־כׇּל־מִצְוֺתַ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְהַפְרְכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בְּרִיתִֽי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-16",
+      "title": "2:16",
+      "titleEn": "2:16",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אַף־אֲנִ֞י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶֽעֱשֶׂה־זֹּ֣את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִפְקַדְתִּ֨י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲלֵיכֶ֤ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּֽהָלָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַשַּׁחֶ֣פֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־הַקַּדַּ֔חַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְכַלּ֥וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֵינַ֖יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמְדִיבֹ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נָ֑פֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּזְרַעְתֶּ֤ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָרִיק֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זַרְעֲכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַאֲכָלֻ֖הוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹיְבֵיכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-17",
+      "title": "2:17",
+      "titleEn": "2:17",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְנָתַתִּ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פָנַי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנִגַּפְתֶּ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹיְבֵיכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְרָד֤וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֹֽׂנְאֵיכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנַסְתֶּ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵין־רֹדֵ֥ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-18",
+      "title": "2:18",
+      "titleEn": "2:18",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִ֨ם־עַד־אֵ֔לֶּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִשְׁמְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִ֑י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיָסַפְתִּי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְיַסְּרָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֶׁ֖בַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־חַטֹּאתֵיכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-19",
+      "title": "2:19",
+      "titleEn": "2:19",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְשָׁבַרְתִּ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־גְּא֣וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֻזְּכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנָתַתִּ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־שְׁמֵיכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּבַּרְזֶ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶֽת־אַרְצְכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּנְּחֻשָֽׁה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-20",
+      "title": "2:20",
+      "titleEn": "2:20",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְתַ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָרִ֖יק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֹּחֲכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹֽא־תִתֵּ֤ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַרְצְכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־יְבוּלָ֔הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעֵ֣ץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֔רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִתֵּ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פִּרְיֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-21",
+      "title": "2:21",
+      "titleEn": "2:21",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם־תֵּֽלְכ֤וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִמִּי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קֶ֔רִי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֹאב֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִשְׁמֹ֣עַֽ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִ֑י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיָסַפְתִּ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲלֵיכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַכָּ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֶׁ֖בַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּחַטֹּאתֵיכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-22",
+      "title": "2:22",
+      "titleEn": "2:22",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהִשְׁלַחְתִּ֨י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָכֶ֜ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־חַיַּ֤ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשָּׂדֶה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשִׁכְּלָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִכְרִ֙יתָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בְּהֶמְתְּכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִמְעִ֖יטָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנָשַׁ֖מּוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דַּרְכֵיכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-23",
+      "title": "2:23",
+      "titleEn": "2:23",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִ֨ם־בְּאֵ֔לֶּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִוָּסְר֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִ֑י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַהֲלַכְתֶּ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִמִּ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קֶֽרִי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-24",
+      "title": "2:24",
+      "titleEn": "2:24",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהָלַכְתִּ֧י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַף־אֲנִ֛י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִמָּכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּקֶ֑רִי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִכֵּיתִ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גַּם־אָ֔נִי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֶׁ֖בַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־חַטֹּאתֵיכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-25",
+      "title": "2:25",
+      "titleEn": "2:25",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהֵבֵאתִ֨י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲלֵיכֶ֜ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֶ֗רֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֹקֶ֙מֶת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נְקַם־בְּרִ֔ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנֶאֱסַפְתֶּ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־עָרֵיכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשִׁלַּ֤חְתִּי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דֶ֙בֶר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּת֣וֹכְכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנִתַּתֶּ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּיַד־אוֹיֵֽב׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-26",
+      "title": "2:26",
+      "titleEn": "2:26",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "בְּשִׁבְרִ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶם֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַטֵּה־לֶ֒חֶם֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְ֠אָפ֠וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶ֣שֶׂר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נָשִׁ֤ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַחְמְכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּתַנּ֣וּר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶחָ֔ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהֵשִׁ֥יבוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַחְמְכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּמִּשְׁקָ֑ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַאֲכַלְתֶּ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִשְׂבָּֽעוּ׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-27",
+      "title": "2:27",
+      "titleEn": "2:27",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִ֨ם־בְּזֹ֔את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִשְׁמְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִ֑י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַהֲלַכְתֶּ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִמִּ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּקֶֽרִי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-28",
+      "title": "2:28",
+      "titleEn": "2:28",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהָלַכְתִּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִמָּכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּחֲמַת־קֶ֑רִי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיִסַּרְתִּ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַף־אָ֔נִי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֶׁ֖בַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־חַטֹּאתֵיכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-29",
+      "title": "2:29",
+      "titleEn": "2:29",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַאֲכַלְתֶּ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּשַׂ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵיכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבְשַׂ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֹתֵיכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֹּאכֵֽלוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-30",
+      "title": "2:30",
+      "titleEn": "2:30",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהִשְׁמַדְתִּ֞י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בָּמֹֽתֵיכֶ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִכְרַתִּי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־חַמָּ֣נֵיכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנָֽתַתִּי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־פִּגְרֵיכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־פִּגְרֵ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גִּלּוּלֵיכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְגָעֲלָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נַפְשִׁ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-31",
+      "title": "2:31",
+      "titleEn": "2:31",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְנָתַתִּ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־עָֽרֵיכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חׇרְבָּ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַהֲשִׁמּוֹתִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מִקְדְּשֵׁיכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָרִ֔יחַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּרֵ֖יחַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נִיחֹֽחֲכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-32",
+      "title": "2:32",
+      "titleEn": "2:32",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַהֲשִׁמֹּתִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָאָ֑רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשָֽׁמְמ֤וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלֶ֙יהָ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹֽיְבֵיכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיֹּשְׁבִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּֽהּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-33",
+      "title": "2:33",
+      "titleEn": "2:33",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאֶתְכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱזָרֶ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַגּוֹיִ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַהֲרִיקֹתִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַחֲרֵיכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חָ֑רֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָיְתָ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַרְצְכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁמָמָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעָרֵיכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְי֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חׇרְבָּֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-34",
+      "title": "2:34",
+      "titleEn": "2:34",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אָז֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּרְצֶ֨ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֜רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־שַׁבְּתֹתֶ֗יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֹּ֚ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְמֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הׇשַּׁמָּ֔הֿ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַתֶּ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאֶ֣רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹיְבֵיכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָ֚ז",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּשְׁבַּ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֔רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִרְצָ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־שַׁבְּתֹתֶֽיהָ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-35",
+      "title": "2:35",
+      "titleEn": "2:35",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כׇּל־יְמֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הׇשַּׁמָּ֖הֿ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּשְׁבֹּ֑ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֧ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹֽא־שָׁבְתָ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּשַׁבְּתֹתֵיכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּשִׁבְתְּכֶ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלֶֽיהָ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-36",
+      "title": "2:36",
+      "titleEn": "2:36",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהַנִּשְׁאָרִ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהֵבֵ֤אתִי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹ֙רֶךְ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּלְבָבָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאַרְצֹ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹיְבֵיהֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְרָדַ֣ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ק֚וֹל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלֶ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נִדָּ֔ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנָס֧וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְנֻֽסַת־חֶ֛רֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנָפְל֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵ֥ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֹדֵֽף׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-37",
+      "title": "2:37",
+      "titleEn": "2:37",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְכָשְׁל֧וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִישׁ־בְּאָחִ֛יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּמִפְּנֵי־חֶ֖רֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְרֹדֵ֣ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָ֑יִן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹא־תִֽהְיֶ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּקוּמָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹֽיְבֵיכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-38",
+      "title": "2:38",
+      "titleEn": "2:38",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַאֲבַדְתֶּ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּגּוֹיִ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאָכְלָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶ֖רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹיְבֵיכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-39",
+      "title": "2:39",
+      "titleEn": "2:39",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהַנִּשְׁאָרִ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּכֶ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִמַּ֙קּוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּֽעֲוֺנָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאַרְצֹ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹיְבֵיכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַ֛ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּעֲוֺנֹ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲבֹתָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִתָּ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִמָּֽקּוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-40",
+      "title": "2:40",
+      "titleEn": "2:40",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהִתְוַדּ֤וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־עֲוֺנָם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־עֲוֺ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲבֹתָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּמַעֲלָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מָֽעֲלוּ־בִ֑י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַ֕ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־הָֽלְכ֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִמִּ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּקֶֽרִי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-41",
+      "title": "2:41",
+      "titleEn": "2:41",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אַף־אֲנִ֗י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵלֵ֤ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִמָּם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּקֶ֔רִי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהֵבֵאתִ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאֶ֖רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹיְבֵיהֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אוֹ־אָ֣ז",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִכָּנַ֗ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְבָבָם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֶֽעָרֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאָ֖ז",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִרְצ֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־עֲוֺנָֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-42",
+      "title": "2:42",
+      "titleEn": "2:42",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְזָכַרְתִּ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בְּרִיתִ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַעֲק֑וֹב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַף֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בְּרִיתִ֨י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִצְחָ֜ק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַ֨ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בְּרִיתִ֧י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַבְרָהָ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶזְכֹּ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָאָ֥רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶזְכֹּֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-43",
+      "title": "2:43",
+      "titleEn": "2:43",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהָאָ֩רֶץ֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֵּעָזֵ֨ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵהֶ֜ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְתִ֣רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־שַׁבְּתֹתֶ֗יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בׇּהְשַׁמָּהֿ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵהֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהֵ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִרְצ֣וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־עֲוֺנָ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַ֣עַן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבְיַ֔עַן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּמִשְׁפָּטַ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מָאָ֔סוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־חֻקֹּתַ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גָּעֲלָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נַפְשָֽׁם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-44",
+      "title": "2:44",
+      "titleEn": "2:44",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאַף־גַּם־זֹ֠את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּֽהְיוֹתָ֞ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאֶ֣רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹֽיְבֵיהֶ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹֽא־מְאַסְתִּ֤ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹֽא־גְעַלְתִּים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְכַלֹּתָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְהָפֵ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּרִיתִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִתָּ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֛י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹהֵיהֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-45",
+      "title": "2:45",
+      "titleEn": "2:45",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְזָכַרְתִּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּרִ֣ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רִאשֹׁנִ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הוֹצֵֽאתִי־אֹתָם֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאֶ֨רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִצְרַ֜יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְעֵינֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַגּוֹיִ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִהְי֥וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָהֶ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאלֹהִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Behar-2-46",
+      "title": "2:46",
+      "titleEn": "2:46",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֵ֠לֶּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַֽחֻקִּ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהַמִּשְׁפָּטִים֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהַתּוֹרֹת֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נָתַ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֵּינ֕וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבֵ֖ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֑ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּהַ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סִינַ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּיַד־מֹשֶֽׁה׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3433 @@
+{
+  "id": "Haazinu",
+  "slug": "haazinu",
+  "nameHeb": "דברים",
+  "nameEn": "Haazinu",
+  "nusach": "torah",
+  "timeOfDay": "any",
+  "totalDuration": 0,
+  "audioUrl": "",
+  "sections": [
+    {
+      "id": "Haazinu-1-1",
+      "title": "1:1",
+      "titleEn": "1:1",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "הַאֲזִ֥ינוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשָּׁמַ֖יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַאֲדַבֵּ֑רָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְתִשְׁמַ֥ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֖רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִמְרֵי־פִֽי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-2",
+      "title": "1:2",
+      "titleEn": "1:2",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "יַעֲרֹ֤ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּמָּטָר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִקְחִ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּזַּ֥ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּטַּ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִמְרָתִ֑י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּשְׂעִירִ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲלֵי־דֶ֔שֶׁא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכִרְבִיבִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲלֵי־עֵֽשֶׂב׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-3",
+      "title": "1:3",
+      "titleEn": "1:3",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כִּ֛י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֵׁ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶקְרָ֑א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָב֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גֹ֖דֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאלֹהֵֽינוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-4",
+      "title": "1:4",
+      "titleEn": "1:4",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "הַצּוּר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תָּמִ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פׇּֽעֳל֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇל־דְּרָכָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִשְׁפָּ֑ט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֤ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱמוּנָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵ֣ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָ֔וֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צַדִּ֥יק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיָשָׁ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֽוּא׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-5",
+      "title": "1:5",
+      "titleEn": "1:5",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "שִׁחֵ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ל֛וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֖א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּנָ֣יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוּמָ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דּ֥וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִקֵּ֖שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּפְתַלְתֹּֽל׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-6",
+      "title": "1:6",
+      "titleEn": "1:6",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "הַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְיְהֹוָה֙*(בספרי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תימן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַֽלְיהֹ��ָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בתיבה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אחת)",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּגְמְלוּ־זֹ֔את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נָבָ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חָכָ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֲלוֹא־הוּא֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָבִ֣יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קָּנֶ֔ךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ה֥וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָשְׂךָ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיְכֹנְנֶֽךָ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-7",
+      "title": "1:7",
+      "titleEn": "1:7",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "זְכֹר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְמ֣וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עוֹלָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּ֖ינוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁנ֣וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דֹּר־וָדֹ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁאַ֤ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָבִ֙יךָ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיַגֵּ֔דְךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זְקֵנֶ֖יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיֹ֥אמְרוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָֽךְ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-8",
+      "title": "1:8",
+      "titleEn": "1:8",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "בְּהַנְחֵ֤ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶלְיוֹן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גּוֹיִ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּהַפְרִיד֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָדָ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַצֵּב֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גְּבֻלֹ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַמִּ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְמִסְפַּ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵֽל׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-9",
+      "title": "1:9",
+      "titleEn": "1:9",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כִּ֛י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֵ֥לֶק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַמּ֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַעֲקֹ֖ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֶ֥בֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נַחֲלָתֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-10",
+      "title": "1:10",
+      "titleEn": "1:10",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "יִמְצָאֵ֙הוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאֶ֣רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִדְבָּ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבְתֹ֖הוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְלֵ֣ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְשִׁמֹ֑ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְסֹבְבֶ֙נְהוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְב֣וֹנְנֵ֔הוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִצְּרֶ֖נְהוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּאִישׁ֥וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֵינֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-11",
+      "title": "1:11",
+      "titleEn": "1:11",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כְּנֶ֙שֶׁר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָעִ֣יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קִנּ֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־גּוֹזָלָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְרַחֵ֑ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִפְרֹ֤שׂ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּנָפָיו֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִקָּחֵ֔הוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשָּׂאֵ֖הוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־אֶבְרָתֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-12",
+      "title": "1:12",
+      "titleEn": "1:12",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּדָ֣ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַנְחֶ֑נּוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵ֥ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִמּ֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֥ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֵכָֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-13",
+      "title": "1:13",
+      "titleEn": "1:13",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "יַרְכִּבֵ֙הוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־[בָּ֣מֳתֵי]",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "(במותי)",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָ֔רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיֹּאכַ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּנוּבֹ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׂדָ֑י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיֵּנִקֵ֤הֽוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דְבַשׁ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִסֶּ֔לַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשֶׁ֖מֶן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵחַלְמִ֥ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צֽוּר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-14",
+      "title": "1:14",
+      "titleEn": "1:14",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "חֶמְאַ֨ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּקָ֜ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַחֲלֵ֣ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צֹ֗אן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִם־חֵ֨לֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כָּרִ֜ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵילִ֤ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵֽי־בָשָׁן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעַתּוּדִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִם־חֵ֖לֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּלְי֣וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חִטָּ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְדַם־עֵנָ֖ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּשְׁתֶּה־חָֽמֶר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-15",
+      "title": "1:15",
+      "titleEn": "1:15",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּשְׁמַ֤ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְשֻׁרוּן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּבְעָ֔ט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁמַ֖נְתָּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָבִ֣יתָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כָּשִׂ֑יתָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּטֹּשׁ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱל֣וֹהַּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָשָׂ֔הוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיְנַבֵּ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צ֥וּר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְשֻׁעָתֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-16",
+      "title": "1:16",
+      "titleEn": "1:16",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "יַקְנִאֻ֖הוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּזָרִ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּתוֹעֵבֹ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "י��כְעִיסֻֽהוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-17",
+      "title": "1:17",
+      "titleEn": "1:17",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "יִזְבְּח֗וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַשֵּׁדִים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹ֔הַּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹהִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְדָע֑וּם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲדָשִׁים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקָּרֹ֣ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּ֔אוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׂעָר֖וּם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲבֹתֵיכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-18",
+      "title": "1:18",
+      "titleEn": "1:18",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "צ֥וּר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְלָדְךָ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֶּ֑שִׁי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַתִּשְׁכַּ֖ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֥ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְחֹלְלֶֽךָ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-19",
+      "title": "1:19",
+      "titleEn": "1:19",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיַּ֥רְא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּנְאָ֑ץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִכַּ֥עַס",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּנָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבְנֹתָֽיו׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-20",
+      "title": "1:20",
+      "titleEn": "1:20",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֹּ֗אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַסְתִּ֤ירָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פָנַי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵהֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶרְאֶ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַחֲרִיתָ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ד֤וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּהְפֻּכֹת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֵ֔מָּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּנִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹא־אֵמֻ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-21",
+      "title": "1:21",
+      "titleEn": "1:21",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "הֵ֚ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קִנְא֣וּנִי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְלֹא־אֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּעֲס֖וּנִי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּהַבְלֵיהֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽאֲנִי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַקְנִיאֵ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּלֹא־עָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּג֥וֹי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נָבָ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַכְעִיסֵֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-22",
+      "title": "1:22",
+      "titleEn": "1:22",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כִּי־אֵשׁ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קָדְחָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְאַפִּ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַתִּיקַ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַד־שְׁא֣וֹל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּחְתִּ֑ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַתֹּ֤אכַל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶ֙רֶץ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וִֽיבֻלָ֔הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַתְּלַהֵ֖ט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹסְדֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָרִֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-23",
+      "title": "1:23",
+      "titleEn": "1:23",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אַסְפֶּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלֵ֖ימוֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רָע֑וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חִצַּ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲכַלֶּה־בָּֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-24",
+      "title": "1:24",
+      "titleEn": "1:24",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "מְזֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רָעָ֛ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּלְחֻ֥מֵי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֶ֖שֶׁף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְקֶ֣טֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְרִירִ֑י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשֶׁן־בְּהֵמֹת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשַׁלַּח־בָּ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִם־חֲמַ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זֹחֲלֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָפָֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-25",
+      "title": "1:25",
+      "titleEn": "1:25",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "מִחוּץ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּשַׁכֶּל־חֶ֔רֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמֵחֲדָרִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵימָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גַּם־בָּחוּר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גַּם־בְּתוּלָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוֹנֵ֖ק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִם־אִ֥ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֵׂיבָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-26",
+      "title": "1:26",
+      "titleEn": "1:26",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אָמַ֖רְתִּי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַפְאֵיהֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַשְׁבִּ֥יתָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאֱנ֖וֹשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זִכְרָֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-27",
+      "title": "1:27",
+      "titleEn": "1:27",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לוּלֵ֗י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּ֤עַס",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אוֹיֵב֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָג֔וּר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פֶּֽן־יְנַכְּר֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צָרֵ֑ימוֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פֶּן־יֹֽאמְרוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָדֵ֣נוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רָ֔מָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פָּעַ֥ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־זֹֽאת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-28",
+      "title": "1:28",
+      "titleEn": "1:28",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כִּי־ג֛וֹי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹבַ֥ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֵצ֖וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֵ֑מָּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵ֥ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּבוּנָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-29",
+      "title": "1:29",
+      "titleEn": "1:29",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "ל֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חָכְמ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַשְׂכִּ֣ילוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זֹ֑את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָבִ֖ינוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְאַחֲרִיתָֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-30",
+      "title": "1:30",
+      "titleEn": "1:30",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֵיכָ֞ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִרְדֹּ֤ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶחָד֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶ֔לֶף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּשְׁנַ֖יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָנִ֣יסוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רְבָבָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִם־לֹא֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־צוּרָ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְכָרָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִסְגִּירָֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-31",
+      "title": "1:31",
+      "titleEn": "1:31",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כִּ֛י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְצוּרֵ֖נוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צוּרָ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֹיְבֵ֖ינוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פְּלִילִֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-32",
+      "title": "1:32",
+      "titleEn": "1:32",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כִּֽי־מִגֶּ֤פֶן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סְדֹם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גַּפְנָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִשַּׁדְמֹ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲמֹרָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲנָבֵ֙מוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִנְּבֵי־ר֔וֹשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַשְׁכְּלֹ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְרֹרֹ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָֽמוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-33",
+      "title": "1:33",
+      "titleEn": "1:33",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "חֲמַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּנִּינִ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֵינָ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְרֹ֥אשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פְּתָנִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַכְזָֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-34",
+      "title": "1:34",
+      "titleEn": "1:34",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "הֲלֹא־ה֖וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כָּמֻ֣ס",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִמָּדִ֑י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חָת֖וּם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאוֹצְרֹתָֽי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-35",
+      "title": "1:35",
+      "titleEn": "1:35",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לִ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נָקָם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשִׁלֵּ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְעֵ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תָּמ֣וּט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רַגְלָ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קָרוֹב֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "י֣וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵידָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְחָ֖שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲתִדֹ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָֽמוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-36",
+      "title": "1:36",
+      "titleEn": "1:36",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כִּֽי־יָדִ֤ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַמּ֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעַל־עֲבָדָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִתְנֶחָ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִרְאֶה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־אָ֣זְלַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָ֔ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶ֖פֶס",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָצ֥וּר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעָזֽוּב׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-37",
+      "title": "1:37",
+      "titleEn": "1:37",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאָמַ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹהֵ֑ימוֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צ֖וּר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חָסָ֥יוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-38",
+      "title": "1:38",
+      "titleEn": "1:38",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֵ֤לֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זְבָחֵ֙ימוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֹאכֵ֔לוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׁתּ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֵ֣ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נְסִיכָ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָק֙וּמוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיַעְזְרֻכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲלֵיכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סִתְרָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-39",
+      "title": "1:39",
+      "titleEn": "1:39",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "רְא֣וּ&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַתָּ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ה֔וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵ֥ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹהִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִמָּדִ֑י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֧י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָמִ֣ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַאֲחַיֶּ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מָחַ֙צְתִּי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַאֲנִ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶרְפָּ֔א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵ֥ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִיָּדִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַצִּֽיל׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-40",
+      "title": "1:40",
+      "titleEn": "1:40",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כִּֽי־אֶשָּׂ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־שָׁמַ֖יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָדִ֑י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאָמַ֕רְתִּי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חַ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָנֹכִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְעֹלָֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-41",
+      "title": "1:41",
+      "titleEn": "1:41",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אִם־שַׁנּוֹתִי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּרַ֣ק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חַרְבִּ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְתֹאחֵ֥ז",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּמִשְׁפָּ֖ט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָדִ֑י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָשִׁ֤יב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נָקָם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְצָרָ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלִמְשַׂנְאַ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשַׁלֵּֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-42",
+      "title": "1:42",
+      "titleEn": "1:42",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אַשְׁכִּ֤יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חִצַּי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִדָּ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְחַרְבִּ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֹּאכַ֣ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּשָׂ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִדַּ֤ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חָלָל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשִׁבְיָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵרֹ֖אשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פַּרְע֥וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אוֹיֵֽב׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-43",
+      "title": "1:43",
+      "titleEn": "1:43",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "הַרְנִ֤ינוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גוֹיִם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַמּ֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ד��ם־עֲבָדָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִקּ֑וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנָקָם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָשִׁ֣יב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְצָרָ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכִפֶּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַדְמָת֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַמּֽוֹ׃",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-44",
+      "title": "1:44",
+      "titleEn": "1:44",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיָּבֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיְדַבֵּ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־כׇּל־דִּבְרֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשִּׁירָֽה־הַזֹּ֖את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאׇזְנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעָ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ה֖וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהוֹשֵׁ֥עַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּן־נֽוּן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-45",
+      "title": "1:45",
+      "titleEn": "1:45",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְכַ֣ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְדַבֵּ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־כׇּל־הַדְּבָרִ֥ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֵ֖לֶּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־כׇּל־יִשְׂרָאֵֽל׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-46",
+      "title": "1:46",
+      "titleEn": "1:46",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֹּ֤אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲלֵהֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׂ֣ימוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְבַבְכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְכׇ֨ל־הַדְּבָרִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֧ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָנֹכִ֛י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵעִ֥יד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיּ֑וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּצַוֻּם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בְּנֵיכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִשְׁמֹ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַעֲשׂ֔וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־כׇּל־דִּבְרֵ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַתּוֹרָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזֹּֽאת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-47",
+      "title": "1:47",
+      "titleEn": "1:47",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כִּ֠י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹא־דָבָ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֵ֥ק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הוּא֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִכֶּ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּי־ה֖וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חַיֵּיכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבַדָּבָ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזֶּ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּאֲרִ֤יכוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָמִים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־הָ֣אֲדָמָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַתֶּ֜ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֹבְרִ֧ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַיַּרְדֵּ֛ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁ֖מָּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְרִשְׁתָּֽהּ׃",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-48",
+      "title": "1:48",
+      "titleEn": "1:48",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְדַבֵּ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּעֶ֛צֶם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיּ֥וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזֶּ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאמֹֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-49",
+      "title": "1:49",
+      "titleEn": "1:49",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "עֲלֵ֡ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הַר֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעֲבָרִ֨ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזֶּ֜ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַר־נְב֗וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאֶ֣רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹאָ֔ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־פְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְרֵח֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּרְאֵה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־אֶ֣רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּנַ֔עַן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֹתֵ֛ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִבְנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַאֲחֻזָּֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-50",
+      "title": "1:50",
+      "titleEn": "1:50",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּמֻ֗ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּהָר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַתָּה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֹלֶ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁ֔מָּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהֵאָסֵ֖ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־עַמֶּ֑יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּֽאֲשֶׁר־מֵ֞ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַהֲרֹ֤ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָחִ֙יךָ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּהֹ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָהָ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיֵּאָ֖סֶף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־עַמָּֽיו׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-51",
+      "title": "1:51",
+      "titleEn": "1:51",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "עַל֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְעַלְתֶּ֜ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּ֗י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּתוֹךְ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּמֵֽי־מְרִיבַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קָדֵ֖שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִדְבַּר־צִ֑ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֣ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹֽא־קִדַּשְׁתֶּם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אוֹתִ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּת֖וֹךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵֽל׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Haazinu-1-52",
+      "title": "1:52",
+      "titleEn": "1:52",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כִּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִנֶּ֖גֶד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּרְאֶ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָאָ֑רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשָׁ֙מָּה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תָב֔וֹא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הָאָ֕רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־אֲנִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֹתֵ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִבְנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂר��אֵֽל׃",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    }
+  ]
+}

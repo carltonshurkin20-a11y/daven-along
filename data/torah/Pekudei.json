@@ -1,0 +1,7483 @@
+{
+  "id": "Pekudei",
+  "slug": "pekudei",
+  "nameHeb": "שמות",
+  "nameEn": "Pekudei",
+  "nusach": "torah",
+  "timeOfDay": "any",
+  "totalDuration": 0,
+  "audioUrl": "",
+  "sections": [
+    {
+      "id": "Pekudei-1-1",
+      "title": "1:1",
+      "titleEn": "1:1",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיַּ֛עַשׂ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מִזְבַּ֥ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעֹלָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲצֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁטִּ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חָמֵשׁ֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַמּ֨וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אׇרְכּ֜וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְחָֽמֵשׁ־אַמּ֤וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רׇחְבּוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רָב֔וּעַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשָׁלֹ֥שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַמּ֖וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קֹמָתֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-1-2",
+      "title": "1:2",
+      "titleEn": "1:2",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיַּ֣עַשׂ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קַרְנֹתָ֗יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֚ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַרְבַּ֣ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פִּנֹּתָ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמֶּ֖נּוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָי֣וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קַרְנֹתָ֑יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיְצַ֥ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נְחֹֽשֶׁת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-1-3",
+      "title": "1:3",
+      "titleEn": "1:3",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיַּ֜עַשׂ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶֽת־כׇּל־כְּלֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּזְבֵּ֗חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַסִּירֹ֤ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־הַיָּעִים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־הַמִּזְרָקֹ֔ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַמִּזְלָגֹ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־הַמַּחְתֹּ֑ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־כֵּלָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָשָׂ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נְחֹֽשֶׁת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-1-4",
+      "title": "1:4",
+      "titleEn": "1:4",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיַּ֤עַשׂ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַמִּזְבֵּ֙חַ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִכְבָּ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַעֲשֵׂ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֶ֣שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נְחֹ֑שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּ֧חַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּרְכֻּבּ֛וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִלְּמַ֖טָּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַד־חֶצְיֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-1-5",
+      "title": "1:5",
+      "titleEn": "1:5",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּצֹ֞ק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַרְבַּ֧ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טַבָּעֹ֛ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאַרְבַּ֥ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַקְּצָוֺ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְמִכְבַּ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנְּחֹ֑שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּתִּ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַבַּדִּֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-1-6",
+      "title": "1:6",
+      "titleEn": "1:6",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיַּ֥עַשׂ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַבַּדִּ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲצֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁטִּ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיְצַ֥ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נְחֹֽשֶׁת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-1-7",
+      "title": "1:7",
+      "titleEn": "1:7",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיָּבֵ֨א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַבַּדִּ֜ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּטַּבָּעֹ֗ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֚ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צַלְעֹ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּזְבֵּ֔חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָשֵׂ֥את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּהֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נְב֥וּב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֻחֹ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָשָׂ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתֽוֹ׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-1-8",
+      "title": "1:8",
+      "titleEn": "1:8",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיַּ֗עַשׂ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֚ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכִּיּ֣וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נְחֹ֔שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּנּ֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נְחֹ֑שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּמַרְאֹת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַצֹּ֣בְאֹ֔ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צָֽבְא֔וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פֶּ֖תַח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹ֥הֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹעֵֽד׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-1-9",
+      "title": "1:9",
+      "titleEn": "1:9",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיַּ֖עַשׂ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הֶחָצֵ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְאַ֣ת&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֶ֣גֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֵּימָ֗נָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קַלְעֵ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֶֽחָצֵר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֵׁ֣שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מׇשְׁזָ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּאַמָּֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-1-10",
+      "title": "1:10",
+      "titleEn": "1:10",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "עַמּוּדֵיהֶ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶשְׂרִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַדְנֵיהֶ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶשְׂרִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נְחֹ֑שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָוֵ֧י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעַמּוּדִ֛ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַחֲשֻׁקֵיהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כָּֽסֶף׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-1-11",
+      "title": "1:11",
+      "titleEn": "1:11",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְלִפְאַ֤ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צָפוֹן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָֽאַמָּ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַמּוּדֵיהֶ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶשְׂרִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַדְנֵיהֶ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶשְׂרִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נְחֹ֑שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָוֵ֧י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָֽעַמּוּדִ֛ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַחֲשֻׁקֵיהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כָּֽסֶף׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-1-12",
+      "title": "1:12",
+      "titleEn": "1:12",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְלִפְאַת־יָ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קְלָעִים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲמִשִּׁ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּֽאַמָּ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַמּוּדֵיהֶ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲשָׂרָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַדְנֵיהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲשָׂרָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָוֵ֧י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעַמֻּדִ֛ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַחֲשׁוּקֵיהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כָּֽסֶף׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-1-13",
+      "title": "1:13",
+      "titleEn": "1:13",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְלִפְאַ֛ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קֵ֥דְמָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִזְרָ֖חָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲמִשִּׁ֥ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַמָּֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-1-14",
+      "title": "1:14",
+      "titleEn": "1:14",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "קְלָעִ֛ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲמֵשׁ־עֶשְׂרֵ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַמָּ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הַכָּתֵ֑ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַמּוּדֵיהֶ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁלֹשָׁ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַדְנֵיהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁלֹשָֽׁה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-1-15",
+      "title": "1:15",
+      "titleEn": "1:15",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְלַכָּתֵ֣ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשֵּׁנִ֗ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִזֶּ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִזֶּה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְשַׁ֣עַר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֶֽחָצֵ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קְלָעִ֕ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲמֵ֥שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶשְׂרֵ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַמָּ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַמֻּדֵיהֶ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁלֹשָׁ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַדְנֵיהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁלֹשָֽׁה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-1-16",
+      "title": "1:16",
+      "titleEn": "1:16",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כׇּל־קַלְעֵ֧י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֶחָצֵ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סָבִ֖יב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֵׁ֥שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מׇשְׁזָֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-1-17",
+      "title": "1:17",
+      "titleEn": "1:17",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהָאֲדָנִ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָֽעַמֻּדִים֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נְחֹ֒שֶׁת֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָוֵ֨י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָֽעַמּוּדִ֜ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַחֲשׁוּקֵיהֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֶּ֔סֶף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְצִפּ֥וּי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רָאשֵׁיהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כָּ֑סֶף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהֵם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְחֻשָּׁקִ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֶּ֔סֶף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֹּ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַמֻּדֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֶחָצֵֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-1-18",
+      "title": "1:18",
+      "titleEn": "1:18",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּמָסַ֞ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שַׁ֤עַר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֶחָצֵר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַעֲשֵׂ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֹקֵ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּכֵ֧לֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַרְגָּמָ֛ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְתוֹלַ֥עַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשֵׁ֣שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מׇשְׁזָ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעֶשְׂרִ֤ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַמָּה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹ֔רֶךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְקוֹמָ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְרֹ֙חַב֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חָמֵ֣שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַמּ֔וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְעֻמַּ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קַלְעֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֶחָצֵֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-1-19",
+      "title": "1:19",
+      "titleEn": "1:19",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְעַמֻּֽדֵיהֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַרְבָּעָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַדְנֵיהֶ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַרְבָּעָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נְחֹ֑שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָוֵיהֶ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֶּ֔סֶף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְצִפּ֧וּי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רָאשֵׁיהֶ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַחֲשֻׁקֵיהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כָּֽסֶף׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-1-20",
+      "title": "1:20",
+      "titleEn": "1:20",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְֽכׇל־הַיְתֵדֹ֞ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַמִּשְׁכָּ֧ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֶחָצֵ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סָבִ֖יב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נְחֹֽשֶׁת׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-1-21",
+      "title": "1:21",
+      "titleEn": "1:21",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֵ֣לֶּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פְקוּדֵ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּשְׁכָּן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִשְׁכַּ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעֵדֻ֔ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פֻּקַּ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־פִּ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲבֹדַת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַלְוִיִּ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּיַד֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִֽיתָמָ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּֽן־אַהֲרֹ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵֽן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-1-22",
+      "title": "1:22",
+      "titleEn": "1:22",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּבְצַלְאֵ֛ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־אוּרִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶן־ח֖וּר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְמַטֵּ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהוּדָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָשָׂ֕ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֛ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־אֲשֶׁר־צִוָּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מֹשֶֽׁה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-1-23",
+      "title": "1:23",
+      "titleEn": "1:23",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִתּ֗וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אׇהֳלִיאָ֞ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־אֲחִיסָמָ֛ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְמַטֵּה־דָ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חָרָ֣שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְחֹשֵׁ֑ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְרֹקֵ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּתְּכֵ֙לֶת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבָֽאַרְגָּמָ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבְתוֹלַ֥עַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשָּׁנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבַשֵּֽׁשׁ׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-1-24",
+      "title": "1:24",
+      "titleEn": "1:24",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כׇּל־הַזָּהָ֗ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֶֽעָשׂוּי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַמְּלָאכָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּכֹ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְלֶ֣אכֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַקֹּ֑דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיְהִ֣י&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זְהַ֣ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַתְּנוּפָ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֵּ֤שַׁע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעֶשְׂרִים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּכָּ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּשְׁבַ֨ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵא֧וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּשְׁלֹשִׁ֛ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֶׁ֖קֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּשֶׁ֥קֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַקֹּֽדֶשׁ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-1-25",
+      "title": "1:25",
+      "titleEn": "1:25",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְכֶ֛סֶף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פְּקוּדֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעֵדָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְאַ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּכָּ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶ֩לֶף֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּשְׁבַ֨ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵא֜וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַחֲמִשָּׁ֧ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשִׁבְעִ֛ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֶׁ֖קֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּשֶׁ֥קֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַקֹּֽדֶשׁ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-1-26",
+      "title": "1:26",
+      "titleEn": "1:26",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "בֶּ֚קַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַגֻּלְגֹּ֔לֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַחֲצִ֥ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשֶּׁ֖קֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּשֶׁ֣קֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַקֹּ֑דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְכֹ֨ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעֹבֵ֜ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־הַפְּקֻדִ֗ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִבֶּ֨ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶשְׂרִ֤ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁנָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָמַ֔עְלָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְשֵׁשׁ־מֵא֥וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶ֙לֶף֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּשְׁלֹ֣שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲלָפִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַחֲמֵ֥שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵא֖וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַחֲמִשִּֽׁים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-1-27",
+      "title": "1:27",
+      "titleEn": "1:27",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְהִ֗י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְאַת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּכַּ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֶּ֔סֶף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָצֶ֗קֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֚ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַדְנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַקֹּ֔דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַדְנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַפָּרֹ֑כֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְאַ֧ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲדָנִ֛ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִמְאַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכִּכָּ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּכָּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָאָֽדֶן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-1-28",
+      "title": "1:28",
+      "titleEn": "1:28",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאֶת־הָאֶ֜לֶף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּשְׁבַ֤ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמֵּאוֹת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַחֲמִשָּׁ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשִׁבְעִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָשָׂ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָוִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָעַמּוּדִ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְצִפָּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רָאשֵׁיהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְחִשַּׁ֥ק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-1-29",
+      "title": "1:29",
+      "titleEn": "1:29",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּנְחֹ֥שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַתְּנוּפָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁבְעִ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּכָּ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַלְפַּ֥יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַרְבַּע־מֵא֖וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָֽׁקֶל׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-1-30",
+      "title": "1:30",
+      "titleEn": "1:30",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיַּ֣עַשׂ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּ֗הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־אַדְנֵי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פֶּ֚תַח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹ֣הֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹעֵ֔ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִזְבַּ֣ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנְּחֹ֔שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־מִכְבַּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנְּחֹ֖שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־ל֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־כְּלֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּזְבֵּֽחַ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-1-31",
+      "title": "1:31",
+      "titleEn": "1:31",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאֶת־אַדְנֵ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֶֽחָצֵר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סָבִ֔יב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־אַדְנֵ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שַׁ֣עַר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֶחָצֵ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵ֨ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־יִתְדֹ֧ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּשְׁכָּ֛ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־כׇּל־יִתְדֹ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֶחָצֵ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סָבִֽיב׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-2-1",
+      "title": "2:1",
+      "titleEn": "2:1",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּמִן־הַתְּכֵ֤לֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָֽאַרְגָּמָן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְתוֹלַ֣עַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשָּׁנִ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָשׂ֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִגְדֵי־שְׂרָ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְשָׁרֵ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּקֹּ֑דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיַּעֲשׂ֞וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בִּגְדֵ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַקֹּ֙דֶשׁ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְאַהֲרֹ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּאֲשֶׁ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צִוָּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מֹשֶֽׁה׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-2-2",
+      "title": "2:2",
+      "titleEn": "2:2",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיַּ֖עַשׂ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָאֵפֹ֑ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָהָ֗ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּכֵ֧לֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַרְגָּמָ֛ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְתוֹלַ֥עַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשֵׁ֥שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מׇשְׁזָֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-2-3",
+      "title": "2:3",
+      "titleEn": "2:3",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַֽיְרַקְּע֞וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־פַּחֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזָּהָב֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְקִצֵּ��ץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פְּתִילִם֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַעֲשׂ֗וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּת֤וֹךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַתְּכֵ֙לֶת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבְת֣וֹךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָֽאַרְגָּמָ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבְת֛וֹךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תּוֹלַ֥עַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשָּׁנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבְת֣וֹךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשֵּׁ֑שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַעֲשֵׂ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֹשֵֽׁב׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-2-4",
+      "title": "2:4",
+      "titleEn": "2:4",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כְּתֵפֹ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָֽשׂוּ־ל֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֹבְרֹ֑ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־שְׁנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "(קצוותו)",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "[קְצוֹתָ֖יו]",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֻבָּֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-2-5",
+      "title": "2:5",
+      "titleEn": "2:5",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְחֵ֨שֶׁב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲפֻדָּת֜וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלָ֗יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמֶּ֣נּוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הוּא֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּמַעֲשֵׂ֒הוּ֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָהָ֗ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּכֵ֧לֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַרְגָּמָ֛ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְתוֹלַ֥עַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשֵׁ֣שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מׇשְׁזָ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּאֲשֶׁ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צִוָּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מֹשֶֽׁה׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-2-6",
+      "title": "2:6",
+      "titleEn": "2:6",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַֽיַּעֲשׂוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־אַבְנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשֹּׁ֔הַם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֻֽסַבֹּ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִשְׁבְּצֹ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָהָ֑ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְפֻתָּחֹת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פִּתּוּחֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חוֹתָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־שְׁמ֖וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵֽל׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-2-7",
+      "title": "2:7",
+      "titleEn": "2:7",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיָּ֣שֶׂם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֚ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּתְפֹ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֵפֹ֔ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַבְנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זִכָּר֖וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִבְנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֑ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּאֲשֶׁ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צִוָּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מֹשֶֽׁה׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-2-8",
+      "title": "2:8",
+      "titleEn": "2:8",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיַּ֧עַשׂ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַחֹ֛שֶׁן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַעֲשֵׂ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֹשֵׁ֖ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּמַעֲשֵׂ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵפֹ֑ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָהָ֗ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּכֵ֧לֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַרְגָּמָ֛ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְתוֹלַ֥עַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשֵׁ֥שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מׇשְׁזָֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-2-9",
+      "title": "2:9",
+      "titleEn": "2:9",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "רָב֧וּעַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָיָ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כָּפ֖וּל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָשׂ֣וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַחֹ֑שֶׁן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זֶ֧רֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אׇרְכּ֛וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְזֶ֥רֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רׇחְבּ֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כָּפֽוּל׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-2-10",
+      "title": "2:10",
+      "titleEn": "2:10",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְמַ֨לְאוּ־ב֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַרְבָּעָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ט֣וּרֵי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָ֑בֶן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ט֗וּר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹ֤דֶם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פִּטְדָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבָרֶ֔קֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַטּ֖וּר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֶחָֽד׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-2-11",
+      "title": "2:11",
+      "titleEn": "2:11",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהַטּ֖וּר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשֵּׁנִ֑י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֹ֥פֶךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סַפִּ֖יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיָהֲלֹֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-2-12",
+      "title": "2:12",
+      "titleEn": "2:12",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהַטּ֖וּר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשְּׁלִישִׁ֑י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֶ֥שֶׁם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁב֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַחְלָֽמָה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-2-13",
+      "title": "2:13",
+      "titleEn": "2:13",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהַטּוּר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָֽרְבִיעִ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּרְשִׁ֥ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֹׁ֖הַם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיָשְׁפֵ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֽוּסַבֹּ֛ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִשְׁבְּצֹ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָהָ֖ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּמִלֻּאֹתָֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-2-14",
+      "title": "2:14",
+      "titleEn": "2:14",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְ֠הָאֲבָנִ֠ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־שְׁמֹ֨ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵי־יִשְׂרָאֵ֥ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֵ֛נָּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁתֵּ֥ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶשְׂרֵ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־שְׁמֹתָ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פִּתּוּחֵ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֹתָם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֣ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־שְׁמ֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִשְׁנֵ֥ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָשָׂ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָֽׁבֶט׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-2-15",
+      "title": "2:15",
+      "titleEn": "2:15",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיַּעֲשׂ֧וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־הַחֹ֛שֶׁן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שַׁרְשְׁרֹ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גַּבְלֻ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַעֲשֵׂ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲבֹ֑ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָהָ֖ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טָהֽוֹר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-2-16",
+      "title": "2:16",
+      "titleEn": "2:16",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַֽיַּעֲשׂ֗וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁתֵּי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִשְׁבְּצֹ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָהָ֔ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּשְׁתֵּ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טַבְּעֹ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָהָ֑ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיִּתְּנ֗וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־שְׁתֵּי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַטַּבָּעֹ֔ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־שְׁנֵ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קְצ֥וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַחֹֽשֶׁן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-2-17",
+      "title": "2:17",
+      "titleEn": "2:17",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַֽיִּתְּנ֗וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁתֵּי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעֲבֹתֹ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזָּהָ֔ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־שְׁתֵּ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַטַּבָּעֹ֑ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־קְצ֖וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַחֹֽשֶׁן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-2-18",
+      "title": "2:18",
+      "titleEn": "2:18",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאֵ֨ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁתֵּ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קְצוֹת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁתֵּ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָֽעֲבֹתֹ֔ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נָתְנ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־שְׁתֵּ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַֽמִּשְׁבְּצֹ֑ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיִּתְּנֻ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־כִּתְפֹ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֵפֹ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מ֥וּל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פָּנָֽיו׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-2-19",
+      "title": "2:19",
+      "titleEn": "2:19",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַֽיַּעֲשׂ֗וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁתֵּי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טַבְּעֹ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָהָ֔ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיָּשִׂ֕ימוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־שְׁנֵ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קְצ֣וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַחֹ֑שֶׁן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־שְׂפָת֕וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־עֵ֥בֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֵפֹ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּֽיְתָה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-2-20",
+      "title": "2:20",
+      "titleEn": "2:20",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַֽיַּעֲשׂוּ֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁתֵּ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טַבְּעֹ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָהָב֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיִּתְּנֻ֡ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־שְׁתֵּי֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִתְפֹ֨ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֵפֹ֤ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִלְּמַ֙טָּה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמּ֣וּל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פָּנָ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְעֻמַּ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַחְבַּרְתּ֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמַּ֕עַל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְחֵ֖שֶׁב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֵפֹֽד׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-2-21",
+      "title": "2:21",
+      "titleEn": "2:21",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּרְכְּס֣וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַחֹ֡שֶׁן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִטַּבְּעֹתָיו֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־טַבְּעֹ֨ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֵפֹ֜ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּפְתִ֣יל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּכֵ֗לֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִֽהְיֹת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־חֵ֣שֶׁב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֵפֹ֔ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹֽא־יִזַּ֣ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַחֹ֔שֶׁן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵעַ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֵפֹ֑ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּאֲשֶׁ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צִוָּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מֹשֶֽׁה׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-2-22",
+      "title": "2:22",
+      "titleEn": "2:22",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיַּ֛עַשׂ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מְעִ֥יל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֵפֹ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַעֲשֵׂ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹרֵ֑ג",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּלִ֖יל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּכֵֽלֶת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-2-23",
+      "title": "2:23",
+      "titleEn": "2:23",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּפִֽי־הַמְּעִ֥יל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּתוֹכ֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּפִ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַחְרָ֑א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׂפָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְפִ֛יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סָבִ֖יב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִקָּרֵֽעַ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-2-24",
+      "title": "2:24",
+      "titleEn": "2:24",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַֽיַּעֲשׂוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־שׁוּלֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמְּעִ֔יל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רִמּוֹנֵ֕י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּכֵ֥לֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַרְגָּמָ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְתוֹלַ֣עַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁנִ֑י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מׇשְׁזָֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-2-25",
+      "title": "2:25",
+      "titleEn": "2:25",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיַּעֲשׂ֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פַעֲמֹנֵ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָהָ֣ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טָה֑וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּתְּנ֨וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַפַּֽעֲמֹנִ֜ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּת֣וֹךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָרִמֹּנִ֗ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־שׁוּלֵ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמְּעִיל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סָבִ֔יב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּת֖וֹךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָרִמֹּנִֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-2-26",
+      "title": "2:26",
+      "titleEn": "2:26",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "פַּעֲמֹ֤ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְרִמֹּן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פַּעֲמֹ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְרִמֹּ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־שׁוּלֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמְּעִ֖יל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סָבִ֑יב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְשָׁרֵ֕ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּאֲשֶׁ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צִוָּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מֹשֶֽׁה׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-2-27",
+      "title": "2:27",
+      "titleEn": "2:27",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַֽיַּעֲשׂ֛וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַכׇּתְנֹ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֵׁ֖שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַעֲשֵׂ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹרֵ֑ג",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְאַהֲרֹ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּלְבָנָֽיו׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-2-28",
+      "title": "2:28",
+      "titleEn": "2:28",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאֵת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּצְנֶ֣פֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֵׁ֔שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־פַּאֲרֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּגְבָּעֹ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֵׁ֑שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־מִכְנְסֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַבָּ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֵׁ֥שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מׇשְׁזָֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-2-29",
+      "title": "2:29",
+      "titleEn": "2:29",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְֽאֶת־הָאַבְנֵ֞ט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֵׁ֣שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מׇשְׁזָ֗ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּתְכֵ֧לֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַרְגָּמָ֛ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְתוֹלַ֥עַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַעֲשֵׂ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֹקֵ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּאֲשֶׁ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צִוָּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מֹשֶֽׁה׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-2-30",
+      "title": "2:30",
+      "titleEn": "2:30",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַֽיַּעֲשׂ֛וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־צִ֥יץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֵֽזֶר־הַקֹּ֖דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָהָ֣ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טָה֑וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּכְתְּב֣וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלָ֗יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִכְתַּב֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פִּתּוּחֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חוֹתָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קֹ֖דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-2-31",
+      "title": "2:31",
+      "titleEn": "2:31",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּתְּנ֤וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלָיו֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פְּתִ֣יל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּכֵ֔לֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָתֵ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־הַמִּצְנֶ֖פֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִלְמָ֑עְלָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּאֲשֶׁ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צִוָּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מֹשֶֽׁה׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-2-32",
+      "title": "2:32",
+      "titleEn": "2:32",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַתֵּ֕כֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־עֲבֹדַ֕ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִשְׁכַּ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹ֣הֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹעֵ֑ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיַּעֲשׂוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּ֠כֹ֠ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צִוָּ֧ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מֹשֶׁ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֵּ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָשֽׂוּ׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-2-33",
+      "title": "2:33",
+      "titleEn": "2:33",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיָּבִ֤יאוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַמִּשְׁכָּן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָאֹ֖הֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־כׇּל־כֵּלָ֑יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קְרָסָ֣יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קְרָשָׁ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּרִיחָ֖ו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעַמֻּדָ֥יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַאֲדָנָֽיו׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-2-34",
+      "title": "2:34",
+      "titleEn": "2:34",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאֶת־מִכְסֵ֞ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עוֹרֹ֤ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָֽאֵילִם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמְאׇדָּמִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־מִכְסֵ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֹרֹ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַתְּחָשִׁ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פָּרֹ֥כֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמָּסָֽךְ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-2-35",
+      "title": "2:35",
+      "titleEn": "2:35",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֶת־אֲר֥וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעֵדֻ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־בַּדָּ֑יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכַּפֹּֽרֶת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-2-36",
+      "title": "2:36",
+      "titleEn": "2:36",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֶת־הַשֻּׁלְחָן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־כׇּל־כֵּלָ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֶ֥חֶם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַפָּנִֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-2-37",
+      "title": "2:37",
+      "titleEn": "2:37",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֶת־הַמְּנֹרָ֨ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַטְּהֹרָ֜ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־נֵרֹתֶ֗יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֵרֹ֛ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמַּֽעֲרָכָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־כׇּל־כֵּלֶ֑יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֶׁ֥מֶן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמָּאֽוֹר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-2-38",
+      "title": "2:38",
+      "titleEn": "2:38",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאֵת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִזְבַּ֣ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזָּהָ֔ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֶׁ֣מֶן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּשְׁחָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קְטֹ֣רֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַסַּמִּ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵ֕ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מָסַ֖ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פֶּ֥תַח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֹֽהֶל׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-2-39",
+      "title": "2:39",
+      "titleEn": "2:39",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֵ֣ת&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִזְבַּ֣ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנְּחֹ֗שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־מִכְבַּ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנְּחֹ֙שֶׁת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־ל֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בַּדָּ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־כׇּל־כֵּלָ֑יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַכִּיֹּ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־כַּנּֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-2-40",
+      "title": "2:40",
+      "titleEn": "2:40",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֵת֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קַלְעֵ֨י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֶחָצֵ֜ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־עַמֻּדֶ֣יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־אֲדָנֶ֗יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־הַמָּסָךְ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְשַׁ֣עַר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֶֽחָצֵ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מֵיתָרָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וִיתֵדֹתֶ֑יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵ֗ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־כְּלֵ֛י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲבֹדַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּשְׁכָּ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְאֹ֥הֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹעֵֽד׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-2-41",
+      "title": "2:41",
+      "titleEn": "2:41",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֶת־בִּגְדֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשְּׂרָ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְשָׁרֵ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּקֹּ֑דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בִּגְדֵ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַקֹּ֙דֶשׁ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְאַהֲרֹ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־בִּגְדֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָנָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְכַהֵֽן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-2-42",
+      "title": "2:42",
+      "titleEn": "2:42",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כְּכֹ֛ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־צִוָּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מֹשֶׁ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֵּ֤ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָשׂוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־הָעֲבֹדָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-2-43",
+      "title": "2:43",
+      "titleEn": "2:43",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיַּ֨רְא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁ֜ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־כׇּל־הַמְּלָאכָ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִנֵּה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָשׂ֣וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֔הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּאֲשֶׁ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צִוָּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֵּ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָשׂ֑וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיְבָ֥רֶךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶֽׁה׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-3-1",
+      "title": "3:1",
+      "titleEn": "3:1",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְדַבֵּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵּאמֹֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-3-2",
+      "title": "3:2",
+      "titleEn": "3:2",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "בְּיוֹם־הַחֹ֥דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָרִאשׁ֖וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאֶחָ֣ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַחֹ֑דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תָּקִ֕ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מִשְׁכַּ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹ֥הֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹעֵֽד׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-3-3",
+      "title": "3:3",
+      "titleEn": "3:3",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְשַׂמְתָּ֣",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲר֣וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעֵד֑וּת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְסַכֹּתָ֥",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־הָאָרֹ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַפָּרֹֽכֶת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-3-4",
+      "title": "3:4",
+      "titleEn": "3:4",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהֵבֵאתָ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַשֻּׁלְחָ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעָרַכְתָּ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־עֶרְכּ֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהֵבֵאתָ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַמְּנֹרָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהַעֲלֵיתָ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־נֵרֹתֶֽיהָ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-3-5",
+      "title": "3:5",
+      "titleEn": "3:5",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְנָתַתָּ֞ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מִזְבַּ֤ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזָּהָב֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִקְטֹ֔רֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲר֣וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעֵדֻ֑ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשַׂמְתָּ֛",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מָסַ֥ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַפֶּ֖תַח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַמִּשְׁכָּֽן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-3-6",
+      "title": "3:6",
+      "titleEn": "3:6",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְנָ֣תַתָּ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִזְבַּ֣ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעֹלָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֕י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פֶּ֖תַח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִשְׁכַּ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹֽהֶל־מוֹעֵֽד׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-3-7",
+      "title": "3:7",
+      "titleEn": "3:7",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְנָֽתַתָּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַכִּיֹּ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֵּֽין־אֹ֥הֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹעֵ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבֵ֣ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּזְבֵּ֑חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנָתַתָּ֥",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מָֽיִם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-3-8",
+      "title": "3:8",
+      "titleEn": "3:8",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְשַׂמְתָּ֥",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הֶחָצֵ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סָבִ֑יב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנָ֣תַתָּ֔",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מָסַ֖ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שַׁ֥עַר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֶחָצֵֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-3-9",
+      "title": "3:9",
+      "titleEn": "3:9",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְלָקַחְתָּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־שֶׁ֣מֶן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּשְׁחָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמָשַׁחְתָּ֥",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַמִּשְׁכָּ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־כׇּל־אֲשֶׁר־בּ֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְקִדַּשְׁתָּ֥",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֛וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־כׇּל־כֵּלָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָ֥יָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קֹֽדֶשׁ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-3-10",
+      "title": "3:10",
+      "titleEn": "3:10",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּמָשַׁחְתָּ֛",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מִזְבַּ֥ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעֹלָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־כׇּל־כֵּלָ֑יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְקִדַּשְׁתָּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַמִּזְבֵּ֔חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָיָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּזְבֵּ֖חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קֹ֥דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קׇֽדָשִֽׁים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-3-11",
+      "title": "3:11",
+      "titleEn": "3:11",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּמָשַׁחְתָּ֥",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַכִּיֹּ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־כַּנּ֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְקִדַּשְׁתָּ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-3-12",
+      "title": "3:12",
+      "titleEn": "3:12",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהִקְרַבְתָּ֤",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶֽת־אַהֲרֹן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־בָּנָ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־פֶּ֖תַח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹ֣הֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹעֵ֑ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְרָחַצְתָּ֥",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּמָּֽיִם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-3-13",
+      "title": "3:13",
+      "titleEn": "3:13",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהִלְבַּשְׁתָּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶֽת־אַהֲרֹ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּגְדֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַקֹּ֑דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמָשַׁחְתָּ֥",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֛וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְקִדַּשְׁתָּ֥",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכִהֵ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִֽי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-3-14",
+      "title": "3:14",
+      "titleEn": "3:14",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאֶת־בָּנָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּקְרִ֑יב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִלְבַּשְׁתָּ֥",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֻּתֳּנֹֽת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-3-15",
+      "title": "3:15",
+      "titleEn": "3:15",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּמָשַׁחְתָּ֣",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּאֲשֶׁ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מָשַׁ֙חְתָּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־אֲבִיהֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכִהֲנ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִ֑י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְ֠הָיְתָ֠ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִהְיֹ֨ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָהֶ֧ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מׇשְׁחָתָ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִכְהֻנַּ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עוֹלָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְדֹרֹתָֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-3-16",
+      "title": "3:16",
+      "titleEn": "3:16",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיַּ֖עַשׂ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּ֠כֹ֠ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צִוָּ֧ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֵּ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָשָֽׂה׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-3-17",
+      "title": "3:17",
+      "titleEn": "3:17",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְהִ֞י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּחֹ֧דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָרִאשׁ֛וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּשָּׁנָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשֵּׁנִ֖ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאֶחָ֣ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַחֹ֑דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הוּקַ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּשְׁכָּֽן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-3-18",
+      "title": "3:18",
+      "titleEn": "3:18",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיָּ֨קֶם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁ֜ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַמִּשְׁכָּ֗ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּתֵּן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־אֲדָנָ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיָּ֙שֶׂם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־קְרָשָׁ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּתֵּ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בְּרִיחָ֑יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיָּ֖קֶם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־עַמּוּדָֽיו׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-3-19",
+      "title": "3:19",
+      "titleEn": "3:19",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּפְרֹ֤שׂ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָאֹ֙הֶל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־הַמִּשְׁכָּ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיָּ֜שֶׂם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מִכְסֵ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֹ֛הֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִלְמָ֑עְלָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּאֲשֶׁ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צִוָּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מֹשֶֽׁה׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-3-20",
+      "title": "3:20",
+      "titleEn": "3:20",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּקַּ֞ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּתֵּ֤ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָעֵדֻת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הָ֣אָרֹ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיָּ֥שֶׂם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַבַּדִּ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־הָאָרֹ֑ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּתֵּ֧ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַכַּפֹּ֛רֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־הָאָרֹ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִלְמָֽעְלָה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-3-21",
+      "title": "3:21",
+      "titleEn": "3:21",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיָּבֵ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָאָרֹן֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הַמִּשְׁכָּן֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיָּ֗שֶׂם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֚ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פָּרֹ֣כֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמָּסָ֔ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיָּ֕סֶךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲר֣וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעֵד֑וּת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּאֲשֶׁ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צִוָּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מֹשֶֽׁה׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-3-22",
+      "title": "3:22",
+      "titleEn": "3:22",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּתֵּ֤ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַשֻּׁלְחָן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאֹ֣הֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹעֵ֔ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֛ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֶ֥רֶךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּשְׁכָּ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צָפֹ֑נָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִח֖וּץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַפָּרֹֽכֶת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-3-23",
+      "title": "3:23",
+      "titleEn": "3:23",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיַּעֲרֹ֥ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלָ֛יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֵ֥רֶךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֶ֖חֶם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּאֲשֶׁ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צִוָּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מֹשֶֽׁה׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-3-24",
+      "title": "3:24",
+      "titleEn": "3:24",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיָּ֤שֶׂם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַמְּנֹרָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאֹ֣הֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹעֵ֔ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֹ֖כַח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשֻּׁלְחָ֑ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֛ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֶ֥רֶךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּשְׁכָּ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֶֽגְבָּה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-3-25",
+      "title": "3:25",
+      "titleEn": "3:25",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיַּ֥עַל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנֵּרֹ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּאֲשֶׁ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צִוָּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מֹשֶֽׁה׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-3-26",
+      "title": "3:26",
+      "titleEn": "3:26",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיָּ֛שֶׂם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מִזְבַּ֥ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזָּהָ֖ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאֹ֣הֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹעֵ֑ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַפָּרֹֽכֶת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-3-27",
+      "title": "3:27",
+      "titleEn": "3:27",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיַּקְטֵ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קְטֹ֣רֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סַמִּ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּאֲשֶׁ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צִוָּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מֹשֶֽׁה׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-3-28",
+      "title": "3:28",
+      "titleEn": "3:28",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיָּ֛שֶׂם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מָסַ֥ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַפֶּ֖תַח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַמִּשְׁכָּֽן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-3-29",
+      "title": "3:29",
+      "titleEn": "3:29",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאֵת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִזְבַּ֣ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעֹלָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׂ֕ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פֶּ֖תַח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִשְׁכַּ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹֽהֶל־מוֹעֵ֑ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיַּ֣עַל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלָ֗יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָעֹלָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־הַמִּנְחָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּאֲשֶׁ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צִוָּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מֹשֶֽׁה׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-3-30",
+      "title": "3:30",
+      "titleEn": "3:30",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיָּ֙שֶׂם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַכִּיֹּ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֵּֽין־אֹ֥הֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹעֵ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבֵ֣ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּזְבֵּ֑חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּתֵּ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁ֛מָּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַ֖יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְרׇחְצָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-3-31",
+      "title": "3:31",
+      "titleEn": "3:31",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְרָחֲצ֣וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמֶּ֔נּוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַהֲרֹ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבָנָ֑יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־יְדֵיהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־רַגְלֵיהֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-3-32",
+      "title": "3:32",
+      "titleEn": "3:32",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "בְּבֹאָ֞ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־אֹ֣הֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹעֵ֗ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבְקׇרְבָתָ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הַמִּזְבֵּ֖חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִרְחָ֑צוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּאֲשֶׁ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צִוָּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מֹשֶֽׁה׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-3-33",
+      "title": "3:33",
+      "titleEn": "3:33",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיָּ֣קֶם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הֶחָצֵ֗ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סָבִיב֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַמִּשְׁכָּ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלַמִּזְבֵּ֔חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּתֵּ֕ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מָסַ֖ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שַׁ֣עַר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֶחָצֵ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיְכַ֥ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַמְּלָאכָֽה׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-3-34",
+      "title": "3:34",
+      "titleEn": "3:34",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְכַ֥ס",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֶעָנָ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־אֹ֣הֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹעֵ֑ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּכְב֣וֹד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מָלֵ֖א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַמִּשְׁכָּֽן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-3-35",
+      "title": "3:35",
+      "titleEn": "3:35",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְלֹא־יָכֹ֣ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָבוֹא֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־אֹ֣הֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹעֵ֔ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־שָׁכַ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֶעָנָ֑ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּכְב֣וֹד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מָלֵ֖א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַמִּשְׁכָּֽן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-3-36",
+      "title": "3:36",
+      "titleEn": "3:36",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּבְהֵעָל֤וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֶֽעָנָן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵעַ֣ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּשְׁכָּ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִסְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֑ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּכֹ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַסְעֵיהֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-3-37",
+      "title": "3:37",
+      "titleEn": "3:37",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם־לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֵעָלֶ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֶעָנָ֑ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִסְע֔וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַד־י֖וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֵעָלֹתֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Pekudei-3-38",
+      "title": "3:38",
+      "titleEn": "3:38",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כִּי֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲנַ֨ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַֽל־הַמִּשְׁכָּן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוֹמָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵ֕שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּהְיֶ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַ֖יְלָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בּ֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְעֵינֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇל־בֵּֽית־יִשְׂרָאֵ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּכׇל־מַסְעֵיהֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    }
+  ]
+}

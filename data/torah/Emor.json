@@ -1,0 +1,8604 @@
+{
+  "id": "Emor",
+  "slug": "emor",
+  "nameHeb": "ויקרא",
+  "nameEn": "Emor",
+  "nusach": "torah",
+  "timeOfDay": "any",
+  "totalDuration": 0,
+  "audioUrl": "",
+  "sections": [
+    {
+      "id": "Emor-1-1",
+      "title": "1:1",
+      "titleEn": "1:1",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֹּ֤אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱמֹ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הַכֹּהֲנִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַהֲרֹ֑ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאָמַרְתָּ֣",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲלֵהֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְנֶ֥פֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹֽא־יִטַּמָּ֖א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּעַמָּֽיו׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-1-2",
+      "title": "1:2",
+      "titleEn": "1:2",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כִּ֚י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִם־לִשְׁאֵר֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַקָּרֹ֖ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵלָ֑יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְאִמּ֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּלְאָבִ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלִבְנ֥וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּלְבִתּ֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּלְאָחִֽיו׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-1-3",
+      "title": "1:3",
+      "titleEn": "1:3",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְלַאֲחֹת֤וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַבְּתוּלָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַקְּרוֹבָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵלָ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹֽא־הָיְתָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְאִ֑ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָ֖הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִטַּמָּֽא׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-1-4",
+      "title": "1:4",
+      "titleEn": "1:4",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִטַּמָּ֖א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּ֣עַל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּעַמָּ֑יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְהֵ֖חַלּֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-1-5",
+      "title": "1:5",
+      "titleEn": "1:5",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לֹֽא־[יִקְרְח֤וּ]",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "(יקרחה)",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קׇרְחָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּרֹאשָׁ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּפְאַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זְקָנָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְגַלֵּ֑חוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבִ֨בְשָׂרָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרְט֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׂרָֽטֶת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-1-6",
+      "title": "1:6",
+      "titleEn": "1:6",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "קְדֹשִׁ֤ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְיוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאלֹ֣הֵיהֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְחַלְּל֔וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֵׁ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹהֵיהֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּי֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־אִשֵּׁ֨י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֜ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֶ֧חֶם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹהֵיהֶ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֵ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַקְרִיבִ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָ֥יוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קֹֽדֶשׁ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-1-7",
+      "title": "1:7",
+      "titleEn": "1:7",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אִשָּׁ֨ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זֹנָ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַחֲלָלָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִקָּ֔חוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאִשָּׁ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גְּרוּשָׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאִישָׁ֖הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִקָּ֑חוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־קָדֹ֥שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ה֖וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאלֹהָֽיו׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-1-8",
+      "title": "1:8",
+      "titleEn": "1:8",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְקִ֨דַּשְׁתּ֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־אֶת־לֶ֥חֶם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹהֶ֖יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ה֣וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַקְרִ֑יב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קָדֹשׁ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִֽהְיֶה־לָּ֔ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קָד֔וֹשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְקַדִּשְׁכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-1-9",
+      "title": "1:9",
+      "titleEn": "1:9",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּבַת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֣ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֹּהֵ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֵחֵ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִזְנ֑וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־אָבִ֙יהָ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִ֣יא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְחַלֶּ֔לֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּאֵ֖שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּשָּׂרֵֽף׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-1-10",
+      "title": "1:10",
+      "titleEn": "1:10",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהַכֹּהֵן֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַגָּד֨וֹל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאֶחָ֜יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲֽשֶׁר־יוּצַ֥ק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־רֹאשׁ֣וֹ&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֶׁ֤מֶן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּשְׁחָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִלֵּ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־יָד֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִלְבֹּ֖שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַבְּגָדִ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־רֹאשׁוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִפְרָ֔ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבְגָדָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִפְרֹֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-1-11",
+      "title": "1:11",
+      "titleEn": "1:11",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְעַ֛ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־נַפְשֹׁ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָבֹ֑א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְאָבִ֥יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּלְאִמּ֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִטַּמָּֽא׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-1-12",
+      "title": "1:12",
+      "titleEn": "1:12",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּמִן־הַמִּקְדָּשׁ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֵצֵ֔א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְחַלֵּ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקְדַּ֣שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹהָ֑יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֡י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֵ֠זֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֶׁ֣מֶן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִשְׁחַ֧ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹהָ֛יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-1-13",
+      "title": "1:13",
+      "titleEn": "1:13",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְה֕וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִשָּׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִבְתוּלֶ֖יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִקָּֽח׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-1-14",
+      "title": "1:14",
+      "titleEn": "1:14",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אַלְמָנָ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּגְרוּשָׁה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַחֲלָלָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זֹנָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־אֵ֖לֶּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִקָּ֑ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֛י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִם־בְּתוּלָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵעַמָּ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִקַּ֥ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִשָּֽׁה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-1-15",
+      "title": "1:15",
+      "titleEn": "1:15",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְלֹֽא־יְחַלֵּ֥ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זַרְע֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּעַמָּ֑יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֛י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְקַדְּשֽׁוֹ׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-1-16",
+      "title": "1:16",
+      "titleEn": "1:16",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְדַבֵּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵּאמֹֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-1-17",
+      "title": "1:17",
+      "titleEn": "1:17",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "דַּבֵּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶֽל־אַהֲרֹ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאמֹ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֣ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִֽזַּרְעֲךָ֞",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְדֹרֹתָ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְיֶ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מ֔וּם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִקְרַ֔ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְהַקְרִ֖יב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֶ֥חֶם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹהָֽיו׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-1-18",
+      "title": "1:18",
+      "titleEn": "1:18",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כִּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇל־אִ֛ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־בּ֥וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מ֖וּם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִקְרָ֑ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֤ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִוֵּר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פִסֵּ֔חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֥וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חָרֻ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֥וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׂרֽוּעַ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-1-19",
+      "title": "1:19",
+      "titleEn": "1:19",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "א֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֔ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־יִהְיֶ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ב֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֶׁ֣בֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רָ֑גֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֶׁ֥בֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָֽד׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-1-20",
+      "title": "1:20",
+      "titleEn": "1:20",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֽוֹ־גִבֵּ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אוֹ־דַ֔ק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּבַלֻּ֣ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּעֵינ֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֤וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גָרָב֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַלֶּ֔פֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְר֥וֹחַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָֽשֶׁךְ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-1-21",
+      "title": "1:21",
+      "titleEn": "1:21",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כׇּל־אִ֞ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־בּ֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מ֗וּם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִזֶּ֙רַע֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַהֲרֹ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִגַּ֔שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְהַקְרִ֖יב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־אִשֵּׁ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מ֣וּם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בּ֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֚ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֶ֣חֶם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹהָ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִגַּ֖שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְהַקְרִֽיב׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-1-22",
+      "title": "1:22",
+      "titleEn": "1:22",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לֶ֣חֶם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹהָ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקׇּדְשֵׁ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַקֳּדָשִׁ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִן־הַקֳּדָשִׁ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֹאכֵֽל׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-1-23",
+      "title": "1:23",
+      "titleEn": "1:23",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אַ֣ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הַפָּרֹ֜כֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָבֹ֗א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶל־הַמִּזְבֵּ֛חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִגַּ֖שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־מ֣וּם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בּ֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹ֤א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְחַלֵּל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מִקְדָּשַׁ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֛י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְקַדְּשָֽׁם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-1-24",
+      "title": "1:24",
+      "titleEn": "1:24",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְדַבֵּ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶֽל־אַהֲרֹ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶל־בָּנָ֑יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶֽל־כׇּל־בְּנֵ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵֽל׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-2-1",
+      "title": "2:1",
+      "titleEn": "2:1",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְדַבֵּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵּאמֹֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-2-2",
+      "title": "2:2",
+      "titleEn": "2:2",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "דַּבֵּ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶֽל־אַהֲרֹ֜ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶל־בָּנָ֗יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיִנָּֽזְרוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקׇּדְשֵׁ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְנֵֽי־יִשְׂרָאֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְחַלְּל֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־שֵׁ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קׇדְשִׁ֑י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֵ֧ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַקְדִּשִׁ֛ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-2-3",
+      "title": "2:3",
+      "titleEn": "2:3",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֱמֹ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲלֵהֶ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְדֹרֹ֨תֵיכֶ֜ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־אִ֣ישׁ&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־יִקְרַ֣ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִכׇּל־זַרְעֲכֶ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הַקֳּדָשִׁים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַקְדִּ֤ישׁוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְנֵֽי־יִשְׂרָאֵל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽיהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְטֻמְאָת֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלָ֑יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנִכְרְתָ֞ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנֶּ֧פֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַהִ֛וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִלְּפָנַ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-2-4",
+      "title": "2:4",
+      "titleEn": "2:4",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אִ֣ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֞ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִזֶּ֣רַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַהֲרֹ֗ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְה֤וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צָר֙וּעַ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָ֔ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּקֳּדָשִׁים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֹאכַ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִטְהָ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהַנֹּגֵ֙עַ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּכׇל־טְמֵא־נֶ֔פֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֔ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־תֵּצֵ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמֶּ֖נּוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁכְבַת־זָֽרַע׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-2-5",
+      "title": "2:5",
+      "titleEn": "2:5",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אוֹ־אִישׁ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִגַּ֔ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּכׇל־שֶׁ֖רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִטְמָא־ל֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֤וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְאָדָם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִטְמָא־ל֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְכֹ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טֻמְאָתֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-2-6",
+      "title": "2:6",
+      "titleEn": "2:6",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "נֶ֚פֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּגַּע־בּ֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְטָמְאָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַד־הָעָ֑רֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹ֤א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֹאכַל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הַקֳּדָשִׁ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֛י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִם־רָחַ֥ץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּשָׂר֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּמָּֽיִם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-2-7",
+      "title": "2:7",
+      "titleEn": "2:7",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּבָ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשֶּׁ֖מֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְטָהֵ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַחַר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֹאכַ֣ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הַקֳּדָשִׁ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַחְמ֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֽוּא׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-2-8",
+      "title": "2:8",
+      "titleEn": "2:8",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "נְבֵלָ֧ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּטְרֵפָ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֹאכַ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְטׇמְאָה־בָ֑הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-2-9",
+      "title": "2:9",
+      "titleEn": "2:9",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְשָׁמְר֣וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מִשְׁמַר��תִּ֗י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹֽא־יִשְׂא֤וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלָיו֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֵ֔טְא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמֵ֥תוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ב֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְחַלְּלֻ֑הוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְקַדְּשָֽׁם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-2-10",
+      "title": "2:10",
+      "titleEn": "2:10",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְכׇל־זָ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹא־יֹ֣אכַל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קֹ֑דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תּוֹשַׁ֥ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֹּהֵ֛ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשָׂכִ֖יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹא־יֹ֥אכַל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קֹֽדֶשׁ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-2-11",
+      "title": "2:11",
+      "titleEn": "2:11",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְכֹהֵ֗ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־יִקְנֶ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֶ֙פֶשׁ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קִנְיַ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּסְפּ֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ה֖וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֹ֣אכַל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בּ֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וִילִ֣יד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֵּית֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֵ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֹאכְל֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְלַחְמֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-2-12",
+      "title": "2:12",
+      "titleEn": "2:12",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּבַ֨ת־כֹּהֵ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִהְיֶ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְאִ֣ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִ֕וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּתְרוּמַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַקֳּדָשִׁ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֹאכֵֽל׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-2-13",
+      "title": "2:13",
+      "titleEn": "2:13",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּבַת־כֹּהֵן֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֨י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִהְיֶ֜ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַלְמָנָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּגְרוּשָׁ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְזֶ֘רַע֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֣ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָהּ֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשָׁבָ֞ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־בֵּ֤ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָבִ֙יהָ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּנְעוּרֶ֔יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִלֶּ֥חֶם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָבִ֖יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֹּאכֵ֑ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכׇל־זָ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹא־יֹ֥אכַל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בּֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-2-14",
+      "title": "2:14",
+      "titleEn": "2:14",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִ֕ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־יֹאכַ֥ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קֹ֖דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּשְׁגָגָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיָסַ֤ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲמִֽשִׁיתוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלָ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנָתַ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַכֹּהֵ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַקֹּֽדֶשׁ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-2-15",
+      "title": "2:15",
+      "titleEn": "2:15",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְלֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְחַלְּל֔וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־קׇדְשֵׁ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֑ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־יָרִ֖ימוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-2-16",
+      "title": "2:16",
+      "titleEn": "2:16",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהִשִּׂ֤יאוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אוֹתָם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲוֺ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַשְׁמָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאׇכְלָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־קׇדְשֵׁיהֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֛י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְקַדְּשָֽׁם׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-2-17",
+      "title": "2:17",
+      "titleEn": "2:17",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְדַבֵּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵּאמֹֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-2-18",
+      "title": "2:18",
+      "titleEn": "2:18",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "דַּבֵּ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶֽל־אַהֲרֹ֜ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶל־בָּנָ֗יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאָמַרְתָּ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲלֵהֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֣ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִישׁ֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִבֵּ֨ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֜ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִן־הַגֵּ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּיִשְׂרָאֵ֗ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַקְרִ֤יב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קׇרְבָּנוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְכׇל־נִדְרֵיהֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּלְכׇל־נִדְבוֹתָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־יַקְרִ֥יבוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְעֹלָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-2-19",
+      "title": "2:19",
+      "titleEn": "2:19",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לִֽרְצֹנְכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תָּמִ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָכָ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּבָּקָ֕ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּכְּשָׂבִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבָֽעִזִּֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-2-20",
+      "title": "2:20",
+      "titleEn": "2:20",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כֹּ֛ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־בּ֥וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מ֖וּם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַקְרִ֑יבוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּי־לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְרָצ֖וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְיֶ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-2-21",
+      "title": "2:21",
+      "titleEn": "2:21",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִ֗ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־יַקְרִ֤יב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זֶֽבַח־שְׁלָמִים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְפַלֵּא־נֶ֙דֶר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִנְדָבָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּבָּקָ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַצֹּ֑אן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תָּמִ֤ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִֽהְיֶה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְרָצ֔וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־מ֖וּם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְיֶה־בּֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-2-22",
+      "title": "2:22",
+      "titleEn": "2:22",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "עַוֶּ֩רֶת֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֨וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁב֜וּר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אוֹ־חָר֣וּץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֽוֹ־יַבֶּ֗לֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֤וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גָרָב֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַלֶּ֔פֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹא־תַקְרִ֥יבוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֖לֶּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיהֹוָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאִשֶּׁ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹא־תִתְּנ֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵהֶ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־הַמִּזְבֵּ֖חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-2-23",
+      "title": "2:23",
+      "titleEn": "2:23",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְשׁ֥וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָשֶׂ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׂר֣וּעַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְקָל֑וּט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נְדָבָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּעֲשֶׂ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּלְנֵ֖דֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֵרָצֶֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-2-24",
+      "title": "2:24",
+      "titleEn": "2:24",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּמָע֤וּךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכָתוּת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנָת֣וּק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכָר֔וּת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַקְרִ֖יבוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽיהֹוָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּֽבְאַרְצְכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַעֲשֽׂוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-2-25",
+      "title": "2:25",
+      "titleEn": "2:25",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּמִיַּ֣ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־נֵכָ֗ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַקְרִ֛יבוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־לֶ֥חֶם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹהֵיכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִכׇּל־אֵ֑לֶּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מׇשְׁחָתָ֤ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּהֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מ֣וּם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֵרָצ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶֽם׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-2-26",
+      "title": "2:26",
+      "titleEn": "2:26",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְדַבֵּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵּאמֹֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-2-27",
+      "title": "2:27",
+      "titleEn": "2:27",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "שׁ֣וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אוֹ־כֶ֤שֶׂב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אוֹ־עֵז֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִוָּלֵ֔ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָיָ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁבְעַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָמִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּ֣חַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִמּ֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִיּ֤וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשְּׁמִינִי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָהָ֔לְאָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֵרָצֶ֕ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְקׇרְבַּ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִשֶּׁ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-2-28",
+      "title": "2:28",
+      "titleEn": "2:28",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְשׁ֖וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אוֹ־שֶׂ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־בְּנ֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִשְׁחֲט֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּי֥וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶחָֽד׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-2-29",
+      "title": "2:29",
+      "titleEn": "2:29",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְכִֽי־תִזְבְּח֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זֶֽבַח־תּוֹדָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיהֹוָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִֽרְצֹנְכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּזְבָּֽחוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-2-30",
+      "title": "2:30",
+      "titleEn": "2:30",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "בַּיּ֤וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַהוּא֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֵאָכֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹֽא־תוֹתִ֥ירוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמֶּ֖נּוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַד־בֹּ֑קֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-2-31",
+      "title": "2:31",
+      "titleEn": "2:31",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּשְׁמַרְתֶּם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִצְוֺתַ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַעֲשִׂיתֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-2-32",
+      "title": "2:32",
+      "titleEn": "2:32",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְלֹ֤א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְחַלְּלוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־שֵׁ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קׇדְשִׁ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנִ֨קְדַּשְׁתִּ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּת֖וֹךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֑ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְקַדִּשְׁכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-2-33",
+      "title": "2:33",
+      "titleEn": "2:33",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "הַמּוֹצִ֤יא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאֶ֣רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִצְרַ֔יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִהְי֥וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאלֹהִ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָֽה׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-3-1",
+      "title": "3:1",
+      "titleEn": "3:1",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְדַבֵּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵּאמֹֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-3-2",
+      "title": "3:2",
+      "titleEn": "3:2",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "דַּבֵּ֞ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־בְּנֵ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאָמַרְתָּ֣",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲלֵהֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹעֲדֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־תִּקְרְא֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקְרָאֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קֹ֑דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֥לֶּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֵ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹעֲדָֽי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-3-3",
+      "title": "3:3",
+      "titleEn": "3:3",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "שֵׁ֣שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָמִים֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֵּעָשֶׂ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְלָאכָה֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבַיּ֣וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשְּׁבִיעִ֗י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שַׁבַּ֤ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שַׁבָּתוֹן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקְרָא־קֹ֔דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־מְלָאכָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַעֲשׂ֑וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שַׁבָּ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִוא֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽיהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּכֹ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹשְׁבֹֽתֵיכֶֽם׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-3-4",
+      "title": "3:4",
+      "titleEn": "3:4",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֵ֚לֶּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹעֲדֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקְרָאֵ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קֹ֑דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־תִּקְרְא֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּמוֹעֲדָֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-3-5",
+      "title": "3:5",
+      "titleEn": "3:5",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "בַּחֹ֣דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָרִאשׁ֗וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאַרְבָּעָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָשָׂ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַחֹ֖דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֵּ֣ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעַרְבָּ֑יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פֶּ֖סַח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-3-6",
+      "title": "3:6",
+      "titleEn": "3:6",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּבַחֲמִשָּׁ֨ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָשָׂ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוֹם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַחֹ֣דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזֶּ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חַ֥ג",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמַּצּ֖וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיהֹוָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁבְעַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָמִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַצּ֥וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֹּאכֵֽלוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-3-7",
+      "title": "3:7",
+      "titleEn": "3:7",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "בַּיּוֹם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָֽרִאשׁ֔וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקְרָא־קֹ֖דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְיֶ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־מְלֶ֥אכֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲבֹדָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַעֲשֽׂוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-3-8",
+      "title": "3:8",
+      "titleEn": "3:8",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהִקְרַבְתֶּ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִשֶּׁ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁבְעַ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָמִ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּיּ֤וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשְּׁבִיעִי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקְרָא־קֹ֔דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־מְלֶ֥אכֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲבֹדָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַעֲשֽׂוּ׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-3-9",
+      "title": "3:9",
+      "titleEn": "3:9",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְדַבֵּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵּאמֹֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-3-10",
+      "title": "3:10",
+      "titleEn": "3:10",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "דַּבֵּ֞ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־בְּנֵ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאָמַרְתָּ֣",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲלֵהֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־תָבֹ֣אוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הָאָ֗רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֹתֵ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּקְצַרְתֶּ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־קְצִירָ֑הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַהֲבֵאתֶ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־עֹ֛מֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֵאשִׁ֥ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קְצִירְכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הַכֹּהֵֽן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-3-11",
+      "title": "3:11",
+      "titleEn": "3:11",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהֵנִ֧יף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָעֹ֛מֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִֽרְצֹנְכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִֽמׇּחֳרַת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשַּׁבָּ֔ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְנִיפֶ֖נּוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵֽן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-3-12",
+      "title": "3:12",
+      "titleEn": "3:12",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַעֲשִׂיתֶ֕ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּי֥וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֲנִֽיפְכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָעֹ֑מֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֶּ֣בֶשׂ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תָּמִ֧ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־שְׁנָת֛וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְעֹלָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-3-13",
+      "title": "3:13",
+      "titleEn": "3:13",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּמִנְחָתוֹ֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁנֵ֨י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶשְׂרֹנִ֜ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סֹ֣לֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּלוּלָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַשֶּׁ֛מֶן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִשֶּׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֵ֣יחַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נִיחֹ֑חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנִסְכֹּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַ֖יִן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רְבִיעִ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַהִֽין׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-3-14",
+      "title": "3:14",
+      "titleEn": "3:14",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְלֶ֩חֶם֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְקָלִ֨י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכַרְמֶ֜ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֹֽאכְל֗וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַד־עֶ֙צֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיּ֣וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזֶּ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֚ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֲבִ֣יאֲכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־קׇרְבַּ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹהֵיכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֻקַּ֤ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עוֹלָם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְדֹרֹ֣תֵיכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּכֹ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשְׁבֹֽתֵיכֶֽם׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-3-15",
+      "title": "3:15",
+      "titleEn": "3:15",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּסְפַרְתֶּ֤ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמׇּחֳרַ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשַּׁבָּ֔ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִיּוֹם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֲבִ֣יאֲכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־עֹ֖מֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַתְּנוּפָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֶׁ֥בַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שַׁבָּת֖וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּמִימֹ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּהְיֶֽינָה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-3-16",
+      "title": "3:16",
+      "titleEn": "3:16",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "עַ֣ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִֽמׇּחֳרַ֤ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשַּׁבָּת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשְּׁבִיעִ֔ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּסְפְּר֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲמִשִּׁ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "י֑וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִקְרַבְתֶּ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִנְחָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲדָשָׁ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-3-17",
+      "title": "3:17",
+      "titleEn": "3:17",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "מִמּוֹשְׁבֹ֨תֵיכֶ֜ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תָּבִ֣יאּוּ&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֶ֣חֶם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּנוּפָ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁ֚תַּיִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶשְׂרֹנִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סֹ֣לֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּהְיֶ֔ינָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חָמֵ֖ץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֵּאָפֶ֑ינָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּכּוּרִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽיהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-3-18",
+      "title": "3:18",
+      "titleEn": "3:18",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהִקְרַבְתֶּ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־הַלֶּ֗חֶם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁבְעַ֨ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּבָשִׂ֤ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּמִימִם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁנָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּפַ֧ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־בָּקָ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶחָ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵילִ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁנָ֑יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְי֤וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֹלָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽיהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִנְחָתָם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנִסְכֵּיהֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִשֵּׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֵֽיחַ־נִיחֹ֖חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-3-19",
+      "title": "3:19",
+      "titleEn": "3:19",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַעֲשִׂיתֶ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׂעִיר־עִזִּ֥ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶחָ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְחַטָּ֑את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּשְׁנֵ֧י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְבָשִׂ֛ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁנָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְזֶ֥בַח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁלָמִֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-3-20",
+      "title": "3:20",
+      "titleEn": "3:20",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהֵנִ֣יף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֣ן&;׀&;אֹתָ֡ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֶ֨חֶם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַבִּכֻּרִ֤ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּנוּפָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־שְׁנֵ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּבָשִׂ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קֹ֛דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְי֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַכֹּהֵֽן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-3-21",
+      "title": "3:21",
+      "titleEn": "3:21",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּקְרָאתֶ֞ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּעֶ֣צֶם&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיּ֣וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזֶּ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִֽקְרָא־קֹ֙דֶשׁ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְיֶ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־מְלֶ֥אכֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲבֹדָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַעֲשׂ֑וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֻקַּ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עוֹלָ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּכׇל־מוֹשְׁבֹ֥תֵיכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְדֹרֹֽתֵיכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-3-22",
+      "title": "3:22",
+      "titleEn": "3:22",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּֽבְקֻצְרְכֶ֞ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־קְצִ֣יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַרְצְכֶ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹֽא־תְכַלֶּ֞ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פְּאַ֤ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָֽׂדְךָ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּקֻצְרֶ֔ךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֶ֥קֶט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קְצִירְךָ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְלַקֵּ֑ט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֶֽעָנִ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלַגֵּר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּעֲזֹ֣ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹהֵיכֶֽם׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-3-23",
+      "title": "3:23",
+      "titleEn": "3:23",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְדַבֵּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵּאמֹֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-3-24",
+      "title": "3:24",
+      "titleEn": "3:24",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "דַּבֵּ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־בְּנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאמֹ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּחֹ֨דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשְּׁבִיעִ֜י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאֶחָ֣ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַחֹ֗דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְיֶ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שַׁבָּת֔וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זִכְר֥וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּרוּעָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקְרָא־קֹֽדֶשׁ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-3-25",
+      "title": "3:25",
+      "titleEn": "3:25",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כׇּל־מְלֶ֥אכֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲבֹדָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַעֲשׂ֑וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִקְרַבְתֶּ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִשֶּׁ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיהֹוָֽה׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-3-26",
+      "title": "3:26",
+      "titleEn": "3:26",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְדַבֵּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵּאמֹֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-3-27",
+      "title": "3:27",
+      "titleEn": "3:27",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אַ֡ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּעָשׂ֣וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַחֹ֩דֶשׁ֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשְּׁבִיעִ֨י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזֶּ֜ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "י֧וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכִּפֻּרִ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ה֗וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִֽקְרָא־קֹ֙דֶשׁ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְיֶ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעִנִּיתֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־נַפְשֹׁתֵיכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִקְרַבְתֶּ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִשֶּׁ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-3-28",
+      "title": "3:28",
+      "titleEn": "3:28",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְכׇל־מְלָאכָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַעֲשׂ֔וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּעֶ֖צֶם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיּ֣וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזֶּ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "י֤וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּפֻּרִים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ה֔וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְכַפֵּ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲלֵיכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹהֵיכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-3-29",
+      "title": "3:29",
+      "titleEn": "3:29",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כִּ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇל־הַנֶּ֙פֶשׁ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹֽא־תְעֻנֶּ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּעֶ֖צֶם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיּ֣וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזֶּ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנִכְרְתָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵֽעַמֶּֽיהָ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-3-30",
+      "title": "3:30",
+      "titleEn": "3:30",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְכׇל־הַנֶּ֗פֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּעֲשֶׂה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־מְלָאכָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּעֶ֖צֶם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיּ֣וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזֶּ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהַֽאֲבַדְתִּ֛י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַנֶּ֥פֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַהִ֖וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקֶּ֥רֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַמָּֽהּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-3-31",
+      "title": "3:31",
+      "titleEn": "3:31",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כׇּל־מְלָאכָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַעֲשׂ֑וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֻקַּ֤ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עוֹלָם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְדֹרֹ֣תֵיכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּכֹ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשְׁבֹֽתֵיכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-3-32",
+      "title": "3:32",
+      "titleEn": "3:32",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "שַׁבַּ֨ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שַׁבָּת֥וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הוּא֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעִנִּיתֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־נַפְשֹׁתֵיכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּתִשְׁעָ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַחֹ֙דֶשׁ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּעֶ֔רֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵעֶ֣רֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַד־עֶ֔רֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּשְׁבְּת֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שַׁבַּתְּכֶֽם׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-3-33",
+      "title": "3:33",
+      "titleEn": "3:33",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְדַבֵּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵּאמֹֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-3-34",
+      "title": "3:34",
+      "titleEn": "3:34",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "דַּבֵּ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־בְּנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאמֹ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּחֲמִשָּׁ֨ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָשָׂ֜ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "י֗וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַחֹ֤דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשְּׁבִיעִי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזֶּ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חַ֧ג",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַסֻּכּ֛וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁבְעַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָמִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-3-35",
+      "title": "3:35",
+      "titleEn": "3:35",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "בַּיּ֥וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָרִאשׁ֖וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקְרָא־קֹ֑דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־מְלֶ֥אכֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲבֹדָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַעֲשֽׂוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-3-36",
+      "title": "3:36",
+      "titleEn": "3:36",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "שִׁבְעַ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָמִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּקְרִ֥יבוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִשֶּׁ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיהֹוָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּיּ֣וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשְּׁמִינִ֡י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקְרָא־קֹ֩דֶשׁ֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְיֶ֨ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֜ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִקְרַבְתֶּ֨ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִשֶּׁ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽיהֹוָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲצֶ֣רֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִ֔וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־מְלֶ֥אכֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲבֹדָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַעֲשֽׂוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-3-37",
+      "title": "3:37",
+      "titleEn": "3:37",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֵ֚לֶּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹעֲדֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־תִּקְרְא֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקְרָאֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קֹ֑דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְהַקְרִ֨יב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִשֶּׁ֜ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיהֹוָ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֹלָ֧ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִנְחָ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זֶ֥בַח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּנְסָכִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דְּבַר־י֥וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּיוֹמֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-3-38",
+      "title": "3:38",
+      "titleEn": "3:38",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "מִלְּבַ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שַׁבְּתֹ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִלְּבַ֣ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַתְּנֽוֹתֵיכֶ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִלְּבַ֤ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־נִדְרֵיכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִלְּבַד֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־נִדְבֹ֣תֵיכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּתְּנ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-3-39",
+      "title": "3:39",
+      "titleEn": "3:39",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אַ֡ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּחֲמִשָּׁה֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָשָׂ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "י֜וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַחֹ֣דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשְּׁבִיעִ֗י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאׇסְפְּכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־תְּבוּאַ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֔רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תָּחֹ֥גּוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־חַג־יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁבְעַ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָמִ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּיּ֤וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָֽרִאשׁוֹן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שַׁבָּת֔וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבַיּ֥וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשְּׁמִינִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שַׁבָּתֽוֹן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-3-40",
+      "title": "3:40",
+      "titleEn": "3:40",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּלְקַחְתֶּ֨ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֜ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּיּ֣וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָרִאשׁ֗וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פְּרִ֨י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֵ֤ץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָדָר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּפֹּ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּמָרִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַעֲנַ֥ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֵץ־עָבֹ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעַרְבֵי־נָ֑חַל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּשְׂמַחְתֶּ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֛י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹהֵיכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁבְעַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָמִֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-3-41",
+      "title": "3:41",
+      "titleEn": "3:41",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְחַגֹּתֶ֤ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חַ֣ג",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽיהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁבְעַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָמִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּשָּׁנָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֻקַּ֤ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עוֹלָם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְדֹרֹ֣תֵיכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּחֹ֥דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשְּׁבִיעִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תָּחֹ֥גּוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-3-42",
+      "title": "3:42",
+      "titleEn": "3:42",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "בַּסֻּכֹּ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֵּשְׁב֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁבְעַ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָמִ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־הָֽאֶזְרָח֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּיִשְׂרָאֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֵשְׁב֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּסֻּכֹּֽת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-3-43",
+      "title": "3:43",
+      "titleEn": "3:43",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לְמַ֘עַן֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֵדְע֣וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דֹרֹֽתֵיכֶם֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַסֻּכּ֗וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הוֹשַׁ֙בְתִּי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּהוֹצִיאִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אוֹתָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאֶ֣רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִצְרָ֑יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹהֵיכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-3-44",
+      "title": "3:44",
+      "titleEn": "3:44",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְדַבֵּ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶֽת־מֹעֲדֵ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־בְּנֵ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵֽל׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-4-1",
+      "title": "4:1",
+      "titleEn": "4:1",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְדַבֵּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵּאמֹֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-4-2",
+      "title": "4:2",
+      "titleEn": "4:2",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "צַ֞ו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֗ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיִקְח֨וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵלֶ֜יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֶׁ֣מֶן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זַ֥יִת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָ֛ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כָּתִ֖ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַמָּא֑וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְהַעֲלֹ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֵ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תָּמִֽיד׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-4-3",
+      "title": "4:3",
+      "titleEn": "4:3",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "מִחוּץ֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְפָרֹ֨כֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעֵדֻ֜ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאֹ֣הֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹעֵ֗ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַעֲרֹךְ֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֨וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַהֲרֹ֜ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵעֶ֧רֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַד־בֹּ֛קֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תָּמִ֑יד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֻקַּ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עוֹלָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְדֹרֹֽתֵיכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-4-4",
+      "title": "4:4",
+      "titleEn": "4:4",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "עַ֚ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמְּנֹרָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַטְּהֹרָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַעֲרֹ֖ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַנֵּר֑וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תָּמִֽיד׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-4-5",
+      "title": "4:5",
+      "titleEn": "4:5",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְלָקַחְתָּ֣",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סֹ֔לֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאָפִיתָ֣",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֔הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁתֵּ֥ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶשְׂרֵ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חַלּ֑וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁנֵי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶשְׂרֹנִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְיֶ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַֽחַלָּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֶחָֽת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-4-6",
+      "title": "4:6",
+      "titleEn": "4:6",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְשַׂמְתָּ֥",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אוֹתָ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁתַּ֥יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַֽעֲרָכ֖וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֵׁ֣שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַֽמַּעֲרָ֑כֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֛ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשֻּׁלְחָ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַטָּהֹ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-4-7",
+      "title": "4:7",
+      "titleEn": "4:7",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְנָתַתָּ֥",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־הַֽמַּעֲרֶ֖כֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְבֹנָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זַכָּ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָיְתָ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַלֶּ֙חֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְאַזְכָּרָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִשֶּׁ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽיהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-4-8",
+      "title": "4:8",
+      "titleEn": "4:8",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "בְּי֨וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשַּׁבָּ֜ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּי֣וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשַּׁבָּ֗ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַֽעַרְכֶ֛נּוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תָּמִ֑יד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאֵ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵֽי־יִשְׂרָאֵ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּרִ֥ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עוֹלָֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-4-9",
+      "title": "4:9",
+      "titleEn": "4:9",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהָֽיְתָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְאַהֲרֹ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּלְבָנָ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַאֲכָלֻ֖הוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּמָק֣וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קָדֹ֑שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֡י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קֹ֩דֶשׁ֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קׇֽדָשִׁ֨ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ה֥וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ל֛וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאִשֵּׁ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חׇק־עוֹלָֽם׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-4-10",
+      "title": "4:10",
+      "titleEn": "4:10",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֵּצֵא֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־אִשָּׁ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרְאֵלִ֔ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהוּא֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־אִ֣ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִצְרִ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּת֖וֹךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֑ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּנָּצוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּֽמַּחֲנֶ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּ֚ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיִּשְׂרְאֵלִ֔ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאִ֖ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיִּשְׂרְאֵלִֽי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-4-11",
+      "title": "4:11",
+      "titleEn": "4:11",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַ֠יִּקֹּ֠ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־הָֽאִשָּׁ֨ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיִּשְׂרְאֵלִ֤ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַשֵּׁם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיְקַלֵּ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיָּבִ֥יאוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשֵׁ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִמּ֛וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁלֹמִ֥ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּת־דִּבְרִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְמַטֵּה־דָֽן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-4-12",
+      "title": "4:12",
+      "titleEn": "4:12",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיַּנִּיחֻ֖הוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּמִּשְׁמָ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְרֹ֥שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־פִּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָֽה׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-4-13",
+      "title": "4:13",
+      "titleEn": "4:13",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְדַבֵּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵּאמֹֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-4-14",
+      "title": "4:14",
+      "titleEn": "4:14",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "הוֹצֵ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַֽמְקַלֵּ֗ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מִחוּץ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽמַּחֲנֶ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְסָמְכ֧וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇֽל־הַשֹּׁמְעִ֛ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־יְדֵיהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־רֹאשׁ֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְרָגְמ֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־הָעֵדָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-4-15",
+      "title": "4:15",
+      "titleEn": "4:15",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאֶל־בְּנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּדַבֵּ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאמֹ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֥ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֛ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־יְקַלֵּ֥ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹהָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנָשָׂ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֶטְאֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-4-16",
+      "title": "4:16",
+      "titleEn": "4:16",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְנֹקֵ֤ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֵׁם־יְהֹוָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מ֣וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוּמָ֔ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רָג֥וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִרְגְּמוּ־ב֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־הָעֵדָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּגֵּר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כָּֽאֶזְרָ֔ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנׇקְבוֹ־שֵׁ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוּמָֽת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-4-17",
+      "title": "4:17",
+      "titleEn": "4:17",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִ֕ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַכֶּ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־נֶ֣פֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָדָ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מ֖וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוּמָֽת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-4-18",
+      "title": "4:18",
+      "titleEn": "4:18",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּמַכֵּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֶֽפֶשׁ־בְּהֵמָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְשַׁלְּמֶ֑נָּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֶ֖פֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּ֥חַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נָֽפֶשׁ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-4-19",
+      "title": "4:19",
+      "titleEn": "4:19",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִ֕ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־יִתֵּ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מ֖וּם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּעֲמִית֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּאֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָשָׂ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֵּ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֵעָ֥שֶׂה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לּֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-4-20",
+      "title": "4:20",
+      "titleEn": "4:20",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "שֶׁ֚בֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּ֣חַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֶׁ֔בֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֚יִן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּ֣חַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֔יִן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֵׁ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּ֣חַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֵׁ֑ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּאֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִתֵּ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוּם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּֽאָדָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֵּ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִנָּ֥תֶן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בּֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-4-21",
+      "title": "4:21",
+      "titleEn": "4:21",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּמַכֵּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְהֵמָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְשַׁלְּמֶ֑נָּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמַכֵּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָדָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוּמָֽת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-4-22",
+      "title": "4:22",
+      "titleEn": "4:22",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "מִשְׁפַּ֤ט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶחָד֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְיֶ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּגֵּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כָּאֶזְרָ֖ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְיֶ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֛י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹהֵיכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Emor-4-23",
+      "title": "4:23",
+      "titleEn": "4:23",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְדַבֵּ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁה֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵל֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיּוֹצִ֣יאוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַֽמְקַלֵּ֗ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מִחוּץ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽמַּחֲנֶ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּרְגְּמ֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָ֑בֶן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבְנֵֽי־יִשְׂרָאֵ֣ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָשׂ֔וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּֽאֲשֶׁ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צִוָּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מֹשֶֽׁה׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4544 @@
+{
+  "id": "Kedoshim",
+  "slug": "kedoshim",
+  "nameHeb": "ויקרא",
+  "nameEn": "Kedoshim",
+  "nusach": "torah",
+  "timeOfDay": "any",
+  "totalDuration": 0,
+  "audioUrl": "",
+  "sections": [
+    {
+      "id": "Kedoshim-1-1",
+      "title": "1:1",
+      "titleEn": "1:1",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְדַבֵּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵּאמֹֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-1-2",
+      "title": "1:2",
+      "titleEn": "1:2",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "דַּבֵּ֞ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־כׇּל־עֲדַ֧ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵי־יִשְׂרָאֵ֛ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאָמַרְתָּ֥",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲלֵהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קְדֹשִׁ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּהְי֑וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קָד֔וֹשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹהֵיכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-1-3",
+      "title": "1:3",
+      "titleEn": "1:3",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אִ֣ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִמּ֤וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאָבִיו֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּירָ֔אוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־שַׁבְּתֹתַ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּשְׁמֹ֑רוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹהֵיכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-1-4",
+      "title": "1:4",
+      "titleEn": "1:4",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אַל־תִּפְנוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הָ֣אֱלִילִ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וֵֽאלֹהֵי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַסֵּכָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַעֲשׂ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹהֵיכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-1-5",
+      "title": "1:5",
+      "titleEn": "1:5",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְכִ֧י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִזְבְּח֛וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זֶ֥בַח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁלָמִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיהֹוָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִֽרְצֹנְכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּזְבָּחֻֽהוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-1-6",
+      "title": "1:6",
+      "titleEn": "1:6",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "בְּי֧וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זִבְחֲכֶ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֵאָכֵ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִֽמׇּחֳרָ֑ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהַנּוֹתָר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַד־י֣וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשְּׁלִישִׁ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּאֵ֖שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשָּׂרֵֽף׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-1-7",
+      "title": "1:7",
+      "titleEn": "1:7",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֵאָכֹ֥ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֵאָכֵ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּיּ֣וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשְּׁלִישִׁ֑י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פִּגּ֥וּל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ה֖וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֵרָצֶֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-1-8",
+      "title": "1:8",
+      "titleEn": "1:8",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאֹֽכְלָיו֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲוֺנ֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשָּׂ֔א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־אֶת־קֹ֥דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חִלֵּ֑ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנִכְרְתָ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנֶּ֥פֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַהִ֖וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵעַמֶּֽיהָ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-1-9",
+      "title": "1:9",
+      "titleEn": "1:9",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּֽבְקֻצְרְכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־קְצִ֣יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַרְצְכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֧א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְכַלֶּ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פְּאַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׂדְךָ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִקְצֹ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֶ֥קֶט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קְצִֽירְךָ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְלַקֵּֽט׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-1-10",
+      "title": "1:10",
+      "titleEn": "1:10",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְכַרְמְךָ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְעוֹלֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּפֶ֥רֶט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּרְמְךָ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְלַקֵּ֑ט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֶֽעָנִ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלַגֵּר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּעֲזֹ֣ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹהֵיכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-1-11",
+      "title": "1:11",
+      "titleEn": "1:11",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לֹ֖א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּגְנֹ֑בוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹא־תְכַחֲשׁ֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹֽא־תְשַׁקְּר֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֥ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּעֲמִיתֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-1-12",
+      "title": "1:12",
+      "titleEn": "1:12",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְלֹֽא־תִשָּׁבְע֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִשְׁמִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַשָּׁ֑קֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְחִלַּלְתָּ֛",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־שֵׁ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹהֶ֖יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-1-13",
+      "title": "1:13",
+      "titleEn": "1:13",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לֹֽא־תַעֲשֹׁ֥ק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־רֵֽעֲךָ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִגְזֹ֑ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹֽא־תָלִ֞ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פְּעֻלַּ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׂכִ֛יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִתְּךָ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַד־בֹּֽקֶר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-1-14",
+      "title": "1:14",
+      "titleEn": "1:14",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לֹא־תְקַלֵּ֣ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֵרֵ֔שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלִפְנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִוֵּ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִתֵּ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִכְשֹׁ֑ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיָרֵ֥אתָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵּאֱלֹהֶ֖יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-1-15",
+      "title": "1:15",
+      "titleEn": "1:15",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לֹא־תַעֲשׂ֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָ֙וֶל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּמִּשְׁפָּ֔ט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹא־תִשָּׂ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פְנֵי־דָ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֶהְדַּ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גָד֑וֹל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּצֶ֖דֶק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּשְׁפֹּ֥ט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲמִיתֶֽךָ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-1-16",
+      "title": "1:16",
+      "titleEn": "1:16",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לֹא־תֵלֵ֤ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רָכִיל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּעַמֶּ֔יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַעֲמֹ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־דַּ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֵעֶ֑ךָ*(בכתר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ארם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צובה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "היה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כתוב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֵעֶ֑יךָ)",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-1-17",
+      "title": "1:17",
+      "titleEn": "1:17",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לֹֽא־תִשְׂנָ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־אָחִ֖יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּלְבָבֶ֑ךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הוֹכֵ֤חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תּוֹכִ֙יחַ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־עֲמִיתֶ֔ךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹא־תִשָּׂ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֵֽטְא׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-1-18",
+      "title": "1:18",
+      "titleEn": "1:18",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לֹֽא־תִקֹּ֤ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹֽא־תִטֹּר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַמֶּ֔ךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאָֽהַבְתָּ֥",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְרֵעֲךָ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כָּמ֑וֹךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-1-19",
+      "title": "1:19",
+      "titleEn": "1:19",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֶֽת־חֻקֹּתַי֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּשְׁמֹ֒רוּ֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּהֶמְתְּךָ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹא־תַרְבִּ֣יעַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּלְאַ֔יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׂדְךָ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹא־תִזְרַ֣ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּלְאָ֑יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבֶ֤גֶד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּלְאַ֙יִם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שַֽׁעַטְנֵ֔ז",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַעֲלֶ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלֶֽיךָ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-1-20",
+      "title": "1:20",
+      "titleEn": "1:20",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְ֠אִ֠ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־יִשְׁכַּ֨ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־אִשָּׁ֜ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁכְבַת־זֶ֗רַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִ֤וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁפְחָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֶחֱרֶ֣פֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְאִ֔ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהׇפְדֵּה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נִפְדָּ֔תָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֥וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֻפְשָׁ֖הֿ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נִתַּן־לָ֑הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּקֹּ֧רֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּהְיֶ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוּמְת֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּי־לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֻפָּֽשָׁה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-1-21",
+      "title": "1:21",
+      "titleEn": "1:21",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהֵבִ֤יא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־אֲשָׁמוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽיהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־פֶּ֖תַח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹ֣הֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹעֵ֑ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֖יל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָשָֽׁם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-1-22",
+      "title": "1:22",
+      "titleEn": "1:22",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְכִפֶּר֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלָ֨יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֜ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאֵ֤יל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָֽאָשָׁם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־חַטָּאת֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חָטָ֑א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנִסְלַ֣ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ל֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵחַטָּאת֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חָטָֽא׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-1-23",
+      "title": "1:23",
+      "titleEn": "1:23",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְכִי־תָבֹ֣אוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הָאָ֗רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּנְטַעְתֶּם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־עֵ֣ץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַאֲכָ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַעֲרַלְתֶּ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עׇרְלָת֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־פִּרְי֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁלֹ֣שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁנִ֗ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְיֶ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲרֵלִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֵאָכֵֽל׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-1-24",
+      "title": "1:24",
+      "titleEn": "1:24",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּבַשָּׁנָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָרְבִיעִ֔ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְיֶ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־פִּרְי֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קֹ֥דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִלּוּלִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-1-25",
+      "title": "1:25",
+      "titleEn": "1:25",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּבַשָּׁנָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַחֲמִישִׁ֗ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֹּֽאכְלוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־פִּרְי֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְהוֹסִ֥יף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּבוּאָת֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹהֵיכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-1-26",
+      "title": "1:26",
+      "titleEn": "1:26",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֹאכְל֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־הַדָּ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְנַחֲשׁ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְעוֹנֵֽנוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-1-27",
+      "title": "1:27",
+      "titleEn": "1:27",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַקִּ֔פוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פְּאַ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֹאשְׁכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַשְׁחִ֔ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פְּאַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זְקָנֶֽךָ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-1-28",
+      "title": "1:28",
+      "titleEn": "1:28",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְשֶׂ֣רֶט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָנֶ֗פֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֤א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִתְּנוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּבְשַׂרְכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּכְתֹ֣בֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קַֽעֲקַ֔ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִתְּנ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-1-29",
+      "title": "1:29",
+      "titleEn": "1:29",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אַל־תְּחַלֵּ֥ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶֽת־בִּתְּךָ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְהַזְנוֹתָ֑הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹא־תִזְנֶ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֔רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמָלְאָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֖רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זִמָּֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-1-30",
+      "title": "1:30",
+      "titleEn": "1:30",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֶת־שַׁבְּתֹתַ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּשְׁמֹ֔רוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִקְדָּשִׁ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּירָ֑אוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-1-31",
+      "title": "1:31",
+      "titleEn": "1:31",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אַל־תִּפְנ֤וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הָאֹבֹת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶל־הַיִּדְּעֹנִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַל־תְּבַקְשׁ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְטׇמְאָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָהֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹהֵיכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-1-32",
+      "title": "1:32",
+      "titleEn": "1:32",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "מִפְּנֵ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֵׂיבָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תָּק֔וּם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָדַרְתָּ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָקֵ֑ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיָרֵ֥אתָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵּאֱלֹהֶ֖יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָֽה׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-1-33",
+      "title": "1:33",
+      "titleEn": "1:33",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְכִֽי־יָג֧וּר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִתְּךָ֛",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גֵּ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאַרְצְכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תוֹנ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-1-34",
+      "title": "1:34",
+      "titleEn": "1:34",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כְּאֶזְרָ֣ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִכֶּם֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְיֶ֨ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֜ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַגֵּ֣ר&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַגָּ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִתְּכֶ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאָהַבְתָּ֥",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כָּמ֔וֹךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־גֵרִ֥ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֱיִיתֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאֶ֣רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִצְרָ֑יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹהֵיכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-1-35",
+      "title": "1:35",
+      "titleEn": "1:35",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לֹא־תַעֲשׂ֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָ֖וֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּמִּשְׁפָּ֑ט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּמִּדָּ֕ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּמִּשְׁקָ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבַמְּשׂוּרָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-1-36",
+      "title": "1:36",
+      "titleEn": "1:36",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "מֹ֧אזְנֵי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צֶ֣דֶק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַבְנֵי־צֶ֗דֶק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֥יפַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צֶ֛דֶק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִ֥ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צֶ֖דֶק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְיֶ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹֽהֵיכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־הוֹצֵ֥אתִי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאֶ֥רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִצְרָֽיִם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-1-37",
+      "title": "1:37",
+      "titleEn": "1:37",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּשְׁמַרְתֶּ֤ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־כׇּל־חֻקֹּתַי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־כׇּל־מִשְׁפָּטַ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַעֲשִׂיתֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָֽה׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-2-1",
+      "title": "2:1",
+      "titleEn": "2:1",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְדַבֵּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵּאמֹֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-2-2",
+      "title": "2:2",
+      "titleEn": "2:2",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאֶל־בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵל֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֹּאמַר֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֣ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִישׁ֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִבְּנֵ֨י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֜ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִן־הַגֵּ֣ר&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַגָּ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּיִשְׂרָאֵ֗ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִתֵּ֧ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִזַּרְע֛וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַמֹּ֖לֶךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מ֣וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוּמָ֑ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֖רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִרְגְּמֻ֥הוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָאָֽבֶן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-2-3",
+      "title": "2:3",
+      "titleEn": "2:3",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַאֲנִ֞י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתֵּ֤ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־פָּנַי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּאִ֣ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַה֔וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִכְרַתִּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקֶּ֣רֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַמּ֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִזַּרְעוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נָתַ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַמֹּ֔לֶךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְמַ֗עַן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טַמֵּא֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מִקְדָּשִׁ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּלְחַלֵּ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־שֵׁ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קׇדְשִֽׁי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-2-4",
+      "title": "2:4",
+      "titleEn": "2:4",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִ֡ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַעְלֵ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַעְלִ֩ימֽוּ֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֨ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֜רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־עֵֽינֵיהֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הָאִ֣ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַה֔וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּתִתּ֥וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִזַּרְע֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַמֹּ֑לֶךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְבִלְתִּ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָמִ֥ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-2-5",
+      "title": "2:5",
+      "titleEn": "2:5",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְשַׂמְתִּ֨י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֧י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־פָּנַ֛י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּאִ֥ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַה֖וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבְמִשְׁפַּחְתּ֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִכְרַתִּ֨י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֜וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵ֣ת&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־הַזֹּנִ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַחֲרָ֗יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִזְנ֛וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַחֲרֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמֹּ֖לֶךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקֶּ֥רֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַמָּֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-2-6",
+      "title": "2:6",
+      "titleEn": "2:6",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהַנֶּ֗פֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּפְנֶ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הָֽאֹבֹת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶל־הַיִּדְּעֹנִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִזְנֹ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַחֲרֵיהֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנָתַתִּ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־פָּנַי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּנֶּ֣פֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַהִ֔וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִכְרַתִּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקֶּ֥רֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַמּֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-2-7",
+      "title": "2:7",
+      "titleEn": "2:7",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהִ֨תְקַדִּשְׁתֶּ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וִהְיִיתֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קְדֹשִׁ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֛י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹהֵיכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-2-8",
+      "title": "2:8",
+      "titleEn": "2:8",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּשְׁמַרְתֶּם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־חֻקֹּתַ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַעֲשִׂיתֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְקַדִּשְׁכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-2-9",
+      "title": "2:9",
+      "titleEn": "2:9",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כִּֽי־אִ֣ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֗ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְקַלֵּ֧ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־אָבִ֛יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־אִמּ֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מ֣וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוּמָ֑ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָבִ֧יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאִמּ֛וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קִלֵּ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דָּמָ֥יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בּֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-2-10",
+      "title": "2:10",
+      "titleEn": "2:10",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִ֗ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִנְאַף֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־אֵ֣שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֔ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִנְאַ֖ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־אֵ֣שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֵעֵ֑הוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֽוֹת־יוּמַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנֹּאֵ֖ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהַנֹּאָֽפֶת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-2-11",
+      "title": "2:11",
+      "titleEn": "2:11",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִ֗ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׁכַּב֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־אֵ֣שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָבִ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶרְוַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָבִ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גִּלָּ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֽוֹת־יוּמְת֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁנֵיהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דְּמֵיהֶ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-2-12",
+      "title": "2:12",
+      "titleEn": "2:12",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִ֗ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׁכַּב֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־כַּלָּת֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מ֥וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוּמְת֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁנֵיהֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֶּ֥בֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָשׂ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דְּמֵיהֶ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-2-13",
+      "title": "2:13",
+      "titleEn": "2:13",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִ֗ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׁכַּ֤ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־זָכָר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִשְׁכְּבֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִשָּׁ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תּוֹעֵבָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָשׂ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁנֵיהֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מ֥וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוּמָ֖תוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דְּמֵיהֶ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-2-14",
+      "title": "2:14",
+      "titleEn": "2:14",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִ֗ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִקַּ֧ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־אִשָּׁ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־אִמָּ֖הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זִמָּ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִ֑וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּאֵ֞שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרְפ֤וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶתְהֶ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹא־תִהְיֶ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זִמָּ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּתוֹכְכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-2-15",
+      "title": "2:15",
+      "titleEn": "2:15",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִ֗ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִתֵּ֧ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁכׇבְתּ֛וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּבְהֵמָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מ֣וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוּמָ֑ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־הַבְּהֵמָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּהֲרֹֽגוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-2-16",
+      "title": "2:16",
+      "titleEn": "2:16",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִשָּׁ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּקְרַ֤ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־כׇּל־בְּהֵמָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְרִבְעָ֣הֿ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֔הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָרַגְתָּ֥",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָאִשָּׁ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־הַבְּהֵמָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מ֥וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוּמָ֖תוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דְּמֵיהֶ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-2-17",
+      "title": "2:17",
+      "titleEn": "2:17",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִ֣ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־יִקַּ֣ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־אֲחֹת֡וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּת־אָבִ֣יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַת־אִ֠מּ֠וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְרָאָ֨ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־עֶרְוָתָ֜הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִֽיא־תִרְאֶ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־עֶרְוָתוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֶ֣סֶד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ה֔וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנִ֨כְרְת֔וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְעֵינֵ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַמָּ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶרְוַ֧ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲחֹת֛וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גִּלָּ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲוֺנ֥וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשָּֽׂא׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-2-18",
+      "title": "2:18",
+      "titleEn": "2:18",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְ֠אִ֠ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־יִשְׁכַּ֨ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־אִשָּׁ֜ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דָּוָ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְגִלָּ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־עֶרְוָתָהּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מְקֹרָ֣הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֶֽעֱרָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִ֕וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גִּלְּתָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מְק֣וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דָּמֶ֑יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנִכְרְת֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁנֵיהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקֶּ֥רֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַמָּֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-2-19",
+      "title": "2:19",
+      "titleEn": "2:19",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְעֶרְוַ֨ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲח֧וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִמְּךָ֛",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַאֲח֥וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָבִ֖יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְגַלֵּ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֧י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־שְׁאֵר֛וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֶעֱרָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲוֺנָ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשָּֽׂאוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-2-20",
+      "title": "2:20",
+      "titleEn": "2:20",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִ֗ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׁכַּב֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־דֹּ֣דָת֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶרְוַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דֹּד֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גִּלָּ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֶטְאָ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשָּׂ֖אוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲרִירִ֥ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָמֻֽתוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-2-21",
+      "title": "2:21",
+      "titleEn": "2:21",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִ֗ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִקַּ֛ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־אֵ֥שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָחִ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נִדָּ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִ֑וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶרְוַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָחִ֛יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גִּלָּ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲרִירִ֥ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְיֽוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-2-22",
+      "title": "2:22",
+      "titleEn": "2:22",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּשְׁמַרְתֶּ֤ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־כׇּל־חֻקֹּתַי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־כׇּל־מִשְׁפָּטַ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַעֲשִׂיתֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹא־תָקִ֤יא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֔רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֜י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵבִ֥יא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְכֶ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁ֖מָּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָשֶׁ֥בֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּֽהּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-2-23",
+      "title": "2:23",
+      "titleEn": "2:23",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְלֹ֤א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֵֽלְכוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּחֻקֹּ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַגּ֔וֹי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־אֲנִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְשַׁלֵּ֖חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִפְּנֵיכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־כׇּל־אֵ֙לֶּה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָשׂ֔וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָאָקֻ֖ץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-2-24",
+      "title": "2:24",
+      "titleEn": "2:24",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וָאֹמַ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַתֶּם֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּֽירְשׁ֣וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־אַדְמָתָם֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַאֲנִ֞י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְּנֶ֤נָּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָרֶ֣שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֔הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶ֛רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָבַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חָלָ֖ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּדְבָ֑שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹֽהֵיכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־הִבְדַּ֥לְתִּי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הָֽעַמִּֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-2-25",
+      "title": "2:25",
+      "titleEn": "2:25",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהִבְדַּלְתֶּ֞ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֵּֽין־הַבְּהֵמָ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַטְּהֹרָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַטְּמֵאָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבֵין־הָע֥וֹף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַטָּמֵ֖א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַטָּהֹ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹֽא־תְשַׁקְּצ֨וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־נַפְשֹֽׁתֵיכֶ֜ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּבְּהֵמָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבָע֗וֹף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבְכֹל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּרְמֹ֣שׂ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָֽאֲדָמָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־הִבְדַּ֥לְתִּי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְטַמֵּֽא׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-2-26",
+      "title": "2:26",
+      "titleEn": "2:26",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וִהְיִ֤יתֶם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קְדֹשִׁ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קָד֖וֹשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָאַבְדִּ֥ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְכֶ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הָֽעַמִּ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִהְי֥וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִֽי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Kedoshim-2-27",
+      "title": "2:27",
+      "titleEn": "2:27",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִ֣ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֽוֹ־אִשָּׁ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּי־יִהְיֶ֨ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָהֶ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֛וֹב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֥וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִדְּעֹנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מ֣וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוּמָ֑תוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּאֶ֛בֶן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִרְגְּמ֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דְּמֵיהֶ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּֽם׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    }
+  ]
+}

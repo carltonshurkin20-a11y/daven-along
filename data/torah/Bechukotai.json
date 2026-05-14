@@ -1,0 +1,5487 @@
+{
+  "id": "Bechukotai",
+  "slug": "bechukotai",
+  "nameHeb": "ויקרא",
+  "nameEn": "Bechukotai",
+  "nusach": "torah",
+  "timeOfDay": "any",
+  "totalDuration": 0,
+  "audioUrl": "",
+  "sections": [
+    {
+      "id": "Bechukotai-1-1",
+      "title": "1:1",
+      "titleEn": "1:1",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לֹֽא־תַעֲשׂ֨וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֜ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלִילִ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּפֶ֤סֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמַצֵּבָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹֽא־תָקִ֣ימוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶ֣בֶן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַשְׂכִּ֗ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֤א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִתְּנוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאַרְצְכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְהִֽשְׁתַּחֲוֺ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלֶ֑יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֛י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹהֵיכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-2",
+      "title": "1:2",
+      "titleEn": "1:2",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֶת־שַׁבְּתֹתַ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּשְׁמֹ֔רוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִקְדָּשִׁ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּירָ֑אוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָֽה׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-3",
+      "title": "1:3",
+      "titleEn": "1:3",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אִם־בְּחֻקֹּתַ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֵּלֵ֑כוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־מִצְוֺתַ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּשְׁמְר֔וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַעֲשִׂיתֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-4",
+      "title": "1:4",
+      "titleEn": "1:4",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְנָתַתִּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גִשְׁמֵיכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּעִתָּ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנָתְנָ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֙רֶץ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְבוּלָ֔הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעֵ֥ץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשָּׂדֶ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִתֵּ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פִּרְיֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-5",
+      "title": "1:5",
+      "titleEn": "1:5",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהִשִּׂ֨יג",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דַּ֙יִשׁ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בָּצִ֔יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבָצִ֖יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַשִּׂ֣יג",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־זָ֑רַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַאֲכַלְתֶּ֤ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַחְמְכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָשֹׂ֔בַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וִֽישַׁבְתֶּ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָבֶ֖טַח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאַרְצְכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-6",
+      "title": "1:6",
+      "titleEn": "1:6",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְנָתַתִּ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁלוֹם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּאָ֔רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּשְׁכַבְתֶּ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵ֣ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַחֲרִ֑יד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִשְׁבַּתִּ֞י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חַיָּ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רָעָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הָאָ֔רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְחֶ֖רֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹא־תַעֲבֹ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאַרְצְכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-7",
+      "title": "1:7",
+      "titleEn": "1:7",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּרְדַפְתֶּ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־אֹיְבֵיכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנָפְל֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵיכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֶחָֽרֶב׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-8",
+      "title": "1:8",
+      "titleEn": "1:8",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְרָדְפ֨וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִכֶּ֤ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲמִשָּׁה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמֵאָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִכֶּ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רְבָבָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִרְדֹּ֑פוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנָפְל֧וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹיְבֵיכֶ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵיכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֶחָֽרֶב׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-9",
+      "title": "1:9",
+      "titleEn": "1:9",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּפָנִ֣יתִי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲלֵיכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִפְרֵיתִ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִרְבֵּיתִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַהֲקִימֹתִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בְּרִיתִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִתְּכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-10",
+      "title": "1:10",
+      "titleEn": "1:10",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַאֲכַלְתֶּ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָשָׁ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נוֹשָׁ֑ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיָשָׁ֕ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִפְּנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חָדָ֖שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תּוֹצִֽיאוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-11",
+      "title": "1:11",
+      "titleEn": "1:11",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְנָתַתִּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִשְׁכָּנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּתוֹכְכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹֽא־תִגְעַ֥ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נַפְשִׁ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-12",
+      "title": "1:12",
+      "titleEn": "1:12",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהִתְהַלַּכְתִּי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּת֣וֹכְכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָיִ֥יתִי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵֽאלֹהִ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַתֶּ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּהְיוּ־לִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְעָֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-13",
+      "title": "1:13",
+      "titleEn": "1:13",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֲנִ֞י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹֽהֵיכֶ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הוֹצֵ֤אתִי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאֶ֣רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִצְרַ֔יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִֽהְיֹ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲבָדִ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָאֶשְׁבֹּר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹטֹ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֻלְּכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָאוֹלֵ֥ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קֽוֹמְמִיּֽוּת׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-14",
+      "title": "1:14",
+      "titleEn": "1:14",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם־לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִשְׁמְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִ֑י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַעֲשׂ֔וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־הַמִּצְוֺ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֵֽלֶּה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-15",
+      "title": "1:15",
+      "titleEn": "1:15",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם־בְּחֻקֹּתַ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּמְאָ֔סוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאִ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מִשְׁפָּטַ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּגְעַ֣ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נַפְשְׁכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְבִלְתִּ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲשׂוֹת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־כׇּל־מִצְוֺתַ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְהַפְרְכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בְּרִיתִֽי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-16",
+      "title": "1:16",
+      "titleEn": "1:16",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אַף־אֲנִ֞י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶֽעֱשֶׂה־זֹּ֣את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִפְקַדְתִּ֨י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲלֵיכֶ֤ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּֽהָלָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַשַּׁחֶ֣פֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־הַקַּדַּ֔חַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְכַלּ֥וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֵינַ֖יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמְדִיבֹ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נָ֑פֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּזְרַעְתֶּ֤ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָרִיק֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זַרְעֲכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַאֲכָלֻ֖הוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹיְבֵיכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-17",
+      "title": "1:17",
+      "titleEn": "1:17",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְנָתַתִּ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פָנַי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנִגַּפְתֶּ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹיְבֵיכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְרָד֤וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֹֽׂנְאֵיכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנַסְתֶּ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵין־רֹדֵ֥ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-18",
+      "title": "1:18",
+      "titleEn": "1:18",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִ֨ם־עַד־אֵ֔לֶּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִשְׁמְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִ֑י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיָסַפְתִּי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְיַסְּרָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֶׁ֖בַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־חַטֹּאתֵיכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-19",
+      "title": "1:19",
+      "titleEn": "1:19",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְשָׁבַרְתִּ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־גְּא֣וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֻזְּכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנָתַתִּ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־שְׁמֵיכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּבַּרְזֶ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶֽת־אַרְצְכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּנְּחֻשָֽׁה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-20",
+      "title": "1:20",
+      "titleEn": "1:20",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְתַ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָרִ֖יק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֹּחֲכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹֽא־תִתֵּ֤ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַרְצְכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־יְבוּלָ֔הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעֵ֣ץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֔רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִתֵּ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פִּרְיֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-21",
+      "title": "1:21",
+      "titleEn": "1:21",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם־תֵּֽלְכ֤וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִמִּי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קֶ֔רִי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֹאב֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִשְׁמֹ֣עַֽ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִ֑י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיָסַפְתִּ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲלֵיכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַכָּ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֶׁ֖בַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּחַטֹּאתֵיכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-22",
+      "title": "1:22",
+      "titleEn": "1:22",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהִשְׁלַחְתִּ֨י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָכֶ֜ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־חַיַּ֤ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשָּׂדֶה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשִׁכְּלָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִכְרִ֙יתָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בְּהֶמְתְּכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִמְעִ֖יטָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנָשַׁ֖מּוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דַּרְכֵיכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-23",
+      "title": "1:23",
+      "titleEn": "1:23",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִ֨ם־בְּאֵ֔לֶּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִוָּסְר֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִ֑י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַהֲלַכְתֶּ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִמִּ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קֶֽרִי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-24",
+      "title": "1:24",
+      "titleEn": "1:24",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהָלַכְתִּ֧י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַף־אֲנִ֛י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִמָּכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּקֶ֑רִי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִכֵּיתִ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גַּם־אָ֔נִי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֶׁ֖בַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־חַטֹּאתֵיכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-25",
+      "title": "1:25",
+      "titleEn": "1:25",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהֵבֵאתִ֨י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲלֵיכֶ֜ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֶ֗רֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֹקֶ֙מֶת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נְקַם־בְּרִ֔ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנֶאֱסַפְתֶּ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־עָרֵיכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשִׁלַּ֤חְתִּי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דֶ֙בֶר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּת֣וֹכְכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנִתַּתֶּ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּיַד־אוֹיֵֽב׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-26",
+      "title": "1:26",
+      "titleEn": "1:26",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "בְּשִׁבְרִ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶם֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַטֵּה־לֶ֒חֶם֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְ֠אָפ֠וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶ֣שֶׂר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נָשִׁ֤ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַחְמְכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּתַנּ֣וּר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶחָ֔ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהֵשִׁ֥יבוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַחְמְכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּמִּשְׁקָ֑ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַאֲכַלְתֶּ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִשְׂבָּֽעוּ׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-27",
+      "title": "1:27",
+      "titleEn": "1:27",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִ֨ם־בְּזֹ֔את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִשְׁמְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִ֑י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַהֲלַכְתֶּ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִמִּ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּקֶֽרִי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-28",
+      "title": "1:28",
+      "titleEn": "1:28",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהָלַכְתִּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִמָּכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּחֲמַת־קֶ֑רִי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיִסַּרְתִּ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַף־אָ֔נִי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֶׁ֖בַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־חַטֹּאתֵיכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-29",
+      "title": "1:29",
+      "titleEn": "1:29",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַאֲכַלְתֶּ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּשַׂ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵיכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבְשַׂ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֹתֵיכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֹּאכֵֽלוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-30",
+      "title": "1:30",
+      "titleEn": "1:30",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהִשְׁמַדְתִּ֞י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בָּמֹֽתֵיכֶ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִכְרַתִּי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־חַמָּ֣נֵיכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנָֽתַתִּי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־פִּגְרֵיכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־פִּגְרֵ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גִּלּוּלֵיכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְגָעֲלָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נַפְשִׁ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-31",
+      "title": "1:31",
+      "titleEn": "1:31",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְנָתַתִּ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־עָֽרֵיכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חׇרְבָּ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַהֲשִׁמּוֹתִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מִקְדְּשֵׁיכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָרִ֔יחַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּרֵ֖יחַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נִיחֹֽחֲכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-32",
+      "title": "1:32",
+      "titleEn": "1:32",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַהֲשִׁמֹּתִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָאָ֑רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשָֽׁמְמ֤וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלֶ֙יהָ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹֽיְבֵיכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיֹּשְׁבִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּֽהּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-33",
+      "title": "1:33",
+      "titleEn": "1:33",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאֶתְכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱזָרֶ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַגּוֹיִ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַהֲרִיקֹתִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַחֲרֵיכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חָ֑רֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָיְתָ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַרְצְכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁמָמָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעָרֵיכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְי֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חׇרְבָּֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-34",
+      "title": "1:34",
+      "titleEn": "1:34",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אָז֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּרְצֶ֨ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֜רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־שַׁבְּתֹתֶ֗יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֹּ֚ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְמֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הׇשַּׁמָּ֔הֿ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַתֶּ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאֶ֣רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹיְבֵיכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָ֚ז",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּשְׁבַּ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֔רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִרְצָ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־שַׁבְּתֹתֶֽיהָ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-35",
+      "title": "1:35",
+      "titleEn": "1:35",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כׇּל־יְמֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הׇשַּׁמָּ֖הֿ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּשְׁבֹּ֑ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֧ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹֽא־שָׁבְתָ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּשַׁבְּתֹתֵיכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּשִׁבְתְּכֶ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלֶֽיהָ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-36",
+      "title": "1:36",
+      "titleEn": "1:36",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהַנִּשְׁאָרִ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהֵבֵ֤אתִי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹ֙רֶךְ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּלְבָבָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאַרְצֹ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹיְבֵיהֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְרָדַ֣ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ק֚וֹל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלֶ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נִדָּ֔ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנָס֧וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְנֻֽסַת־חֶ֛רֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנָפְל֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵ֥ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֹדֵֽף׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-37",
+      "title": "1:37",
+      "titleEn": "1:37",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְכָשְׁל֧וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִישׁ־בְּאָחִ֛יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּמִפְּנֵי־חֶ֖רֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְרֹדֵ֣ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָ֑יִן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹא־תִֽהְיֶ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּקוּמָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹֽיְבֵיכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-38",
+      "title": "1:38",
+      "titleEn": "1:38",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַאֲבַדְתֶּ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּגּוֹיִ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאָכְלָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶ֖רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹיְבֵיכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-39",
+      "title": "1:39",
+      "titleEn": "1:39",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהַנִּשְׁאָרִ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּכֶ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִמַּ֙קּוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּֽעֲוֺנָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאַרְצֹ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹיְבֵיכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַ֛ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּעֲוֺנֹ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲבֹתָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִתָּ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִמָּֽקּוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-40",
+      "title": "1:40",
+      "titleEn": "1:40",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהִתְוַדּ֤וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־עֲוֺנָם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־עֲוֺ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲבֹתָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּמַעֲלָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מָֽעֲלוּ־בִ֑י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַ֕ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־הָֽלְכ֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִמִּ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּקֶֽרִי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-41",
+      "title": "1:41",
+      "titleEn": "1:41",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אַף־אֲנִ֗י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵלֵ֤ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִמָּם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּקֶ֔רִי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהֵבֵאתִ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאֶ֖רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹיְבֵיהֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אוֹ־אָ֣ז",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִכָּנַ֗ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְבָבָם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֶֽעָרֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאָ֖ז",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִרְצ֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־עֲוֺנָֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-42",
+      "title": "1:42",
+      "titleEn": "1:42",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְזָכַרְתִּ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בְּרִיתִ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַעֲק֑וֹב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַף֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בְּרִיתִ֨י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִצְחָ֜ק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַ֨ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בְּרִיתִ֧י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַבְרָהָ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶזְכֹּ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָאָ֥רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶזְכֹּֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-43",
+      "title": "1:43",
+      "titleEn": "1:43",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהָאָ֩רֶץ֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֵּעָזֵ֨ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵהֶ֜ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְתִ֣רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־שַׁבְּתֹתֶ֗יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בׇּהְשַׁמָּהֿ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵהֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהֵ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִרְצ֣וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־עֲוֺנָ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַ֣עַן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבְיַ֔עַן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּמִשְׁפָּטַ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מָאָ֔סוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־חֻקֹּתַ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גָּעֲלָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נַפְשָֽׁם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-44",
+      "title": "1:44",
+      "titleEn": "1:44",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאַף־גַּם־זֹ֠את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּֽהְיוֹתָ֞ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאֶ֣רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹֽיְבֵיהֶ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹֽא־מְאַסְתִּ֤ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹֽא־גְעַלְתִּים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְכַלֹּתָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְהָפֵ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּרִיתִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִתָּ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֛י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹהֵיהֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-45",
+      "title": "1:45",
+      "titleEn": "1:45",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְזָכַרְתִּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּרִ֣ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רִאשֹׁנִ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הוֹצֵֽאתִי־אֹתָם֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאֶ֨רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִצְרַ֜יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְעֵינֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַגּוֹיִ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִהְי֥וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָהֶ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאלֹהִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-1-46",
+      "title": "1:46",
+      "titleEn": "1:46",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֵ֠לֶּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַֽחֻקִּ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהַמִּשְׁפָּטִים֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהַתּוֹרֹת֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נָתַ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֵּינ֕וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבֵ֖ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֑ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּהַ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סִינַ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּיַד־מֹשֶֽׁה׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-2-1",
+      "title": "2:1",
+      "titleEn": "2:1",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְדַבֵּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵּאמֹֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-2-2",
+      "title": "2:2",
+      "titleEn": "2:2",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "דַּבֵּ֞ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־בְּנֵ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאָמַרְתָּ֣",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲלֵהֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֕ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַפְלִ֖א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֶ֑דֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּעֶרְכְּךָ֥",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נְפָשֹׁ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽיהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-2-3",
+      "title": "2:3",
+      "titleEn": "2:3",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהָיָ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶרְכְּךָ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזָּכָ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִבֶּן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶשְׂרִ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁנָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעַ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־שִׁשִּׁ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁנָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָיָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶרְכְּךָ֗",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲמִשִּׁ֛ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֶׁ֥קֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֶּ֖סֶף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּשֶׁ֥קֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַקֹּֽדֶשׁ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-2-4",
+      "title": "2:4",
+      "titleEn": "2:4",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם־נְקֵבָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִ֑וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָיָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶרְכְּךָ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁלֹשִׁ֥ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָֽׁקֶל׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-2-5",
+      "title": "2:5",
+      "titleEn": "2:5",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִ֨ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִבֶּן־חָמֵ֜שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁנִ֗ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעַד֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־עֶשְׂרִ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁנָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָיָ֧ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶרְכְּךָ֛",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזָּכָ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶשְׂרִ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁקָלִ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלַנְּקֵבָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲשֶׂ֥רֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁקָלִֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-2-6",
+      "title": "2:6",
+      "titleEn": "2:6",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִבֶּן־חֹ֗דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעַד֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־חָמֵ֣שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁנִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָיָ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶרְכְּךָ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזָּכָ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲמִשָּׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁקָלִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כָּ֑סֶף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלַנְּקֵבָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶרְכְּךָ֔",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁלֹ֥שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁקָלִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כָּֽסֶף׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-2-7",
+      "title": "2:7",
+      "titleEn": "2:7",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְ֠אִ֠ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִבֶּן־שִׁשִּׁ֨ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁנָ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָמַ֙עְלָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִם־זָכָ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָיָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶרְכְּךָ֔",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲמִשָּׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָשָׂ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁ֑קֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלַנְּקֵבָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲשָׂרָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁקָלִֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-2-8",
+      "title": "2:8",
+      "titleEn": "2:8",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם־מָ֥ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הוּא֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵֽעֶרְכֶּ֔ךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהֶֽעֱמִידוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהֶעֱרִ֥יךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֑ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־פִּ֗י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּשִּׂיג֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַ֣ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנֹּדֵ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַעֲרִיכֶ֖נּוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵֽן׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-2-9",
+      "title": "2:9",
+      "titleEn": "2:9",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִ֨ם־בְּהֵמָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַקְרִ֧יבוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמֶּ֛נָּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קׇרְבָּ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽיהֹוָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֹּל֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִתֵּ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמֶּ֛נּוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִֽהְיֶה־קֹּֽדֶשׁ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-2-10",
+      "title": "2:10",
+      "titleEn": "2:10",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַחֲלִיפֶ֗נּוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹֽא־יָמִ֥יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֛וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ט֥וֹב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּרָ֖ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אוֹ־רַ֣ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּט֑וֹב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאִם־הָמֵ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָמִ֤יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּהֵמָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּבְהֵמָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָֽיָה־ה֥וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּתְמוּרָת֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִֽהְיֶה־קֹּֽדֶשׁ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-2-11",
+      "title": "2:11",
+      "titleEn": "2:11",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־בְּהֵמָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טְמֵאָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲ֠שֶׁ֠ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹא־יַקְרִ֧יבוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמֶּ֛נָּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קׇרְבָּ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽיהֹוָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהֶֽעֱמִ֥יד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַבְּהֵמָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵֽן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-2-12",
+      "title": "2:12",
+      "titleEn": "2:12",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהֶעֱרִ֤יךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֔הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֵּ֥ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ט֖וֹב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבֵ֣ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רָ֑ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּעֶרְכְּךָ֥",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֵּ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְיֶֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-2-13",
+      "title": "2:13",
+      "titleEn": "2:13",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם־גָּאֹ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִגְאָלֶ֑נָּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיָסַ֥ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲמִישִׁת֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־עֶרְכֶּֽךָ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-2-14",
+      "title": "2:14",
+      "titleEn": "2:14",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִ֗ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־יַקְדִּ֨שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בֵּית֥וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קֹ֙דֶשׁ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽיהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהֶעֱרִיכוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֵּ֥ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ט֖וֹב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבֵ֣ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רָ֑ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּאֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַעֲרִ֥יךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֛וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֵּ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָקֽוּם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-2-15",
+      "title": "2:15",
+      "titleEn": "2:15",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִ֨ם־הַמַּקְדִּ֔ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִגְאַ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בֵּית֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְ֠יָסַ֠ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲמִישִׁ֧ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֶּֽסֶף־עֶרְכְּךָ֛",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָ֥יָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-2-16",
+      "title": "2:16",
+      "titleEn": "2:16",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִ֣ם&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִשְּׂדֵ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲחֻזָּת֗וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַקְדִּ֥ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִישׁ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽיהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָיָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶרְכְּךָ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְפִ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זַרְע֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זֶ֚רַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֹ֣מֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׂעֹרִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּחֲמִשִּׁ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֶׁ֥קֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כָּֽסֶף׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-2-17",
+      "title": "2:17",
+      "titleEn": "2:17",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אִם־מִשְּׁנַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיֹּבֵ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַקְדִּ֣ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׂדֵ֑הוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּעֶרְכְּךָ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָקֽוּם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-2-18",
+      "title": "2:18",
+      "titleEn": "2:18",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם־אַחַ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיֹּבֵל֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַקְדִּ֣ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׂדֵ֒הוּ֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְחִשַּׁב־ל֨וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֜ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַכֶּ֗סֶף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־פִּ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשָּׁנִים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנּ֣וֹתָרֹ֔ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁנַ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיֹּבֵ֑ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנִגְרַ֖ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵֽעֶרְכֶּֽךָ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-2-19",
+      "title": "2:19",
+      "titleEn": "2:19",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם־גָּאֹ֤ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִגְאַל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַשָּׂדֶ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמַּקְדִּ֖ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְ֠יָסַ֠ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲמִשִׁ֧ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֶּֽסֶף־עֶרְכְּךָ֛",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְקָ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-2-20",
+      "title": "2:20",
+      "titleEn": "2:20",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם־לֹ֤א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִגְאַל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַשָּׂדֶ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאִם־מָכַ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַשָּׂדֶ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְאִ֣ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַחֵ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִגָּאֵ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֽוֹד׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-2-21",
+      "title": "2:21",
+      "titleEn": "2:21",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהָיָ֨ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשָּׂדֶ֜ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּצֵאת֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַיֹּבֵ֗ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קֹ֛דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽיהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּשְׂדֵ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַחֵ֑רֶם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַכֹּהֵ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּהְיֶ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲחֻזָּתֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-2-22",
+      "title": "2:22",
+      "titleEn": "2:22",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־שְׂדֵ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקְנָת֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֕ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֖א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִשְּׂדֵ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲחֻזָּת֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַקְדִּ֖ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽיהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-2-23",
+      "title": "2:23",
+      "titleEn": "2:23",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְחִשַּׁב־ל֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֗ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֚ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִכְסַ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָֽעֶרְכְּךָ֔",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁנַ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיֹּבֵ֑ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנָתַ֤ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָעֶרְכְּךָ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּיּ֣וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַה֔וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קֹ֖דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-2-24",
+      "title": "2:24",
+      "titleEn": "2:24",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "בִּשְׁנַ֤ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיּוֹבֵל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָשׁ֣וּב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשָּׂדֶ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַאֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קָנָ֖הוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאִתּ֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַאֲשֶׁר־ל֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲחֻזַּ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָֽרֶץ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-2-25",
+      "title": "2:25",
+      "titleEn": "2:25",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְכׇ֨ל־עֶרְכְּךָ֔",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְיֶ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּשֶׁ֣קֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַקֹּ֑דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶשְׂרִ֥ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גֵּרָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְיֶ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשָּֽׁקֶל׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-2-26",
+      "title": "2:26",
+      "titleEn": "2:26",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אַךְ־בְּכ֞וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־יְבֻכַּ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽיהֹוָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּבְהֵמָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹֽא־יַקְדִּ֥ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֖ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִם־שׁ֣וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִם־שֶׂ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽיהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֽוּא׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-2-27",
+      "title": "2:27",
+      "titleEn": "2:27",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִ֨ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּבְּהֵמָ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַטְּמֵאָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּפָדָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְעֶרְכֶּ֔ךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיָסַ֥ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲמִשִׁת֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלָ֑יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאִם־לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִגָּאֵ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנִמְכַּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּעֶרְכֶּֽךָ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-2-28",
+      "title": "2:28",
+      "titleEn": "2:28",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אַךְ־כׇּל־חֵ֡רֶם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַחֲרִם֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֨ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽיהֹוָ֜ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִכׇּל־אֲשֶׁר־ל֗וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאָדָ֤ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבְהֵמָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִשְּׂדֵ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲחֻזָּת֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִמָּכֵ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִגָּאֵ֑ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־חֵ֕רֶם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קֹֽדֶשׁ־קׇדָשִׁ֥ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ה֖וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-2-29",
+      "title": "2:29",
+      "titleEn": "2:29",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כׇּל־חֵ֗רֶם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֧ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יׇחֳרַ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הָאָדָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִפָּדֶ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מ֖וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוּמָֽת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-2-30",
+      "title": "2:30",
+      "titleEn": "2:30",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְכׇל־מַעְשַׂ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֜רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִזֶּ֤רַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֙רֶץ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִפְּרִ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעֵ֔ץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ה֑וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קֹ֖דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽיהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-2-31",
+      "title": "2:31",
+      "titleEn": "2:31",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם־גָּאֹ֥ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִגְאַ֛ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֖ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמַּֽעַשְׂר֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲמִשִׁית֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֹסֵ֥ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלָֽיו׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-2-32",
+      "title": "2:32",
+      "titleEn": "2:32",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְכׇל־מַעְשַׂ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּקָר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָצֹ֔אן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֹּ֥ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־יַעֲבֹ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּ֣חַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשָּׁ֑בֶט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָֽעֲשִׂירִ֕י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִֽהְיֶה־קֹּ֖דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽיהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-2-33",
+      "title": "2:33",
+      "titleEn": "2:33",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לֹ֧א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְבַקֵּ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֵּֽין־ט֥וֹב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָרַ֖ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְמִירֶ֑נּוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאִם־הָמֵ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְמִירֶ֔נּוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָֽיָה־ה֧וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּתְמוּרָת֛וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִֽהְיֶה־קֹּ֖דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִגָּאֵֽל׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Bechukotai-2-34",
+      "title": "2:34",
+      "titleEn": "2:34",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֵ֣לֶּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּצְוֺ֗ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צִוָּ֧ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מֹשֶׁ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֑ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּהַ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סִינָֽי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    }
+  ]
+}

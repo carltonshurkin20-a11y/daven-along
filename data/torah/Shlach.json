@@ -1,0 +1,7979 @@
+{
+  "id": "Shlach",
+  "slug": "shlach",
+  "nameHeb": "במדבר",
+  "nameEn": "Shlach",
+  "nusach": "torah",
+  "timeOfDay": "any",
+  "totalDuration": 0,
+  "audioUrl": "",
+  "sections": [
+    {
+      "id": "Shlach-1-1",
+      "title": "1:1",
+      "titleEn": "1:1",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְדַבֵּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵּאמֹֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-1-2",
+      "title": "1:2",
+      "titleEn": "1:2",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "שְׁלַח־לְךָ֣",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנָשִׁ֗ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיָתֻ֙רוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־אֶ֣רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּנַ֔עַן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־אֲנִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֹתֵ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִבְנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֑ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֣ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶחָד֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֨ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶחָ֜ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְמַטֵּ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲבֹתָיו֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּשְׁלָ֔חוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֹּ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נָשִׂ֥יא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָהֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-1-3",
+      "title": "1:3",
+      "titleEn": "1:3",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּשְׁלַ֨ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמִּדְבַּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פָּארָ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־פִּ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֻּלָּ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנָשִׁ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רָאשֵׁ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְנֵֽי־יִשְׂרָאֵ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֵֽמָּה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-1-4",
+      "title": "1:4",
+      "titleEn": "1:4",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאֵ֖לֶּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁמוֹתָ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְמַטֵּ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רְאוּבֵ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שַׁמּ֖וּעַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־זַכּֽוּר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-1-5",
+      "title": "1:5",
+      "titleEn": "1:5",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לְמַטֵּ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁמְע֔וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁפָ֖ט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־חוֹרִֽי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-1-6",
+      "title": "1:6",
+      "titleEn": "1:6",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לְמַטֵּ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהוּדָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כָּלֵ֖ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־יְפֻנֶּֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-1-7",
+      "title": "1:7",
+      "titleEn": "1:7",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לְמַטֵּ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשָּׂשכָ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִגְאָ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־יוֹסֵֽף׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-1-8",
+      "title": "1:8",
+      "titleEn": "1:8",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לְמַטֵּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶפְרָ֖יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הוֹשֵׁ֥עַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּן־נֽוּן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-1-9",
+      "title": "1:9",
+      "titleEn": "1:9",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לְמַטֵּ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִנְיָמִ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פַּלְטִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־רָפֽוּא׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-1-10",
+      "title": "1:10",
+      "titleEn": "1:10",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לְמַטֵּ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זְבוּלֻ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גַּדִּיאֵ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־סוֹדִֽי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-1-11",
+      "title": "1:11",
+      "titleEn": "1:11",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לְמַטֵּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוֹסֵ֖ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְמַטֵּ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְנַשֶּׁ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גַּדִּ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־סוּסִֽי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-1-12",
+      "title": "1:12",
+      "titleEn": "1:12",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לְמַטֵּ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דָ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַמִּיאֵ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־גְּמַלִּֽי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-1-13",
+      "title": "1:13",
+      "titleEn": "1:13",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לְמַטֵּ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָשֵׁ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סְת֖וּר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־מִיכָאֵֽל׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-1-14",
+      "title": "1:14",
+      "titleEn": "1:14",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לְמַטֵּ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נַפְתָּלִ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נַחְבִּ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־וׇפְסִֽי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-1-15",
+      "title": "1:15",
+      "titleEn": "1:15",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לְמַטֵּ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גָ֔ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גְּאוּאֵ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־מָכִֽי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-1-16",
+      "title": "1:16",
+      "titleEn": "1:16",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֵ֚לֶּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁמ֣וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָֽאֲנָשִׁ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־שָׁלַ֥ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָת֣וּר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָאָ֑רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּקְרָ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְהוֹשֵׁ֥עַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּן־נ֖וּן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהוֹשֻֽׁעַ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-1-17",
+      "title": "1:17",
+      "titleEn": "1:17",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּשְׁלַ֤ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָת֖וּר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־אֶ֣רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּנָ֑עַן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיֹּ֣אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲלֵהֶ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲל֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זֶה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּנֶּ֔גֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַעֲלִיתֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָהָֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-1-18",
+      "title": "1:18",
+      "titleEn": "1:18",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּרְאִיתֶ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָאָ֖רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַה־הִ֑וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־הָעָם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיֹּשֵׁ֣ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלֶ֔יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֶחָזָ֥ק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הוּא֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֲרָפֶ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמְעַ֥ט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ה֖וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִם־רָֽב׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-1-19",
+      "title": "1:19",
+      "titleEn": "1:19",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּמָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֗רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־הוּא֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֹשֵׁ֣ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּ֔הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֲטוֹבָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִ֖וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִם־רָעָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֶֽעָרִ֗ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־הוּא֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוֹשֵׁ֣ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּהֵ֔נָּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַבְּמַֽחֲנִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּמִבְצָרִֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-1-20",
+      "title": "1:20",
+      "titleEn": "1:20",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּמָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָ֠אָ֠רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשְּׁמֵנָ֨ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִ֜וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִם־רָזָ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֲיֵֽשׁ־בָּ֥הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֵץ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִם־אַ֔יִן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִ֨תְחַזַּקְתֶּ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּלְקַחְתֶּ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִפְּרִ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֑רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהַ֨יָּמִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְמֵ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּכּוּרֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲנָבִֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-1-21",
+      "title": "1:21",
+      "titleEn": "1:21",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַֽיַּעֲל֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיָּתֻ֣רוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָאָ֑רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמִּדְבַּר־צִ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַד־רְחֹ֖ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְבֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲמָֽת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-1-22",
+      "title": "1:22",
+      "titleEn": "1:22",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיַּעֲל֣וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַנֶּ֘גֶב֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיָּבֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַד־חֶבְרוֹן֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשָׁ֤ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲחִימַן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֵׁשַׁ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְתַלְמַ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְלִידֵ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעֲנָ֑ק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְחֶבְר֗וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֶׁ֤בַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁנִים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נִבְנְתָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צֹ֥עַן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִצְרָֽיִם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-1-23",
+      "title": "1:23",
+      "titleEn": "1:23",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיָּבֹ֜אוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַד־נַ֣חַל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶשְׁכֹּ֗ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּכְרְת֨וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִשָּׁ֤ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זְמוֹרָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶשְׁכּ֤וֹל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲנָבִים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶחָ֔ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּשָּׂאֻ֥הוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַמּ֖וֹט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּשְׁנָ֑יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִן־הָרִמֹּנִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִן־הַתְּאֵנִֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-1-24",
+      "title": "1:24",
+      "titleEn": "1:24",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לַמָּק֣וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַה֔וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קָרָ֖א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נַ֣חַל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶשְׁכּ֑וֹל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֚ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹד֣וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָֽאֶשְׁכּ֔וֹל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־כָּרְת֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִשָּׁ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵֽל׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-1-25",
+      "title": "1:25",
+      "titleEn": "1:25",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיָּשֻׁ֖בוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִתּ֣וּר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֑רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקֵּ֖ץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַרְבָּעִ֥ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֽוֹם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-1-26",
+      "title": "1:26",
+      "titleEn": "1:26",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֵּלְכ֡וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיָּבֹ֩אוּ֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֨ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶֽל־אַהֲרֹ֜ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶל־כׇּל־עֲדַ֧ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵֽי־יִשְׂרָאֵ֛ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מִדְבַּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פָּארָ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קָדֵ֑שָׁה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיָּשִׁ֨יבוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֤ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דָּבָר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־כׇּל־הָ֣עֵדָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיַּרְא֖וּם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־פְּרִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָֽרֶץ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-1-27",
+      "title": "1:27",
+      "titleEn": "1:27",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְסַפְּרוּ־לוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיֹּ֣אמְר֔וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּ֕אנוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הָאָ֖רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁלַחְתָּ֑נוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְ֠גַ֠ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָבַ֨ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חָלָ֥ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּדְבַ֛שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִ֖וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְזֶה־פִּרְיָֽהּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-1-28",
+      "title": "1:28",
+      "titleEn": "1:28",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֶ֚פֶס",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־עַ֣ז",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיֹּשֵׁ֖ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּאָ֑רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהֶֽעָרִ֗ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּצֻר֤וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גְּדֹלֹת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְאֹ֔ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְגַם־יְלִדֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָֽעֲנָ֖ק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רָאִ֥ינוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָֽׁם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-1-29",
+      "title": "1:29",
+      "titleEn": "1:29",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "עֲמָלֵ֥ק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוֹשֵׁ֖ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאֶ֣רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנֶּ֑גֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְ֠הַֽחִתִּ֠י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהַיְבוּסִ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָֽאֱמֹרִי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוֹשֵׁ֣ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּהָ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהַֽכְּנַעֲנִי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוֹשֵׁ֣ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־הַיָּ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעַ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַ֥ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיַּרְדֵּֽן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-1-30",
+      "title": "1:30",
+      "titleEn": "1:30",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיַּ֧הַס",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כָּלֵ֛ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָעָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיֹּ֗אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלֹ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נַעֲלֶה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיָרַ֣שְׁנוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֔הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־יָכ֥וֹל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נוּכַ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָֽהּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-1-31",
+      "title": "1:31",
+      "titleEn": "1:31",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהָ֨אֲנָשִׁ֜ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־עָל֤וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִמּוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָֽמְר֔וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נוּכַ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַעֲל֣וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הָעָ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־חָזָ֥ק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ה֖וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמֶּֽנּוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-1-32",
+      "title": "1:32",
+      "titleEn": "1:32",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֹּצִ֜יאוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דִּבַּ֤ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֙רֶץ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תָּר֣וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֔הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־בְּנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאמֹ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֡רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָבַ֨רְנוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָ֜הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָת֣וּר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֗הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶ֣רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹכֶ֤לֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוֹשְׁבֶ֙יהָ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִ֔וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכׇל־הָעָ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־רָאִ֥ינוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְתוֹכָ֖הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַנְשֵׁ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִדּֽוֹת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-1-33",
+      "title": "1:33",
+      "titleEn": "1:33",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְשָׁ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רָאִ֗ינוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַנְּפִילִ֛ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲנָ֖ק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הַנְּפִלִ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַנְּהִ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְעֵינֵ֙ינוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּֽחֲגָבִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכֵ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָיִ֖ינוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּעֵינֵיהֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-1",
+      "title": "2:1",
+      "titleEn": "2:1",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַתִּשָּׂא֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־הָ֣עֵדָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיִּתְּנ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־קוֹלָ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּבְכּ֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּלַּ֥יְלָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַהֽוּא׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-2",
+      "title": "2:2",
+      "titleEn": "2:2",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּלֹּ֙נוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־מֹשֶׁ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעַֽל־אַהֲרֹ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֹּ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֑ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיֹּאמְר֨וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲלֵהֶ֜ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־הָעֵדָ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לוּ־מַ֙תְנוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאֶ֣רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִצְרַ֔יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֛וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּמִּדְבָּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזֶּ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לוּ־מָֽתְנוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-3",
+      "title": "2:3",
+      "titleEn": "2:3",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְלָמָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְ֠הֹוָ֠ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵבִ֨יא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֜נוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הָאָ֤רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזֹּאת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִנְפֹּ֣ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּחֶ֔רֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נָשֵׁ֥ינוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְטַפֵּ֖נוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְי֣וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָבַ֑ז",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֲל֧וֹא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ט֦וֹב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָ֖נוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שׁ֥וּב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִצְרָֽיְמָה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-4",
+      "title": "2:4",
+      "titleEn": "2:4",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֹּאמְר֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֣ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־אָחִ֑יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נִתְּנָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֹ֖אשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנָשׁ֥וּבָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִצְרָֽיְמָה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-5",
+      "title": "2:5",
+      "titleEn": "2:5",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּפֹּ֥ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַהֲרֹ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־פְּנֵיהֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֕י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־קְהַ֥ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲדַ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵֽל׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-6",
+      "title": "2:6",
+      "titleEn": "2:6",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וִיהוֹשֻׁ֣עַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּן־נ֗וּן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכָלֵב֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־יְפֻנֶּ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הַתָּרִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָאָ֑רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קָרְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּגְדֵיהֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-7",
+      "title": "2:7",
+      "titleEn": "2:7",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֹּ֣אמְר֔וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־כׇּל־עֲדַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵֽי־יִשְׂרָאֵ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאמֹ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֗רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָבַ֤רְנוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָהּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָת֣וּר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֔הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טוֹבָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֖רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְאֹ֥ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְאֹֽד׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-8",
+      "title": "2:8",
+      "titleEn": "2:8",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אִם־חָפֵ֥ץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּ֙נוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהֵבִ֤יא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֙נוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הָאָ֣רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזֹּ֔את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּנְתָנָ֖הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָ֑נוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶ֕רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־הִ֛וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָבַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חָלָ֖ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּדְבָֽשׁ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-9",
+      "title": "2:9",
+      "titleEn": "2:9",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אַ֣ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּיהֹוָה֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַל־תִּמְרֹ֒דוּ֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַתֶּ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַל־תִּֽירְאוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־עַ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֔רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַחְמֵ֖נוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֵ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סָ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צִלָּ֧ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵעֲלֵיהֶ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיהֹוָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִתָּ֖נוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַל־תִּירָאֻֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-10",
+      "title": "2:10",
+      "titleEn": "2:10",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֹּֽאמְרוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־הָ֣עֵדָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִרְגּ֥וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּאֲבָנִ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּכְב֣וֹד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נִרְאָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאֹ֣הֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹעֵ֔ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶֽל־כׇּל־בְּנֵ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵֽל׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-11",
+      "title": "2:11",
+      "titleEn": "2:11",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֹּ֤אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַד־אָ֥נָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְנַאֲצֻ֖נִי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעָ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזֶּ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעַד־אָ֙נָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹא־יַאֲמִ֣ינוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּכֹל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָֽאֹת֔וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָשִׂ֖יתִי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּקִרְבּֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-12",
+      "title": "2:12",
+      "titleEn": "2:12",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אַכֶּ֥נּוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַדֶּ֖בֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאוֹרִשֶׁ֑נּוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶֽעֱשֶׂה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹֽתְךָ֔",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְגוֹי־גָּד֥וֹל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעָצ֖וּם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמֶּֽנּוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-13",
+      "title": "2:13",
+      "titleEn": "2:13",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֹּ֥אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־יְהֹוָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשָׁמְע֣וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִצְרַ֔יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־הֶעֱלִ֧יתָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְכֹחֲךָ֛",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָעָ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזֶּ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקִּרְבּֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-14",
+      "title": "2:14",
+      "titleEn": "2:14",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאָמְר֗וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־יוֹשֵׁב֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֣רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזֹּאת֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָֽׁמְעוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־אַתָּ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּקֶ֖רֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעָ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזֶּ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־עַ֨יִן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּעַ֜יִן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נִרְאָ֣ה&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַתָּ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַעֲנָֽנְךָ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֹמֵ֣ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲלֵהֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבְעַמֻּ֣ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָנָ֗ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַתָּ֨ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֹלֵ֤ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵיהֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוֹמָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבְעַמּ֥וּד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֖שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָֽיְלָה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-15",
+      "title": "2:15",
+      "titleEn": "2:15",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהֵמַתָּ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָעָ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזֶּ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּאִ֣ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶחָ֑ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאָֽמְרוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַגּוֹיִ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־שָׁמְע֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶֽת־שִׁמְעֲךָ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאמֹֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-16",
+      "title": "2:16",
+      "titleEn": "2:16",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "מִבִּלְתִּ֞י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְכֹ֣לֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְהָבִיא֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָעָ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזֶּ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הָאָ֖רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־נִשְׁבַּ֣ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָהֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּשְׁחָטֵ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּמִּדְבָּֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-17",
+      "title": "2:17",
+      "titleEn": "2:17",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְעַתָּ֕ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִגְדַּל־נָ֖א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֹּ֣חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲדֹנָ֑י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּאֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דִּבַּ֖רְתָּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאמֹֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-18",
+      "title": "2:18",
+      "titleEn": "2:18",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "יְהֹוָ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶ֤רֶךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַפַּ֙יִם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְרַב־חֶ֔סֶד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֹשֵׂ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָוֺ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָפָ֑שַׁע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנַקֵּה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְנַקֶּ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פֹּקֵ֞ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲוֺ֤ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָבוֹת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־בָּנִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־שִׁלֵּשִׁ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעַל־רִבֵּעִֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-19",
+      "title": "2:19",
+      "titleEn": "2:19",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "סְלַֽח־נָ֗א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַעֲוֺ֛ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעָ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזֶּ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּגֹ֣דֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חַסְדֶּ֑ךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכַאֲשֶׁ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נָשָׂ֙אתָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָעָ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזֶּ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמִּצְרַ֖יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעַד־הֵֽנָּה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-20",
+      "title": "2:20",
+      "titleEn": "2:20",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֹּ֣אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סָלַ֖חְתִּי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּדְבָרֶֽךָ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-21",
+      "title": "2:21",
+      "titleEn": "2:21",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאוּלָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חַי־אָ֑נִי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיִמָּלֵ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְבוֹד־יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־כׇּל־הָאָֽרֶץ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-22",
+      "title": "2:22",
+      "titleEn": "2:22",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כִּ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇל־הָאֲנָשִׁ֗ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָרֹאִ֤ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־כְּבֹדִי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־אֹ֣תֹתַ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־עָשִׂ֥יתִי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְמִצְרַ֖יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבַמִּדְבָּ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיְנַסּ֣וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתִ֗י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זֶ֚ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶ֣שֶׂר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פְּעָמִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁמְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּקוֹלִֽי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-23",
+      "title": "2:23",
+      "titleEn": "2:23",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אִם־יִרְאוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָאָ֔רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נִשְׁבַּ֖עְתִּי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַאֲבֹתָ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכׇל־מְנַאֲצַ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִרְאֽוּהָ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-24",
+      "title": "2:24",
+      "titleEn": "2:24",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְעַבְדִּ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כָלֵ֗ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֵ֣קֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָֽיְתָ֞ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ר֤וּחַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַחֶ֙רֶת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִמּ֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיְמַלֵּ֖א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַחֲרָ֑י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַהֲבִֽיאֹתִ֗יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הָאָ֙רֶץ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־בָּ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁ֔מָּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְזַרְע֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוֹרִשֶֽׁנָּה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-25",
+      "title": "2:25",
+      "titleEn": "2:25",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהָעֲמָלֵקִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהַֽכְּנַעֲנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוֹשֵׁ֣ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּעֵ֑מֶק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מָחָ֗ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פְּנ֨וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּסְע֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּדְבָּ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דֶּ֥רֶךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַם־סֽוּף׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-26",
+      "title": "2:26",
+      "titleEn": "2:26",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְדַבֵּ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶֽל־אַהֲרֹ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאמֹֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-27",
+      "title": "2:27",
+      "titleEn": "2:27",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "עַד־מָתַ֗י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָעֵדָ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָֽרָעָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזֹּ֔את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֵ֥מָּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַלִּינִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלָ֑י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־תְּלֻנּ֞וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֗ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֵ֧מָּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַלִּינִ֛ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלַ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁמָֽעְתִּי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-28",
+      "title": "2:28",
+      "titleEn": "2:28",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֱמֹ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲלֵהֶ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חַי־אָ֙נִי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נְאֻם־יְהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִם־לֹ֕א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּאֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דִּבַּרְתֶּ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאׇזְנָ֑י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֵּ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶֽעֱשֶׂ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-29",
+      "title": "2:29",
+      "titleEn": "2:29",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "בַּמִּדְבָּ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַ֠זֶּ֠ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִפְּל֨וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פִגְרֵיכֶ֜ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכׇל־פְּקֻדֵיכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְכׇל־מִסְפַּרְכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִבֶּ֛ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶשְׂרִ֥ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁנָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָמָ֑עְלָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֲלִֽינֹתֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלָֽי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-30",
+      "title": "2:30",
+      "titleEn": "2:30",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אִם־אַתֶּם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תָּבֹ֣אוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הָאָ֔רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נָשָׂ֙אתִי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־יָדִ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְשַׁכֵּ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּ֑הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֚י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִם־כָּלֵ֣ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־יְפֻנֶּ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וִיהוֹשֻׁ֖עַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּן־נֽוּן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-31",
+      "title": "2:31",
+      "titleEn": "2:31",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְטַ֨פְּכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲמַרְתֶּ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָבַ֣ז",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְיֶ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהֵבֵיאתִ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיָֽדְעוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָאָ֔רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְאַסְתֶּ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּֽהּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-32",
+      "title": "2:32",
+      "titleEn": "2:32",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּפִגְרֵיכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַתֶּ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִפְּל֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּמִּדְבָּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזֶּֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-33",
+      "title": "2:33",
+      "titleEn": "2:33",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּ֠בְנֵיכֶ֠ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְי֨וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֹעִ֤ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּמִּדְבָּר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַרְבָּעִ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁנָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנָשְׂא֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־זְנוּתֵיכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַד־תֹּ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פִּגְרֵיכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּמִּדְבָּֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-34",
+      "title": "2:34",
+      "titleEn": "2:34",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "בְּמִסְפַּ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיָּמִ֜ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־תַּרְתֶּ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָאָ֘רֶץ֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַרְבָּעִ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוֹם֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "י֣וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַשָּׁנָ֞ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "י֣וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַשָּׁנָ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּשְׂאוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־עֲוֺנֹ֣תֵיכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַרְבָּעִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁנָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וִֽידַעְתֶּ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־תְּנוּאָתִֽי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-35",
+      "title": "2:35",
+      "titleEn": "2:35",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֲנִ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָה֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דִּבַּ֒רְתִּי֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִם־לֹ֣א&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זֹ֣את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶֽעֱשֶׂ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְכׇל־הָעֵדָ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָֽרָעָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזֹּ֔את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנּוֹעָדִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלָ֑י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּמִּדְבָּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזֶּ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִתַּ֖מּוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשָׁ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָמֻֽתוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-36",
+      "title": "2:36",
+      "titleEn": "2:36",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהָ֣אֲנָשִׁ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־שָׁלַ֥ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָת֣וּר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָאָ֑רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיָּשֻׁ֗בוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "(וילונו)",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "[וַיַּלִּ֤ינוּ]",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלָיו֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־כׇּל־הָ֣עֵדָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְהוֹצִ֥יא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דִבָּ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־הָאָֽרֶץ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-37",
+      "title": "2:37",
+      "titleEn": "2:37",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיָּמֻ֙תוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָֽאֲנָשִׁ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹצִאֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דִבַּת־הָאָ֖רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רָעָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּמַּגֵּפָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-38",
+      "title": "2:38",
+      "titleEn": "2:38",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וִיהוֹשֻׁ֣עַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּן־נ֔וּן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכָלֵ֖ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־יְפֻנֶּ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חָיוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הָאֲנָשִׁ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָהֵ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַהֹלְכִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָת֥וּר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָאָֽרֶץ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-39",
+      "title": "2:39",
+      "titleEn": "2:39",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְדַבֵּ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַדְּבָרִ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֵ֔לֶּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶֽל־כׇּל־בְּנֵ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֑ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּֽתְאַבְּל֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְאֹֽד׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-40",
+      "title": "2:40",
+      "titleEn": "2:40",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיַּשְׁכִּ֣מוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַבֹּ֔קֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיַּֽעֲל֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־רֹאשׁ־הָהָ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאמֹ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִנֶּ֗נּוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעָלִ֛ינוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הַמָּק֛וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־אָמַ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חָטָֽאנוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-41",
+      "title": "2:41",
+      "titleEn": "2:41",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֹּ֣אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָ֥מָּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זֶּ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַתֶּ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֹבְרִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־פִּ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִ֖וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִצְלָֽח׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-42",
+      "title": "2:42",
+      "titleEn": "2:42",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אַֽל־תַּעֲל֔וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֛י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֥ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּקִרְבְּכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹא֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּנָּ֣גְפ֔וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹיְבֵיכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-43",
+      "title": "2:43",
+      "titleEn": "2:43",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כִּי֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעֲמָלֵקִ֨י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהַכְּנַעֲנִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵיכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּנְפַלְתֶּ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּחָ֑רֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־עַל־כֵּ֤ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שַׁבְתֶּם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאַחֲרֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹא־יִהְיֶ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִמָּכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-44",
+      "title": "2:44",
+      "titleEn": "2:44",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיַּעְפִּ֕לוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַעֲל֖וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־רֹ֣אשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָהָ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַאֲר֤וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּרִית־יְהֹוָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמֹשֶׁ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹא־מָ֖שׁוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקֶּ֥רֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַֽמַּחֲנֶֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-2-45",
+      "title": "2:45",
+      "titleEn": "2:45",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֵּ֤רֶד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעֲמָלֵקִי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהַֽכְּנַעֲנִ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיֹּשֵׁ֖ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּהָ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַה֑וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיַּכּ֥וּם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיַּכְּת֖וּם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַד־הַֽחׇרְמָֽה׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-3-1",
+      "title": "3:1",
+      "titleEn": "3:1",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְדַבֵּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵּאמֹֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-3-2",
+      "title": "3:2",
+      "titleEn": "3:2",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "דַּבֵּר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאָמַרְתָּ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲלֵהֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תָבֹ֗אוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־אֶ֙רֶץ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹשְׁבֹ֣תֵיכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֹתֵ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-3-3",
+      "title": "3:3",
+      "titleEn": "3:3",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַעֲשִׂיתֶ֨ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִשֶּׁ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽיהֹוָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֹלָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אוֹ־זֶ֔בַח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְפַלֵּא־נֶ֙דֶר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִנְדָבָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּמֹעֲדֵיכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַעֲשׂ֞וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֵ֤יחַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נִיחֹ֙חַ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽיהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הַבָּקָ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֥וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הַצֹּֽאן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-3-4",
+      "title": "3:4",
+      "titleEn": "3:4",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהִקְרִ֛יב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמַּקְרִ֥יב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קׇרְבָּנ֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽיהֹוָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִנְחָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סֹ֣לֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִשָּׂר֔וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּל֕וּ��",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּרְבִעִ֥ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַהִ֖ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָֽׁמֶן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-3-5",
+      "title": "3:5",
+      "titleEn": "3:5",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְיַ֤יִן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַנֶּ֙סֶךְ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רְבִיעִ֣ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַהִ֔ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּעֲשֶׂ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־הָעֹלָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַזָּ֑בַח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַכֶּ֖בֶשׂ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֶחָֽד׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-3-6",
+      "title": "3:6",
+      "titleEn": "3:6",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "א֤וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָאַ֙יִל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּעֲשֶׂ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִנְחָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סֹ֖לֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶשְׂרֹנִ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּלוּלָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַשֶּׁ֖מֶן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁלִשִׁ֥ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַהִֽין׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-3-7",
+      "title": "3:7",
+      "titleEn": "3:7",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְיַ֥יִן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַנֶּ֖סֶךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁלִשִׁ֣ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַהִ֑ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּקְרִ֥יב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֵֽיחַ־נִיחֹ֖חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-3-8",
+      "title": "3:8",
+      "titleEn": "3:8",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְכִֽי־תַעֲשֶׂ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶן־בָּקָ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֹלָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אוֹ־זָ֑בַח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְפַלֵּא־נֶ֥דֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֽוֹ־שְׁלָמִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽיהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-3-9",
+      "title": "3:9",
+      "titleEn": "3:9",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהִקְרִ֤יב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־בֶּן־הַבָּקָר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִנְחָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סֹ֖לֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁלֹשָׁ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶשְׂרֹנִ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּל֥וּל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּשֶּׁ֖מֶן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲצִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַהִֽין׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-3-10",
+      "title": "3:10",
+      "titleEn": "3:10",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְיַ֛יִן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּקְרִ֥יב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַנֶּ֖סֶךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲצִ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַהִ֑ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִשֵּׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֵֽיחַ־נִיחֹ֖חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-3-11",
+      "title": "3:11",
+      "titleEn": "3:11",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כָּ֣כָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֵעָשֶׂ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַשּׁוֹר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָֽאֶחָ֔ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָאַ֣יִל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֶחָ֑ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֽוֹ־לַשֶּׂ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַכְּבָשִׂ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֥וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָעִזִּֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-3-12",
+      "title": "3:12",
+      "titleEn": "3:12",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כַּמִּסְפָּ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּעֲשׂ֑וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כָּ֛כָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּעֲשׂ֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָאֶחָ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּמִסְפָּרָֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-3-13",
+      "title": "3:13",
+      "titleEn": "3:13",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כׇּל־הָאֶזְרָ֥ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַעֲשֶׂה־כָּ֖כָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־אֵ֑לֶּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְהַקְרִ֛יב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִשֵּׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֵֽיחַ־נִיחֹ֖חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽיהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-3-14",
+      "title": "3:14",
+      "titleEn": "3:14",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְכִֽי־יָגוּר֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִתְּכֶ֨ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גֵּ֜ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֤וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־בְּתֽוֹכְכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְדֹרֹ֣תֵיכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעָשָׂ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִשֵּׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֵֽיחַ־נִיחֹ֖חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיהֹוָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּאֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּעֲשׂ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֵּ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַעֲשֶֽׂה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-3-15",
+      "title": "3:15",
+      "titleEn": "3:15",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "הַקָּהָ֕ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֻקָּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַחַ֛ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלַגֵּ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַגָּ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֻקַּ֤ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עוֹלָם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְדֹרֹ֣תֵיכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כָּכֶ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּגֵּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְיֶ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-3-16",
+      "title": "3:16",
+      "titleEn": "3:16",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "תּוֹרָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַחַ֛ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִשְׁפָּ֥ט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶחָ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְיֶ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלַגֵּ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַגָּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִתְּכֶֽם׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-3-17",
+      "title": "3:17",
+      "titleEn": "3:17",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְדַבֵּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵּאמֹֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-3-18",
+      "title": "3:18",
+      "titleEn": "3:18",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "דַּבֵּר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאָמַרְתָּ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲלֵהֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּבֹֽאֲכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הָאָ֔רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֛י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵבִ֥יא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָֽׁמָּה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-3-19",
+      "title": "3:19",
+      "titleEn": "3:19",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהָיָ֕ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּאֲכׇלְכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִלֶּ֣חֶם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֑רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תָּרִ֥ימוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְרוּמָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-3-20",
+      "title": "3:20",
+      "titleEn": "3:20",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "רֵאשִׁית֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲרִסֹ֣תֵכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חַלָּ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תָּרִ֣ימוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְרוּמָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּתְרוּמַ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גֹּ֔רֶן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֵּ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תָּרִ֥ימוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָֽהּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-3-21",
+      "title": "3:21",
+      "titleEn": "3:21",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "מֵרֵאשִׁית֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲרִסֹ֣תֵיכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּתְּנ֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּרוּמָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְדֹרֹ֖תֵיכֶֽם׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-3-22",
+      "title": "3:22",
+      "titleEn": "3:22",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְכִ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִשְׁגּ֔וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַעֲשׂ֔וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־הַמִּצְוֺ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֵ֑לֶּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־דִּבֶּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶֽׁה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-3-23",
+      "title": "3:23",
+      "titleEn": "3:23",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֵת֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צִוָּ֧ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲלֵיכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּיַד־מֹשֶׁ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הַיּ֞וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צִוָּ֧ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָהָ֖לְאָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְדֹרֹתֵיכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-3-24",
+      "title": "3:24",
+      "titleEn": "3:24",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהָיָ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵעֵינֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעֵדָה֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֶעֶשְׂתָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִשְׁגָגָה֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעָשׂ֣וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇל־הָעֵדָ֡ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פַּ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־בָּקָר֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶחָ֨ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְעֹלָ֜ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְרֵ֤יחַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נִיחֹ֙חַ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽיהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִנְחָת֥וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנִסְכּ֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּמִּשְׁפָּ֑ט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּשְׂעִיר־עִזִּ֥ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶחָ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְחַטָּֽת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-3-25",
+      "title": "3:25",
+      "titleEn": "3:25",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְכִפֶּ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֗ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַֽל־כׇּל־עֲדַ֛ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנִסְלַ֣ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָהֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־שְׁגָגָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִ֔וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהֵם֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֵבִ֨יאוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־קׇרְבָּנָ֜ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִשֶּׁ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽיהֹוָ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְחַטָּאתָ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־שִׁגְגָתָֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-3-26",
+      "title": "3:26",
+      "titleEn": "3:26",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְנִסְלַ֗ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְכׇל־עֲדַת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלַגֵּ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַגָּ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּתוֹכָ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְכׇל־הָעָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּשְׁגָגָֽה׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-3-27",
+      "title": "3:27",
+      "titleEn": "3:27",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם־נֶ֥פֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַחַ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֶּחֱטָ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִשְׁגָגָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִקְרִ֛יבָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֵ֥ז",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּת־שְׁנָתָ֖הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְחַטָּֽאת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-3-28",
+      "title": "3:28",
+      "titleEn": "3:28",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְכִפֶּ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֗ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־הַנֶּ֧פֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשֹּׁגֶ֛גֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּחֶטְאָ֥הֿ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִשְׁגָגָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְכַפֵּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנִסְלַ֥ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-3-29",
+      "title": "3:29",
+      "titleEn": "3:29",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "הָֽאֶזְרָח֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּבְנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלַגֵּ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַגָּ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּתוֹכָ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תּוֹרָ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַחַת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְיֶ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָעֹשֶׂ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּשְׁגָגָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-3-30",
+      "title": "3:30",
+      "titleEn": "3:30",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהַנֶּ֜פֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶֽׁר־תַּעֲשֶׂ֣ה&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּיָ֣ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רָמָ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הָֽאֶזְרָח֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִן־הַגֵּ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ה֣וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְגַדֵּ֑ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנִכְרְתָ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנֶּ֥פֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַהִ֖וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקֶּ֥רֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַמָּֽהּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-3-31",
+      "title": "3:31",
+      "titleEn": "3:31",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כִּ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דְבַר־יְהֹוָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּזָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־מִצְוָת֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֵפַ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִכָּרֵ֧ת&;׀&;תִּכָּרֵ֛ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנֶּ֥פֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַהִ֖וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲוֺנָ֥הֿ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָֽהּ׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-3-32",
+      "title": "3:32",
+      "titleEn": "3:32",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּהְי֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְנֵֽי־יִשְׂרָאֵ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּמִּדְבָּ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיִּמְצְא֗וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֛ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְקֹשֵׁ֥שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֵצִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּי֥וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשַּׁבָּֽת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-3-33",
+      "title": "3:33",
+      "titleEn": "3:33",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיַּקְרִ֣יבוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמֹּצְאִ֥ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְקֹשֵׁ֣שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֵצִ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶֽל־אַהֲרֹ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־הָעֵדָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-3-34",
+      "title": "3:34",
+      "titleEn": "3:34",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיַּנִּ֥יחוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּמִּשְׁמָ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֚י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פֹרַ֔שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַה־יֵּעָשֶׂ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֽוֹ׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-3-35",
+      "title": "3:35",
+      "titleEn": "3:35",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֹּ֤אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מ֥וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוּמַ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאִ֑ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רָג֨וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֤וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָֽאֲבָנִים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־הָ֣עֵדָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִח֖וּץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽמַּחֲנֶֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-3-36",
+      "title": "3:36",
+      "titleEn": "3:36",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֹּצִ֨יאוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֜וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־הָעֵדָ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מִחוּץ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽמַּחֲנֶ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּרְגְּמ֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֛וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּאֲבָנִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיָּמֹ֑ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּאֲשֶׁ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צִוָּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מֹשֶֽׁה׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-3-37",
+      "title": "3:37",
+      "titleEn": "3:37",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֹּ֥אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵּאמֹֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-3-38",
+      "title": "3:38",
+      "titleEn": "3:38",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "דַּבֵּ֞ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־בְּנֵ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאָמַרְתָּ֣",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲלֵהֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעָשׂ֨וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָהֶ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צִיצִ֛ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־כַּנְפֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִגְדֵיהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְדֹרֹתָ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנָ֥תְנ֛וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־צִיצִ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכָּנָ֖ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פְּתִ֥יל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּכֵֽלֶת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-3-39",
+      "title": "3:39",
+      "titleEn": "3:39",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהָיָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶם֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְצִיצִת֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּרְאִיתֶ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֗וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּזְכַרְתֶּם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־כׇּל־מִצְוֺ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַעֲשִׂיתֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹֽא־תָת֜וּרוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַחֲרֵ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְבַבְכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַחֲרֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֵֽינֵיכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־אַתֶּ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זֹנִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַחֲרֵיהֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-3-40",
+      "title": "3:40",
+      "titleEn": "3:40",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לְמַ֣עַן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּזְכְּר֔וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַעֲשִׂיתֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־כׇּל־מִצְוֺתָ֑י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וִהְיִיתֶ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קְדֹשִׁ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאלֹֽהֵיכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Shlach-3-41",
+      "title": "3:41",
+      "titleEn": "3:41",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֲנִ֞י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹֽהֵיכֶ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הוֹצֵ֤אתִי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאֶ֣רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִצְרַ֔יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִהְי֥וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאלֹהִ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹהֵיכֶֽם׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    }
+  ]
+}

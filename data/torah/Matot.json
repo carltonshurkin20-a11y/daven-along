@@ -1,0 +1,7676 @@
+{
+  "id": "Matot",
+  "slug": "matot",
+  "nameHeb": "במדבר",
+  "nameEn": "Matot",
+  "nusach": "torah",
+  "timeOfDay": "any",
+  "totalDuration": 0,
+  "audioUrl": "",
+  "sections": [
+    {
+      "id": "Matot-1-1",
+      "title": "1:1",
+      "titleEn": "1:1",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֹּ֥אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֑ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּכֹ֛ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־צִוָּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מֹשֶֽׁה׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-1-2",
+      "title": "1:2",
+      "titleEn": "1:2",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְדַבֵּ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־רָאשֵׁ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמַּטּ֔וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִבְנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאמֹ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זֶ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַדָּבָ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צִוָּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-1-3",
+      "title": "1:3",
+      "titleEn": "1:3",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אִישׁ֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־יִדֹּ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֶ֜דֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽיהֹוָ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֽוֹ־הִשָּׁ֤בַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁבֻעָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֶאְסֹ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִסָּר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־נַפְשׁ֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַחֵ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דְּבָר֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּכׇל־הַיֹּצֵ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִפִּ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַעֲשֶֽׂה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-1-4",
+      "title": "1:4",
+      "titleEn": "1:4",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִשָּׁ֕ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־תִדֹּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֶ֖דֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיהֹוָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאָסְרָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִסָּ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּבֵ֥ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָבִ֖יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּנְעֻרֶֽיהָ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-1-5",
+      "title": "1:5",
+      "titleEn": "1:5",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְשָׁמַ֨ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָבִ֜יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־נִדְרָ֗הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וֶֽאֱסָרָהּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָֽסְרָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־נַפְשָׁ֔הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהֶחֱרִ֥ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָ֖הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָבִ֑יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְקָ֙מוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־נְדָרֶ֔יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכׇל־אִסָּ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־אָסְרָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־נַפְשָׁ֖הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָקֽוּם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-1-6",
+      "title": "1:6",
+      "titleEn": "1:6",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם־הֵנִ֨יא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָבִ֣יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָהּ֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּי֣וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שׇׁמְעוֹ֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־נְדָרֶ֗יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וֶֽאֱסָרֶ֛יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־אָסְרָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־נַפְשָׁ֖הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָק֑וּם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיהֹוָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִֽסְלַח־לָ֔הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּי־הֵנִ֥יא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָבִ֖יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָֽהּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-1-7",
+      "title": "1:7",
+      "titleEn": "1:7",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם־הָי֤וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִֽהְיֶה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְאִ֔ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּנְדָרֶ֖יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלֶ֑יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֚וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִבְטָ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׂפָתֶ֔יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָסְרָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־נַפְשָֽׁהּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-1-8",
+      "title": "1:8",
+      "titleEn": "1:8",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְשָׁמַ֥ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִישָׁ֛הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּי֥וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שׇׁמְע֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהֶחֱרִ֣ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָ֑הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְקָ֣מוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נְדָרֶ֗יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וֶֽאֱסָרֶ֛הָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־אָסְרָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־נַפְשָׁ֖הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָקֻֽמוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-1-9",
+      "title": "1:9",
+      "titleEn": "1:9",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְ֠אִ֠ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּי֨וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁמֹ֣עַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִישָׁהּ֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָנִ֣יא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אוֹתָהּ֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהֵפֵ֗ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־נִדְרָהּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלֶ֔יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִבְטָ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׂפָתֶ֔יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָסְרָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־נַפְשָׁ֑הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִֽסְלַֽח־לָֽהּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-1-10",
+      "title": "1:10",
+      "titleEn": "1:10",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְנֵ֥דֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַלְמָנָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּגְרוּשָׁ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֹּ֛ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־אָסְרָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־נַפְשָׁ֖הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָק֥וּם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלֶֽיהָ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-1-11",
+      "title": "1:11",
+      "titleEn": "1:11",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם־בֵּ֥ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִישָׁ֖הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נָדָ֑רָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֽוֹ־אָסְרָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִסָּ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־נַפְשָׁ֖הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּשְׁבֻעָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-1-12",
+      "title": "1:12",
+      "titleEn": "1:12",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְשָׁמַ֤ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִישָׁהּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהֶחֱרִ֣שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָ֔הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֵנִ֖יא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֑הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְקָ֙מוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־נְדָרֶ֔יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכׇל־אִסָּ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־אָסְרָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־נַפְשָׁ֖הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָקֽוּם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-1-13",
+      "title": "1:13",
+      "titleEn": "1:13",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם־הָפֵר֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָפֵ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֥ם&;׀&;אִישָׁהּ֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּי֣וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שׇׁמְעוֹ֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־מוֹצָ֨א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׂפָתֶ֧יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִנְדָרֶ֛יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּלְאִסַּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נַפְשָׁ֖הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָק֑וּם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִישָׁ֣הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֲפֵרָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִֽסְלַֽח־לָֽהּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-1-14",
+      "title": "1:14",
+      "titleEn": "1:14",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כׇּל־נֵ֛דֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכׇל־שְׁבֻעַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִסָּ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְעַנֹּ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נָ֑פֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִישָׁ֥הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְקִימֶ֖נּוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאִישָׁ֥הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְפֵרֶֽנּוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-1-15",
+      "title": "1:15",
+      "titleEn": "1:15",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם־הַחֲרֵשׁ֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַחֲרִ֨ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָ֥הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִישָׁהּ֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִיּ֣וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־יוֹם֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהֵקִים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־כׇּל־נְדָרֶ֔יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֥וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־כׇּל־אֱסָרֶ֖יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלֶ֑יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֵקִ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּי־הֶחֱרִ֥שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָ֖הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּי֥וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שׇׁמְעֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-1-16",
+      "title": "1:16",
+      "titleEn": "1:16",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם־הָפֵ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָפֵ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַחֲרֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שׇׁמְע֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנָשָׂ֖א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־עֲוֺנָֽהּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-1-17",
+      "title": "1:17",
+      "titleEn": "1:17",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֵ֣לֶּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַֽחֻקִּ֗ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צִוָּ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מֹשֶׁ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֵּ֥ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֖ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְאִשְׁתּ֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֵּֽין־אָ֣ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְבִתּ֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּנְעֻרֶ֖יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֵּ֥ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָבִֽיהָ׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-1",
+      "title": "2:1",
+      "titleEn": "2:1",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְדַבֵּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵּאמֹֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-2",
+      "title": "2:2",
+      "titleEn": "2:2",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "נְקֹ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נִקְמַת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאֵ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּדְיָנִ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַחַ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֵּאָסֵ֥ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־עַמֶּֽיךָ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-3",
+      "title": "2:3",
+      "titleEn": "2:3",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְדַבֵּ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הָעָ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאמֹ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֵחָלְצ֧וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאִתְּכֶ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנָשִׁ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַצָּבָ֑א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיִהְיוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־מִדְיָ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָתֵ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נִקְמַת־יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּמִדְיָֽן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-4",
+      "title": "2:4",
+      "titleEn": "2:4",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֶ֚לֶף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַמַּטֶּ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶ֖לֶף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַמַּטֶּ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְכֹל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַטּ֣וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּשְׁלְח֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַצָּבָֽא׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-5",
+      "title": "2:5",
+      "titleEn": "2:5",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּמָּֽסְרוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאַלְפֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶ֖לֶף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַמַּטֶּ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁנֵים־עָשָׂ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶ֖לֶף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲלוּצֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צָבָֽא׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-6",
+      "title": "2:6",
+      "titleEn": "2:6",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּשְׁלַ֨ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶ֥לֶף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַמַּטֶּ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַצָּבָ֑א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹ֠תָ֠ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־פִּ֨ינְחָ֜ס",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־אֶלְעָזָ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַצָּבָ֔א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּכְלֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַקֹּ֛דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַחֲצֹצְר֥וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַתְּרוּעָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּיָדֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-7",
+      "title": "2:7",
+      "titleEn": "2:7",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַֽיִּצְבְּאוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־מִדְיָ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּאֲשֶׁ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צִוָּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מֹשֶׁ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיַּֽהַרְג֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־זָכָֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-8",
+      "title": "2:8",
+      "titleEn": "2:8",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאֶת־מַלְכֵ֨י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִדְיָ֜ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָרְג֣וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־חַלְלֵיהֶ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־אֱוִ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־רֶ֙קֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־צ֤וּר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־חוּר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־רֶ֔בַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲמֵ֖שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַלְכֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִדְיָ֑ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּלְעָ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־בְּע֔וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָרְג֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּחָֽרֶב׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-9",
+      "title": "2:9",
+      "titleEn": "2:9",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּשְׁבּ֧וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְנֵי־יִשְׂרָאֵ֛ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־נְשֵׁ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִדְיָ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־טַפָּ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵ֨ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־בְּהֶמְתָּ֧ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־כׇּל־מִקְנֵהֶ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־כׇּל־חֵילָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּזָֽזוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-10",
+      "title": "2:10",
+      "titleEn": "2:10",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאֵ֤ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־עָרֵיהֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּמ֣וֹשְׁבֹתָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־טִֽירֹתָ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׂרְפ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּאֵֽשׁ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-11",
+      "title": "2:11",
+      "titleEn": "2:11",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּקְחוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־כׇּל־הַשָּׁלָ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־הַמַּלְק֑וֹחַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּאָדָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבַבְּהֵמָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-12",
+      "title": "2:12",
+      "titleEn": "2:12",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיָּבִ֡אוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁה֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶל־אֶלְעָזָ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֜ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶל־עֲדַ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵֽי־יִשְׂרָאֵ֗ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַשְּׁבִ֧י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־הַמַּלְק֛וֹחַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־הַשָּׁלָ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הַֽמַּחֲנֶ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־עַֽרְבֹ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹאָ֔ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־יַרְדֵּ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְרֵחֽוֹ׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-13",
+      "title": "2:13",
+      "titleEn": "2:13",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֵּ֨צְא֜וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁ֨ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶלְעָזָ֧ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֛ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכׇל־נְשִׂיאֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעֵדָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִקְרָאתָ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מִח֖וּץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽמַּחֲנֶֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-14",
+      "title": "2:14",
+      "titleEn": "2:14",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּקְצֹ֣ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פְּקוּדֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֶחָ֑יִל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׂרֵ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֲלָפִים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשָׂרֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמֵּא֔וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַבָּאִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִצְּבָ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּלְחָמָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-15",
+      "title": "2:15",
+      "titleEn": "2:15",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֹּ֥אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲלֵיהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַֽחִיִּיתֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־נְקֵבָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-16",
+      "title": "2:16",
+      "titleEn": "2:16",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "הֵ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֵ֜נָּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָי֨וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִבְנֵ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּדְבַ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּלְעָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִמְסׇר־מַ֥עַל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּיהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־דְּבַר־פְּע֑וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַתְּהִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמַּגֵּפָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּעֲדַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-17",
+      "title": "2:17",
+      "titleEn": "2:17",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְעַתָּ֕ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִרְג֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇל־זָכָ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּטָּ֑ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכׇל־אִשָּׁ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֹדַ֥עַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֛ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְמִשְׁכַּ֥ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָכָ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֲרֹֽגוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-18",
+      "title": "2:18",
+      "titleEn": "2:18",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְכֹל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַטַּ֣ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּנָּשִׁ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹא־יָדְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִשְׁכַּ֣ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָכָ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַחֲי֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-19",
+      "title": "2:19",
+      "titleEn": "2:19",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאַתֶּ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲנ֛וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִח֥וּץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽמַּחֲנֶ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁבְעַ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָמִ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֹּל֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֹרֵ֨ג",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֶ֜פֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכֹ֣ל&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֹגֵ֣עַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּֽחָלָ֗ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּֽתְחַטְּא֞וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּיּ֤וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשְּׁלִישִׁי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבַיּ֣וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשְּׁבִיעִ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַתֶּ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּשְׁבִיכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-20",
+      "title": "2:20",
+      "titleEn": "2:20",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְכׇל־בֶּ֧גֶד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכׇל־כְּלִי־ע֛וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכׇל־מַעֲשֵׂ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִזִּ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכׇל־כְּלִי־עֵ֑ץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּתְחַטָּֽאוּ׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-21",
+      "title": "2:21",
+      "titleEn": "2:21",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֹּ֨אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶלְעָזָ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־אַנְשֵׁ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַצָּבָ֔א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַבָּאִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַמִּלְחָמָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זֹ֚את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֻקַּ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַתּוֹרָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־צִוָּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מֹשֶֽׁה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-22",
+      "title": "2:22",
+      "titleEn": "2:22",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אַ֥ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַזָּהָ֖ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־הַכָּ֑סֶף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶֽת־הַנְּחֹ֙שֶׁת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַבַּרְזֶ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶֽת־הַבְּדִ֖יל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־הָעֹפָֽרֶת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-23",
+      "title": "2:23",
+      "titleEn": "2:23",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כׇּל־דָּבָ֞ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־יָבֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָאֵ֗שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּעֲבִ֤ירוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָאֵשׁ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְטָהֵ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַ֕ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּמֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נִדָּ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִתְחַטָּ֑א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכֹ֨ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֧ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹֽא־יָבֹ֛א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּאֵ֖שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּעֲבִ֥ירוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַמָּֽיִם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-24",
+      "title": "2:24",
+      "titleEn": "2:24",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְכִבַּסְתֶּ֧ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּגְדֵיכֶ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּיּ֥וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשְּׁבִיעִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּטְהַרְתֶּ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַחַ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תָּבֹ֥אוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הַֽמַּחֲנֶֽה׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-25",
+      "title": "2:25",
+      "titleEn": "2:25",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֹּ֥אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵּאמֹֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-26",
+      "title": "2:26",
+      "titleEn": "2:26",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "שָׂ֗א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֹ֤אשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַלְק֙וֹחַ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשְּׁבִ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּאָדָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבַבְּהֵמָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַתָּה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶלְעָזָ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְרָאשֵׁ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲב֥וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעֵדָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-27",
+      "title": "2:27",
+      "titleEn": "2:27",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְחָצִ֙יתָ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַמַּלְק֔וֹחַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֵּ֚ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֹּפְשֵׂ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּלְחָמָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיֹּצְאִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַצָּבָ֑א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבֵ֖ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־הָעֵדָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-28",
+      "title": "2:28",
+      "titleEn": "2:28",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַהֲרֵמֹתָ֨",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֶ֜כֶס",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽיהֹוָ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאֵ֞ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַנְשֵׁ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּלְחָמָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיֹּצְאִ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַצָּבָ֔א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶחָ֣ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֶ֔פֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵחֲמֵ֖שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמֵּא֑וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הָאָדָם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִן־הַבָּקָ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִן־הַחֲמֹרִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִן־הַצֹּֽאן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-29",
+      "title": "2:29",
+      "titleEn": "2:29",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "מִמַּֽחֲצִיתָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּקָּ֑חוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנָתַתָּ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְאֶלְעָזָ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּרוּמַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-30",
+      "title": "2:30",
+      "titleEn": "2:30",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּמִמַּחֲצִ֨ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵֽי־יִשְׂרָאֵ֜ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּקַּ֣ח&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶחָ֣ד&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָחֻ֣ז",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הַחֲמִשִּׁ֗ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הָאָדָ֧ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הַבָּקָ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הַחֲמֹרִ֥ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִן־הַצֹּ֖אן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִכׇּל־הַבְּהֵמָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנָתַתָּ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַלְוִיִּ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֹׁמְרֵ֕י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִשְׁמֶ֖רֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִשְׁכַּ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-31",
+      "title": "2:31",
+      "titleEn": "2:31",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיַּ֣עַשׂ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶלְעָזָ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֑ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּאֲשֶׁ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צִוָּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מֹשֶֽׁה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-32",
+      "title": "2:32",
+      "titleEn": "2:32",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַֽיְהִי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמַּלְק֔וֹחַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֶ֣תֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַבָּ֔ז",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּזְז֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַצָּבָ֑א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צֹ֗אן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֵׁשׁ־מֵא֥וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶ֛לֶף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשִׁבְעִ֥ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶ֖לֶף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַחֲמֵ֥שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲלָפִֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-33",
+      "title": "2:33",
+      "titleEn": "2:33",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּבָקָ֕ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁנַ֥יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשִׁבְעִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָֽלֶף׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-34",
+      "title": "2:34",
+      "titleEn": "2:34",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַחֲמֹרִ֕ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶחָ֥ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשִׁשִּׁ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָֽלֶף׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-35",
+      "title": "2:35",
+      "titleEn": "2:35",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְנֶ֣פֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָדָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִ֨ן־הַנָּשִׁ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹֽא־יָדְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִשְׁכַּ֣ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָכָ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־נֶ֕פֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁנַ֥יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּשְׁלֹשִׁ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָֽלֶף׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-36",
+      "title": "2:36",
+      "titleEn": "2:36",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַתְּהִי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַֽמֶּחֱצָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֵ֕לֶק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיֹּצְאִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּצָּבָ֑א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִסְפַּ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַצֹּ֗אן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁלֹשׁ־מֵא֥וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶ֙לֶף֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּשְׁלֹשִׁ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶ֔לֶף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשִׁבְעַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲלָפִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַחֲמֵ֥שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאֽוֹת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-37",
+      "title": "2:37",
+      "titleEn": "2:37",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְהִ֛י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמֶּ֥כֶס",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽיהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הַצֹּ֑אן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֵׁ֥שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵא֖וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חָמֵ֥שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשִׁבְעִֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-38",
+      "title": "2:38",
+      "titleEn": "2:38",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהַ֨בָּקָ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁשָּׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּשְׁלֹשִׁ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָ֑לֶף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִכְסָ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁנַ֥יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשִׁבְעִֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-39",
+      "title": "2:39",
+      "titleEn": "2:39",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַחֲמֹרִ֕ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁלֹשִׁ֥ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶ֖לֶף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַחֲמֵ֣שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵא֑וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִכְסָ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽיהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶחָ֥ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשִׁשִּֽׁים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-40",
+      "title": "2:40",
+      "titleEn": "2:40",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְנֶ֣פֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָדָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁשָּׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָשָׂ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָ֑לֶף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִכְסָם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽיהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁנַ֥יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּשְׁלֹשִׁ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נָֽפֶשׁ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-41",
+      "title": "2:41",
+      "titleEn": "2:41",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּתֵּ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מֶ֙כֶס֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּרוּמַ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְאֶלְעָזָ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֑ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּאֲשֶׁ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צִוָּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מֹשֶֽׁה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-42",
+      "title": "2:42",
+      "titleEn": "2:42",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּמִֽמַּחֲצִ֖ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֑ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חָצָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הָאֲנָשִׁ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַצֹּבְאִֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-43",
+      "title": "2:43",
+      "titleEn": "2:43",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַתְּהִ֛י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֶחֱצַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעֵדָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הַצֹּ֑אן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁלֹשׁ־מֵא֥וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶ֙לֶף֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּשְׁלֹשִׁ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶ֔לֶף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁבְעַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲלָפִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַחֲמֵ֥שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאֽוֹת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-44",
+      "title": "2:44",
+      "titleEn": "2:44",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּבָקָ֕ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁשָּׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּשְׁלֹשִׁ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָֽלֶף׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-45",
+      "title": "2:45",
+      "titleEn": "2:45",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַחֲמֹרִ֕ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁלֹשִׁ֥ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶ֖לֶף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַחֲמֵ֥שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאֽוֹת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-46",
+      "title": "2:46",
+      "titleEn": "2:46",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְנֶ֣פֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָדָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁשָּׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָשָׂ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָֽלֶף׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-47",
+      "title": "2:47",
+      "titleEn": "2:47",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּקַּ֨ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁ֜ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמַּחֲצִ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵֽי־יִשְׂרָאֵ֗ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָֽאָחֻז֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶחָ֣ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הַחֲמִשִּׁ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הָאָדָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִן־הַבְּהֵמָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּתֵּ֨ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֜ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַלְוִיִּ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֹֽׁמְרֵי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִשְׁמֶ֙רֶת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִשְׁכַּ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּאֲשֶׁ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צִוָּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מֹשֶֽׁה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-48",
+      "title": "2:48",
+      "titleEn": "2:48",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַֽיִּקְרְבוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַפְּקֻדִ֕ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְאַלְפֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַצָּבָ֑א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׂרֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֲלָפִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשָׂרֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמֵּאֽוֹת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-49",
+      "title": "2:49",
+      "titleEn": "2:49",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֹּֽאמְרוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲבָדֶ֣יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נָֽשְׂא֗וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־רֹ֛אשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַנְשֵׁ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּלְחָמָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּיָדֵ֑נוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹא־נִפְקַ֥ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמֶּ֖נּוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִֽישׁ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-50",
+      "title": "2:50",
+      "titleEn": "2:50",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַנַּקְרֵ֞ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־קׇרְבַּ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִישׁ֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מָצָ֤א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְלִֽי־זָהָב֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶצְעָדָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְצָמִ֔יד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טַבַּ֖עַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָגִ֣יל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכוּמָ֑ז",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְכַפֵּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־נַפְשֹׁתֵ֖ינוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-51",
+      "title": "2:51",
+      "titleEn": "2:51",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּקַּ֨ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁ֜ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶלְעָזָ֧ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֛ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַזָּהָ֖ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵֽאִתָּ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֹּ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּלִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַעֲשֶֽׂה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-52",
+      "title": "2:52",
+      "titleEn": "2:52",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְהִ֣י&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־זְהַ֣ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַתְּרוּמָ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֵרִ֙ימוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽיהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁשָּׁ֨ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָשָׂ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶ֛לֶף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁבַע־מֵא֥וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַחֲמִשִּׁ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁ֑קֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאֵת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׂרֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָֽאֲלָפִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמֵאֵ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׂרֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמֵּאֽוֹת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-53",
+      "title": "2:53",
+      "titleEn": "2:53",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אַנְשֵׁי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַצָּבָ֔א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּזְז֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֥ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-2-54",
+      "title": "2:54",
+      "titleEn": "2:54",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּקַּ֨ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁ֜ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶלְעָזָ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַזָּהָ֔ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאֵ֛ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׂרֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֲלָפִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהַמֵּא֑וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיָּבִ֤אוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־אֹ֣הֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹעֵ֔ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זִכָּר֥וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִבְנֵֽי־יִשְׂרָאֵ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָֽה׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-3-1",
+      "title": "3:1",
+      "titleEn": "3:1",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּמִקְנֶ֣ה&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רַ֗ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָיָ֞ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִבְנֵ֧י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רְאוּבֵ֛ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלִבְנֵי־גָ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָצ֣וּם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְאֹ֑ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּרְא֞וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־אֶ֤רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַעְזֵר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־אֶ֣רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גִּלְעָ֔ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִנֵּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמָּק֖וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְק֥וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקְנֶֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-3-2",
+      "title": "3:2",
+      "titleEn": "3:2",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיָּבֹ֥אוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְנֵֽי־גָ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבְנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רְאוּבֵ֑ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיֹּאמְר֤וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶל־אֶלְעָזָ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶל־נְשִׂיאֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעֵדָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאמֹֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-3-3",
+      "title": "3:3",
+      "titleEn": "3:3",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "עֲטָר֤וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְדִיבֹן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיַעְזֵ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנִמְרָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְחֶשְׁבּ֖וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶלְעָלֵ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּשְׂבָ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּנְב֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבְעֹֽן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-3-4",
+      "title": "3:4",
+      "titleEn": "3:4",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "הָאָ֗רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִכָּ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲדַ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶ֥רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקְנֶ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִ֑וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלַֽעֲבָדֶ֖יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקְנֶֽה׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-3-5",
+      "title": "3:5",
+      "titleEn": "3:5",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֹּאמְר֗וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִם־מָצָ֤אנוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֵן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּעֵינֶ֔יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֻתַּ֞ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָאָ֧רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזֹּ֛את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַעֲבָדֶ֖יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַאֲחֻזָּ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַל־תַּעֲבִרֵ֖נוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַיַּרְדֵּֽן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-3-6",
+      "title": "3:6",
+      "titleEn": "3:6",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֹּ֣אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִבְנֵי־גָ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלִבְנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רְאוּבֵ֑ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַאַֽחֵיכֶ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָבֹ֙אוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַמִּלְחָמָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַתֶּ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֵּ֥שְׁבוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פֹֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-3-7",
+      "title": "3:7",
+      "titleEn": "3:7",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְלָ֣מָּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "(תנואון)",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "[תְנִיא֔וּן]",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־לֵ֖ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֑ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵֽעֲבֹר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הָאָ֔רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־נָתַ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-3-8",
+      "title": "3:8",
+      "titleEn": "3:8",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כֹּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָשׂ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲבֹתֵיכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּשׇׁלְחִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מ��קָּדֵ֥שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּרְנֵ֖עַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִרְא֥וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָאָֽרֶץ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-3-9",
+      "title": "3:9",
+      "titleEn": "3:9",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַֽיַּעֲל֞וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַד־נַ֣חַל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶשְׁכּ֗וֹל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּרְאוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָאָ֔רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיָּנִ֕יאוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־לֵ֖ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֑ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְבִלְתִּי־בֹא֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הָאָ֔רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־נָתַ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-3-10",
+      "title": "3:10",
+      "titleEn": "3:10",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּֽחַר־אַ֥ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּיּ֣וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַה֑וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּשָּׁבַ֖ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאמֹֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-3-11",
+      "title": "3:11",
+      "titleEn": "3:11",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אִם־יִרְא֨וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֲנָשִׁ֜ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעֹלִ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמִּצְרַ֗יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִבֶּ֨ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶשְׂרִ֤ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁנָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָמַ֔עְלָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֚ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֲדָמָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נִשְׁבַּ֛עְתִּי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְאַבְרָהָ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְיִצְחָ֖ק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּֽלְיַעֲקֹ֑ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹא־מִלְא֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַחֲרָֽי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-3-12",
+      "title": "3:12",
+      "titleEn": "3:12",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "בִּלְתִּ֞י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כָּלֵ֤ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־יְפֻנֶּה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַקְּנִזִּ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וִיהוֹשֻׁ֖עַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּן־נ֑וּן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִלְא֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַחֲרֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-3-13",
+      "title": "3:13",
+      "titleEn": "3:13",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּֽחַר־אַ֤ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּיִשְׂרָאֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיְנִעֵם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּמִּדְבָּ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַרְבָּעִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁנָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַד־תֹּם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־הַדּ֔וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעֹשֶׂ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָרַ֖ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּעֵינֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-3-14",
+      "title": "3:14",
+      "titleEn": "3:14",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהִנֵּ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קַמְתֶּ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּ֚חַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲבֹ֣תֵיכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּרְבּ֖וּת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנָשִׁ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חַטָּאִ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִסְפּ֣וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ע֗וֹד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֛ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲר֥וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַף־יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־יִשְׂרָאֵֽל׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-3-15",
+      "title": "3:15",
+      "titleEn": "3:15",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כִּ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְשׁוּבֻן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵֽאַחֲרָ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיָסַ֣ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ע֔וֹד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְהַנִּיח֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּמִּדְבָּ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשִֽׁחַתֶּ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְכׇל־הָעָ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזֶּֽה׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-3-16",
+      "title": "3:16",
+      "titleEn": "3:16",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּגְּשׁ֤וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵלָיו֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיֹּ֣אמְר֔וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גִּדְרֹ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צֹ֛אן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נִבְנֶ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְמִקְנֵ֖נוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פֹּ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעָרִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְטַפֵּֽנוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-3-17",
+      "title": "3:17",
+      "titleEn": "3:17",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַאֲנַ֜חְנוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֵחָלֵ֣ץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֻשִׁ֗ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֛ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִם־הֲבִֽיאֹנֻ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מְקוֹמָ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיָשַׁ֤ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טַפֵּ֙נוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּעָרֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּבְצָ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִפְּנֵ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֹשְׁבֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָֽרֶץ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-3-18",
+      "title": "3:18",
+      "titleEn": "3:18",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נָשׁ֖וּב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־בָּתֵּ֑ינוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֗ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִתְנַחֵל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֖ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נַחֲלָתֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-3-19",
+      "title": "3:19",
+      "titleEn": "3:19",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כִּ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֤א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נִנְחַל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִתָּ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵעֵ֥בֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיַּרְדֵּ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָהָ֑לְאָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָ֤אָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נַחֲלָתֵ֙נוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵלֵ֔ינוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵעֵ֥בֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיַּרְדֵּ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִזְרָֽחָה׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-3-20",
+      "title": "3:20",
+      "titleEn": "3:20",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֹּ֤אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲלֵיהֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִֽם־תַּעֲשׂ֖וּן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַדָּבָ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזֶּ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִם־תֵּחָ֥לְצ֛וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַמִּלְחָמָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-3-21",
+      "title": "3:21",
+      "titleEn": "3:21",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְעָבַ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֧ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־חָל֛וּץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַיַּרְדֵּ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֧ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הוֹרִישׁ֛וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־אֹיְבָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִפָּנָֽיו׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-3-22",
+      "title": "3:22",
+      "titleEn": "3:22",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְנִכְבְּשָׁ֨ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֜רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַחַ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תָּשֻׁ֔בוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וִהְיִיתֶ֧ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נְקִיִּ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵיְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִיִּשְׂרָאֵ֑ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְ֠הָיְתָ֠ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֨רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזֹּ֥את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַאֲחֻזָּ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-3-23",
+      "title": "3:23",
+      "titleEn": "3:23",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם־לֹ֤א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַעֲשׂוּן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֵּ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִנֵּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲטָאתֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיהֹוָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּדְעוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חַטַּאתְכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּמְצָ֖א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-3-24",
+      "title": "3:24",
+      "titleEn": "3:24",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "בְּנֽוּ־לָכֶ֤ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָרִים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְטַפְּכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּגְדֵרֹ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְצֹנַאֲכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהַיֹּצֵ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִפִּיכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּעֲשֽׂוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-3-25",
+      "title": "3:25",
+      "titleEn": "3:25",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֹּ֤אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵי־גָד֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבְנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רְאוּבֵ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאמֹ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲבָדֶ֣יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַעֲשׂ֔וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּאֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲדֹנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְצַוֶּֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-3-26",
+      "title": "3:26",
+      "titleEn": "3:26",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "טַפֵּ֣נוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נָשֵׁ֔ינוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקְנֵ֖נוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכׇל־בְּהֶמְתֵּ֑נוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִֽהְיוּ־שָׁ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּעָרֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַגִּלְעָֽד׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-3-27",
+      "title": "3:27",
+      "titleEn": "3:27",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַעֲבָדֶ֨יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַֽעַבְר֜וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־חֲל֥וּץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צָבָ֛א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַמִּלְחָמָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּאֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲדֹנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דֹּבֵֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-3-28",
+      "title": "3:28",
+      "titleEn": "3:28",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְצַ֤ו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָהֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֚ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶלְעָזָ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהוֹשֻׁ֣עַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּן־נ֑וּן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־רָאשֵׁ֛י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲב֥וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמַּטּ֖וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִבְנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵֽל׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-3-29",
+      "title": "3:29",
+      "titleEn": "3:29",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֹּ֨אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁ֜ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲלֵהֶ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִם־יַעַבְר֣וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְנֵי־גָ֣ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבְנֵי־רְאוּבֵ֣ן&;׀&;אִ֠תְּכֶ֠ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶֽת־הַיַּרְדֵּ֞ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־חָל֤וּץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַמִּלְחָמָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנִכְבְּשָׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֖רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵיכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּנְתַתֶּ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָהֶ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־אֶ֥רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַגִּלְעָ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַאֲחֻזָּֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-3-30",
+      "title": "3:30",
+      "titleEn": "3:30",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם־לֹ֧א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַֽעַבְר֛וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲלוּצִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִתְּכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנֹֽאחֲז֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְתֹכְכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאֶ֥רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּנָֽעַן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-3-31",
+      "title": "3:31",
+      "titleEn": "3:31",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיַּֽעֲנ֧וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְנֵי־גָ֛ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבְנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רְאוּבֵ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאמֹ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵת֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דִּבֶּ֧ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־עֲבָדֶ֖יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֵּ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נַעֲשֶֽׂה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-3-32",
+      "title": "3:32",
+      "titleEn": "3:32",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "נַ֣חְנוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נַעֲבֹ֧ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲלוּצִ֛ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶ֣רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּנָ֑עַן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאִתָּ֙נוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲחֻזַּ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נַחֲלָתֵ֔נוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵעֵ֖בֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיַּרְדֵּֽן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-3-33",
+      "title": "3:33",
+      "titleEn": "3:33",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּתֵּ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָהֶ֣ם&;׀&;מֹשֶׁ֡ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִבְנֵי־גָד֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלִבְנֵ֨י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רְאוּבֵ֜ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלַחֲצִ֣י&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֵׁ֣בֶט&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְנַשֶּׁ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶן־יוֹסֵ֗ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מַמְלֶ֙כֶת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סִיחֹן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֶ֣לֶךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָֽאֱמֹרִ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶ֨ת־מַמְלֶ֔כֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ע֖וֹג",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֶ֣לֶךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַבָּשָׁ֑ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֗רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְעָרֶ֙יהָ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּגְבֻלֹ֔ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָרֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֖רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סָבִֽיב׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-3-34",
+      "title": "3:34",
+      "titleEn": "3:34",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּבְנ֣וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְנֵי־גָ֔ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־דִּיבֹ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־עֲטָרֹ֑ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲרֹעֵֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-3-35",
+      "title": "3:35",
+      "titleEn": "3:35",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאֶת־עַטְרֹ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שׁוֹפָ֛ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־יַעְזֵ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיׇגְבְּהָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-3-36",
+      "title": "3:36",
+      "titleEn": "3:36",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאֶת־בֵּ֥ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נִמְרָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־בֵּ֣ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָרָ֑ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָרֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִבְצָ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְגִדְרֹ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צֹֽאן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-3-37",
+      "title": "3:37",
+      "titleEn": "3:37",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּבְנֵ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רְאוּבֵן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּנ֔וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־חֶשְׁבּ֖וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־אֶלְעָלֵ֑א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קִרְיָתָֽיִם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-3-38",
+      "title": "3:38",
+      "titleEn": "3:38",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאֶת־נְב֞וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־בַּ֧עַל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְע֛וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֽוּסַבֹּ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֵׁ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־שִׂבְמָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּקְרְא֣וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְשֵׁמֹ֔ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־שְׁמ֥וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֶעָרִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּנֽוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-3-39",
+      "title": "3:39",
+      "titleEn": "3:39",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֵּ֨לְכ֜וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֨י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מָכִ֧יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־מְנַשֶּׁ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גִּלְעָ֖דָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיִּלְכְּדֻ֑הָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיּ֖וֹרֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָאֱמֹרִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־בָּֽהּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-3-40",
+      "title": "3:40",
+      "titleEn": "3:40",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּתֵּ֤ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַגִּלְעָ֔ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְמָכִ֖יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־מְנַשֶּׁ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיֵּ֖שֶׁב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּֽהּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-3-41",
+      "title": "3:41",
+      "titleEn": "3:41",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְיָאִ֤יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־מְנַשֶּׁה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָלַ֔ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּלְכֹּ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־חַוֺּתֵיהֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּקְרָ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְהֶ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חַוֺּ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָאִֽיר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Matot-3-42",
+      "title": "3:42",
+      "titleEn": "3:42",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְנֹ֣בַח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָלַ֔ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּלְכֹּ֥ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־קְנָ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־בְּנֹתֶ֑יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּקְרָ֧א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָ֦הֿ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֹ֖בַח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּשְׁמֽוֹ׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    }
+  ]
+}

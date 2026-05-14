@@ -1,0 +1,6741 @@
+{
+  "id": "Terumah",
+  "slug": "terumah",
+  "nameHeb": "שמות",
+  "nameEn": "Terumah",
+  "nusach": "torah",
+  "timeOfDay": "any",
+  "totalDuration": 0,
+  "audioUrl": "",
+  "sections": [
+    {
+      "id": "Terumah-1-1",
+      "title": "1:1",
+      "titleEn": "1:1",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְדַבֵּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵּאמֹֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-1-2",
+      "title": "1:2",
+      "titleEn": "1:2",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "דַּבֵּר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיִקְחוּ־לִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּרוּמָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאֵ֤ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־אִישׁ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִדְּבֶ֣נּוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִבּ֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּקְח֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־תְּרוּמָתִֽי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-1-3",
+      "title": "1:3",
+      "titleEn": "1:3",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְזֹאת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַתְּרוּמָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּקְח֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאִתָּ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָהָ֥ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָכֶ֖סֶף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּנְחֹֽשֶׁת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-1-4",
+      "title": "1:4",
+      "titleEn": "1:4",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּתְכֵ֧לֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַרְגָּמָ֛ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְתוֹלַ֥עַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשֵׁ֥שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעִזִּֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-1-5",
+      "title": "1:5",
+      "titleEn": "1:5",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְעֹרֹ֨ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵילִ֧ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְאׇדָּמִ֛ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעֹרֹ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּחָשִׁ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַעֲצֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁטִּֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-1-6",
+      "title": "1:6",
+      "titleEn": "1:6",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "שֶׁ֖מֶן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַמָּאֹ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּשָׂמִים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְשֶׁ֣מֶן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּשְׁחָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלִקְטֹ֖רֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַסַּמִּֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-1-7",
+      "title": "1:7",
+      "titleEn": "1:7",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אַבְנֵי־שֹׁ֕הַם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַבְנֵ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִלֻּאִ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָאֵפֹ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלַחֹֽשֶׁן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-1-8",
+      "title": "1:8",
+      "titleEn": "1:8",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְעָ֥שׂוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקְדָּ֑שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשָׁכַנְתִּ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּתוֹכָֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-1-9",
+      "title": "1:9",
+      "titleEn": "1:9",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כְּכֹ֗ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַרְאֶ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אוֹתְךָ֔",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֚ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּבְנִ֣ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּשְׁכָּ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּבְנִ֣ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־כֵּלָ֑יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכֵ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּעֲשֽׂוּ׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-1-10",
+      "title": "1:10",
+      "titleEn": "1:10",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְעָשׂ֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲר֖וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲצֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁטִּ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַמָּתַ֨יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָחֵ֜צִי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אׇרְכּ֗וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַמָּ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָחֵ֙צִי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רׇחְבּ֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַמָּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָחֵ֖צִי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קֹמָתֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-1-11",
+      "title": "1:11",
+      "titleEn": "1:11",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְצִפִּיתָ֤",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָהָ֣ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טָה֔וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִבַּ֥יִת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִח֖וּץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּצַפֶּ֑נּוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעָשִׂ֧יתָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלָ֛יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זֵ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָהָ֖ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סָבִֽיב׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-1-12",
+      "title": "1:12",
+      "titleEn": "1:12",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְיָצַ֣קְתָּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לּ֗וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַרְבַּע֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טַבְּעֹ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָהָ֔ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנָ֣תַתָּ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַרְבַּ֣ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פַּעֲמֹתָ֑יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּשְׁתֵּ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טַבָּעֹ֗ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־צַלְעוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָֽאֶחָ֔ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּשְׁתֵּי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טַבָּעֹ֔ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־צַלְע֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשֵּׁנִֽית׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-1-13",
+      "title": "1:13",
+      "titleEn": "1:13",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְעָשִׂ֥יתָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַדֵּ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲצֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁטִּ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְצִפִּיתָ֥",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָהָֽב׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-1-14",
+      "title": "1:14",
+      "titleEn": "1:14",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהֵבֵאתָ֤",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַבַּדִּים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּטַּבָּעֹ֔ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צַלְעֹ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָרֹ֑ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָשֵׂ֥את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָאָרֹ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּהֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-1-15",
+      "title": "1:15",
+      "titleEn": "1:15",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "בְּטַבְּעֹת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָרֹ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְי֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַבַּדִּ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָסֻ֖רוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמֶּֽנּוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-1-16",
+      "title": "1:16",
+      "titleEn": "1:16",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְנָתַתָּ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הָאָרֹ֑ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֚ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעֵדֻ֔ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתֵּ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵלֶֽיךָ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-1-17",
+      "title": "1:17",
+      "titleEn": "1:17",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְעָשִׂ֥יתָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַפֹּ֖רֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָהָ֣ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טָה֑וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַמָּתַ֤יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָחֵ֙צִי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אׇרְכָּ֔הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַמָּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָחֵ֖צִי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רׇחְבָּֽהּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-1-18",
+      "title": "1:18",
+      "titleEn": "1:18",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְעָשִׂ֛יתָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁנַ֥יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּרֻבִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָהָ֑ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקְשָׁה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּעֲשֶׂ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִשְּׁנֵ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קְצ֥וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכַּפֹּֽרֶת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-1-19",
+      "title": "1:19",
+      "titleEn": "1:19",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַ֠עֲשֵׂ֠ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּר֨וּב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶחָ֤ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקָּצָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִזֶּ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּכְרוּב־אֶחָ֥ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקָּצָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִזֶּ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הַכַּפֹּ֛רֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּעֲשׂ֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַכְּרֻבִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־שְׁנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קְצוֹתָֽיו׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-1-20",
+      "title": "1:20",
+      "titleEn": "1:20",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהָי֣וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכְּרֻבִים֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פֹּרְשֵׂ֨י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְנָפַ֜יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְמַ֗עְלָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סֹכְכִ֤ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּכַנְפֵיהֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־הַכַּפֹּ֔רֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּפְנֵיהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֣ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־אָחִ֑יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶ֨ל־הַכַּפֹּ֔רֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְי֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פְּנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכְּרֻבִֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-1-21",
+      "title": "1:21",
+      "titleEn": "1:21",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְנָתַתָּ֧",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַכַּפֹּ֛רֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־הָאָרֹ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִלְמָ֑עְלָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶל־הָ֣אָרֹ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּתֵּן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָ֣עֵדֻ֔ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתֵּ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵלֶֽיךָ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-1-22",
+      "title": "1:22",
+      "titleEn": "1:22",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְנוֹעַדְתִּ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְךָ֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁם֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְדִבַּרְתִּ֨י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִתְּךָ֜",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵעַ֣ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכַּפֹּ֗רֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִבֵּין֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכְּרֻבִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־אֲר֣וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעֵדֻ֑ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־אֲשֶׁ֧ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲצַוֶּ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אוֹתְךָ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־בְּנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵֽל׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-1-23",
+      "title": "1:23",
+      "titleEn": "1:23",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְעָשִׂ֥יתָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֻׁלְחָ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲצֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁטִּ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַמָּתַ֤יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אׇרְכּוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַמָּ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רׇחְבּ֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַמָּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָחֵ֖צִי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קֹמָתֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-1-24",
+      "title": "1:24",
+      "titleEn": "1:24",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְצִפִּיתָ֥",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָהָ֣ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טָה֑וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעָשִׂ֥יתָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לּ֛וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זֵ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָהָ֖ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סָבִֽיב׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-1-25",
+      "title": "1:25",
+      "titleEn": "1:25",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְעָשִׂ֨יתָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לּ֥וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִסְגֶּ֛רֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טֹ֖פַח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סָבִ֑יב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעָשִׂ֧יתָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זֵר־זָהָ֛ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְמִסְגַּרְתּ֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סָבִֽיב׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-1-26",
+      "title": "1:26",
+      "titleEn": "1:26",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְעָשִׂ֣יתָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לּ֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַרְבַּ֖ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טַבְּעֹ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָהָ֑ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנָתַתָּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַטַּבָּעֹ֔ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֚ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַרְבַּ֣ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַפֵּאֹ֔ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְאַרְבַּ֥ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רַגְלָֽיו׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-1-27",
+      "title": "1:27",
+      "titleEn": "1:27",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לְעֻמַּת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּסְגֶּ֔רֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּהְיֶ֖יןָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַטַּבָּעֹ֑ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְבָתִּ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְבַדִּ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָשֵׂ֖את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַשֻּׁלְחָֽן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-1-28",
+      "title": "1:28",
+      "titleEn": "1:28",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְעָשִׂ֤יתָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַבַּדִּים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲצֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁטִּ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְצִפִּיתָ֥",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָהָ֑ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנִשָּׂא־בָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַשֻּׁלְחָֽן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-1-29",
+      "title": "1:29",
+      "titleEn": "1:29",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְעָשִׂ֨יתָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קְּעָרֹתָ֜יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכַפֹּתָ֗יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּקְשׂוֹתָיו֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמְנַקִּיֹּתָ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֻסַּ֖ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּהֵ֑ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָהָ֥ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טָה֖וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּעֲשֶׂ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-1-30",
+      "title": "1:30",
+      "titleEn": "1:30",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְנָתַתָּ֧",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַֽל־הַשֻּׁלְחָ֛ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֶ֥חֶם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פָּנִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְפָנַ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תָּמִֽיד׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-1-31",
+      "title": "1:31",
+      "titleEn": "1:31",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְעָשִׂ֥יתָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְנֹרַ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָהָ֣ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טָה֑וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקְשָׁ֞ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֵּעָשֶׂ֤ה*(בספרי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ספרד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ואשכנז",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֵּיעָשֶׂ֤ה)",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמְּנוֹרָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְרֵכָ֣הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְקָנָ֔הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גְּבִיעֶ֛יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּפְתֹּרֶ֥יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּפְרָחֶ֖יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמֶּ֥נָּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְיֽוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-1-32",
+      "title": "1:32",
+      "titleEn": "1:32",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְשִׁשָּׁ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קָנִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֹצְאִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִצִּדֶּ֑יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁלֹשָׁ֣ה&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קְנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְנֹרָ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִצִּדָּהּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֶחָ֔ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּשְׁלֹשָׁה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קְנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְנֹרָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִצִּדָּ֖הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשֵּׁנִֽי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-1-33",
+      "title": "1:33",
+      "titleEn": "1:33",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "שְׁלֹשָׁ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גְ֠בִעִ֠ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְֽשֻׁקָּדִ֞ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּקָּנֶ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֶחָד֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּפְתֹּ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָפֶ֒רַח֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּשְׁלֹשָׁ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גְבִעִ֗ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְשֻׁקָּדִ֛ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּקָּנֶ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֶחָ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּפְתֹּ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָפָ֑רַח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֵּ֚ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְשֵׁ֣שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַקָּנִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיֹּצְאִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הַמְּנֹרָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-1-34",
+      "title": "1:34",
+      "titleEn": "1:34",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּבַמְּנֹרָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַרְבָּעָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גְבִעִ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְשֻׁ֨קָּדִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּפְתֹּרֶ֖יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּפְרָחֶֽיהָ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-1-35",
+      "title": "1:35",
+      "titleEn": "1:35",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְכַפְתֹּ֡ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּ֩חַת֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁנֵ֨י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַקָּנִ֜ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמֶּ֗נָּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכַפְתֹּר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּ֣חַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁנֵ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַקָּנִים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמֶּ֔נָּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכַפְתֹּ֕ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּחַת־שְׁנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַקָּנִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמֶּ֑נָּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְשֵׁ֙שֶׁת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַקָּנִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיֹּצְאִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הַמְּנֹרָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-1-36",
+      "title": "1:36",
+      "titleEn": "1:36",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כַּפְתֹּרֵיהֶ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּקְנֹתָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמֶּ֣נָּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְי֑וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֻּלָּ֛הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקְשָׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַחַ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָהָ֥ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טָהֽוֹר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-1-37",
+      "title": "1:37",
+      "titleEn": "1:37",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְעָשִׂ֥יתָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־נֵרֹתֶ֖יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁבְעָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהֶֽעֱלָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־נֵ֣רֹתֶ֔יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהֵאִ֖יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־עֵ֥בֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פָּנֶֽיהָ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-1-38",
+      "title": "1:38",
+      "titleEn": "1:38",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּמַלְקָחֶ֥יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמַחְתֹּתֶ֖יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָהָ֥ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טָהֽוֹר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-1-39",
+      "title": "1:39",
+      "titleEn": "1:39",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כִּכָּ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָהָ֥ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טָה֖וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַעֲשֶׂ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֑הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־הַכֵּלִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֵֽלֶּה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-1-40",
+      "title": "1:40",
+      "titleEn": "1:40",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּרְאֵ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַעֲשֵׂ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּתַ֨בְנִיתָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־אַתָּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מׇרְאֶ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּהָֽר׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-2-1",
+      "title": "2:1",
+      "titleEn": "2:1",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאֶת־הַמִּשְׁכָּ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּעֲשֶׂ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶ֣שֶׂר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְרִיעֹ֑ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֵׁ֣שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מׇשְׁזָ֗ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּתְכֵ֤לֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַרְגָּמָן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְתֹלַ֣עַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁנִ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּרֻבִ֛ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַעֲשֵׂ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֹשֵׁ֖ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּעֲשֶׂ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-2-2",
+      "title": "2:2",
+      "titleEn": "2:2",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֹ֣רֶךְ&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיְרִיעָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָֽאַחַ֗ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁמֹנֶ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעֶשְׂרִים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּֽאַמָּ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְרֹ֙חַב֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַרְבַּ֣ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּאַמָּ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיְרִיעָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֶחָ֑ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִדָּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַחַ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְכׇל־הַיְרִיעֹֽת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-2-3",
+      "title": "2:3",
+      "titleEn": "2:3",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "חֲמֵ֣שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיְרִיעֹ֗ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּֽהְיֶ֙יןָ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֹֽבְרֹ֔ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִשָּׁ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־אֲחֹתָ֑הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְחָמֵ֤שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְרִיעֹת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֹֽבְרֹ֔ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִשָּׁ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־אֲחֹתָֽהּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-2-4",
+      "title": "2:4",
+      "titleEn": "2:4",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְעָשִׂ֜יתָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֻֽלְאֹ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּכֵ֗לֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֣ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׂפַ֤ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיְרִיעָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֶחָ֔ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקָּצָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּחֹבָ֑רֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכֵ֤ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּעֲשֶׂה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּשְׂפַ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיְרִיעָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַקִּ֣יצוֹנָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּמַּחְבֶּ֖רֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשֵּׁנִֽית׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-2-5",
+      "title": "2:5",
+      "titleEn": "2:5",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "חֲמִשִּׁ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֻֽלָאֹ֗ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּעֲשֶׂה֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּיְרִיעָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֶחָת֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַחֲמִשִּׁ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֻֽלָאֹ֗ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּעֲשֶׂה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּקְצֵ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיְרִיעָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּמַּחְבֶּ֣רֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשֵּׁנִ֑ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַקְבִּילֹת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַלֻּ֣לָאֹ֔ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִשָּׁ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־אֲחֹתָֽהּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-2-6",
+      "title": "2:6",
+      "titleEn": "2:6",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְעָשִׂ֕יתָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲמִשִּׁ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קַרְסֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָהָ֑ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְחִבַּרְתָּ֨",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַיְרִיעֹ֜ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִשָּׁ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־אֲחֹתָהּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּקְּרָסִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָיָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּשְׁכָּ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶחָֽד׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-2-7",
+      "title": "2:7",
+      "titleEn": "2:7",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְעָשִׂ֙יתָ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְרִיעֹ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִזִּ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְאֹ֖הֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־הַמִּשְׁכָּ֑ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַשְׁתֵּי־עֶשְׂרֵ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְרִיעֹ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּעֲשֶׂ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-2-8",
+      "title": "2:8",
+      "titleEn": "2:8",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֹ֣רֶךְ&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיְרִיעָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָֽאַחַ֗ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁלֹשִׁים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּֽאַמָּ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְרֹ֙חַב֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַרְבַּ֣ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּאַמָּ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיְרִיעָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֶחָ֑ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִדָּ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַחַ֔ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְעַשְׁתֵּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶשְׂרֵ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְרִיעֹֽת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-2-9",
+      "title": "2:9",
+      "titleEn": "2:9",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְחִבַּרְתָּ֞",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־חֲמֵ֤שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיְרִיעֹת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְבָ֔ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־שֵׁ֥שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיְרִיעֹ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְבָ֑ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכָפַלְתָּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַיְרִיעָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשִּׁשִּׁ֔ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־��֖וּל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פְּנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֹֽהֶל׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-2-10",
+      "title": "2:10",
+      "titleEn": "2:10",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְעָשִׂ֜יתָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲמִשִּׁ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֻֽלָאֹ֗ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֣ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׂפַ֤ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיְרִיעָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָֽאֶחָ֔ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַקִּיצֹנָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּחֹבָ֑רֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַחֲמִשִּׁ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֻֽלָאֹ֗ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֚ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׂפַ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיְרִיעָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַחֹבֶ֖רֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשֵּׁנִֽית׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-2-11",
+      "title": "2:11",
+      "titleEn": "2:11",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְעָשִׂ֛יתָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קַרְסֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נְחֹ֖שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲמִשִּׁ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהֵבֵאתָ֤",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַקְּרָסִים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּלֻּ֣לָאֹ֔ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְחִבַּרְתָּ֥",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָאֹ֖הֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָיָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶחָֽד׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-2-12",
+      "title": "2:12",
+      "titleEn": "2:12",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְסֶ֙רַח֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעֹדֵ֔ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּירִיעֹ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֹ֑הֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲצִ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיְרִיעָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעֹדֶ֔פֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּסְרַ֕ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲחֹרֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּשְׁכָּֽן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-2-13",
+      "title": "2:13",
+      "titleEn": "2:13",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהָאַמָּ֨ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִזֶּ֜ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָאַמָּ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִזֶּה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּעֹדֵ֔ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאֹ֖רֶךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְרִיעֹ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֹ֑הֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְיֶ֨ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סָר֜וּחַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־צִדֵּ֧י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּשְׁכָּ֛ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִזֶּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִזֶּ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְכַסֹּתֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-2-14",
+      "title": "2:14",
+      "titleEn": "2:14",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְעָשִׂ֤יתָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִכְסֶה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָאֹ֔הֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֹרֹ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵילִ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְאׇדָּמִ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִכְסֵ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֹרֹ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּחָשִׁ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִלְמָֽעְלָה׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-2-15",
+      "title": "2:15",
+      "titleEn": "2:15",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְעָשִׂ֥יתָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַקְּרָשִׁ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַמִּשְׁכָּ֑ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲצֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁטִּ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֹמְדִֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-2-16",
+      "title": "2:16",
+      "titleEn": "2:16",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "עֶ֥שֶׂר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַמּ֖וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹ֣רֶךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַקָּ֑רֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַמָּה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַחֲצִ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָֽאַמָּ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֹ֖חַב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַקֶּ֥רֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֶחָֽד׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-2-17",
+      "title": "2:17",
+      "titleEn": "2:17",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "שְׁתֵּ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָד֗וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַקֶּ֙רֶשׁ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֶחָ֔ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְשֻׁ֨לָּבֹ֔ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִשָּׁ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־אֲחֹתָ֑הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֵּ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּעֲשֶׂ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְכֹ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קַרְשֵׁ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּשְׁכָּֽן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-2-18",
+      "title": "2:18",
+      "titleEn": "2:18",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְעָשִׂ֥יתָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַקְּרָשִׁ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַמִּשְׁכָּ֑ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶשְׂרִ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קֶ֔רֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְאַ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֶ֥גְבָּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֵימָֽנָה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-2-19",
+      "title": "2:19",
+      "titleEn": "2:19",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאַרְבָּעִים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַדְנֵי־כֶ֔סֶף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּעֲשֶׂ֕ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּ֖חַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶשְׂרִ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַקָּ֑רֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁנֵ֨י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲדָנִ֜ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּֽחַת־הַקֶּ֤רֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֶחָד֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִשְׁתֵּ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְדֹתָ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּשְׁנֵ֧י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲדָנִ֛ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּֽחַת־הַקֶּ֥רֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֶחָ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִשְׁתֵּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְדֹתָֽיו׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-2-20",
+      "title": "2:20",
+      "titleEn": "2:20",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּלְצֶ֧לַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּשְׁכָּ֛ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשֵּׁנִ֖ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְאַ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צָפ֑וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶשְׂרִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קָֽרֶשׁ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-2-21",
+      "title": "2:21",
+      "titleEn": "2:21",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאַרְבָּעִ֥ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַדְנֵיהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כָּ֑סֶף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲדָנִ֗ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּ֚חַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַקֶּ֣רֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָֽאֶחָ֔ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּשְׁנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲדָנִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּ֖חַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַקֶּ֥רֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֶחָֽד׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-2-22",
+      "title": "2:22",
+      "titleEn": "2:22",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּֽלְיַרְכְּתֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּשְׁכָּ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָ֑מָּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּעֲשֶׂ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁשָּׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קְרָשִֽׁים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-2-23",
+      "title": "2:23",
+      "titleEn": "2:23",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּשְׁנֵ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קְרָשִׁים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּעֲשֶׂ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִמְקֻצְעֹ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּשְׁכָּ֑ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּיַּרְכָתָֽיִם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-2-24",
+      "title": "2:24",
+      "titleEn": "2:24",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְיִֽהְי֣וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֹֽאֲמִם֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִלְּמַ֒טָּה֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיַחְדָּ֗ו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְי֤וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַמִּים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־רֹאשׁ֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הַטַּבַּ֖עַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֶחָ֑ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֵּ֚ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְיֶ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִשְׁנֵיהֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִשְׁנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּקְצֹעֹ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְיֽוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-2-25",
+      "title": "2:25",
+      "titleEn": "2:25",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהָיוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁמֹנָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קְרָשִׁ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַדְנֵיהֶ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֶּ֔סֶף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁשָּׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָשָׂ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲדָנִ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲדָנִ֗ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּ֚חַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַקֶּ֣רֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֶחָ֔ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּשְׁנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲדָנִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּ֖חַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַקֶּ֥רֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֶחָֽד׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-2-26",
+      "title": "2:26",
+      "titleEn": "2:26",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְעָשִׂ֥יתָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְרִיחִ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲצֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁטִּ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲמִשָּׁ֕ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְקַרְשֵׁ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צֶֽלַע־הַמִּשְׁכָּ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֶחָֽד׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-2-27",
+      "title": "2:27",
+      "titleEn": "2:27",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַחֲמִשָּׁ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְרִיחִ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְקַרְשֵׁ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צֶֽלַע־הַמִּשְׁכָּ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשֵּׁנִ֑ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַחֲמִשָּׁ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְרִיחִ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְקַרְשֵׁי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צֶ֣לַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּשְׁכָּ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיַּרְכָתַ֖יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָֽמָּה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-2-28",
+      "title": "2:28",
+      "titleEn": "2:28",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהַבְּרִ֥יחַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַתִּיכֹ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּת֣וֹךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַקְּרָשִׁ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַבְרִ֕חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הַקָּצֶ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הַקָּצֶֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-2-29",
+      "title": "2:29",
+      "titleEn": "2:29",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְֽאֶת־הַקְּרָשִׁ֞ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּצַפֶּ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָהָ֗ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־טַבְּעֹֽתֵיהֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּעֲשֶׂ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָהָ֔ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּתִּ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַבְּרִיחִ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְצִפִּיתָ֥",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַבְּרִיחִ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָהָֽב׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-2-30",
+      "title": "2:30",
+      "titleEn": "2:30",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַהֲקֵמֹתָ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַמִּשְׁכָּ֑ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּמִ֨שְׁפָּט֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הׇרְאֵ֖יתָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּהָֽר׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-2-31",
+      "title": "2:31",
+      "titleEn": "2:31",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְעָשִׂ֣יתָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פָרֹ֗כֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּכֵ֧לֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַרְגָּמָ֛ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְתוֹלַ֥עַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשֵׁ֣שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מׇשְׁזָ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַעֲשֵׂ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֹשֵׁ֛ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַעֲשֶׂ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֖הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּרֻבִֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-2-32",
+      "title": "2:32",
+      "titleEn": "2:32",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְנָתַתָּ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֗הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־אַרְבָּעָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַמּוּדֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁטִּ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְצֻפִּ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָהָ֔ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָוֵיהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָהָ֑ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־אַרְבָּעָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַדְנֵי־כָֽסֶף׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-2-33",
+      "title": "2:33",
+      "titleEn": "2:33",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְנָתַתָּ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַפָּרֹ֘כֶת֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּ֣חַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַקְּרָסִים֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהֵבֵאתָ֥",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁ֙מָּה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִבֵּ֣ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַפָּרֹ֔כֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲר֣וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעֵד֑וּת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִבְדִּילָ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַפָּרֹ֙כֶת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֵּ֣ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַקֹּ֔דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבֵ֖ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קֹ֥דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַקֳּדָשִֽׁים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-2-34",
+      "title": "2:34",
+      "titleEn": "2:34",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְנָתַתָּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַכַּפֹּ֔רֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲר֣וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעֵדֻ֑ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּקֹ֖דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַקֳּדָשִֽׁים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-2-35",
+      "title": "2:35",
+      "titleEn": "2:35",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְשַׂמְתָּ֤",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַשֻּׁלְחָן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִח֣וּץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַפָּרֹ֔כֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־הַמְּנֹרָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֹ֣כַח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשֻּׁלְחָ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֛ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צֶ֥לַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּשְׁכָּ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֵּימָ֑נָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהַ֨שֻּׁלְחָ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּתֵּ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־צֶ֥לַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צָפֽוֹן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-2-36",
+      "title": "2:36",
+      "titleEn": "2:36",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְעָשִׂ֤יתָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מָסָךְ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְפֶ֣תַח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֹ֔הֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּכֵ֧לֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַרְגָּמָ֛ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְתוֹלַ֥עַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשֵׁ֣שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מׇשְׁזָ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַעֲשֵׂ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֹקֵֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-2-37",
+      "title": "2:37",
+      "titleEn": "2:37",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְעָשִׂ֣יתָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַמָּסָ֗ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲמִשָּׁה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַמּוּדֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁטִּ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְצִפִּיתָ֤",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָהָ֔ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָוֵיהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָהָ֑ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיָצַקְתָּ֣",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָהֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲמִשָּׁ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַדְנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נְחֹֽשֶׁת׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-3-1",
+      "title": "3:1",
+      "titleEn": "3:1",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְעָשִׂ֥יתָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַמִּזְבֵּ֖חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲצֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁטִּ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חָמֵשׁ֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַמּ֨וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹ֜רֶךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְחָמֵ֧שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַמּ֣וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֹ֗חַב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רָב֤וּעַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְיֶה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּזְבֵּ֔חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשָׁלֹ֥שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַמּ֖וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קֹמָתֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-3-2",
+      "title": "3:2",
+      "titleEn": "3:2",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְעָשִׂ֣יתָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קַרְנֹתָ֗יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֚ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַרְבַּ֣ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פִּנֹּתָ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמֶּ֖נּוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּהְיֶ֣יןָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קַרְנֹתָ֑יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְצִפִּיתָ֥",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נְחֹֽשֶׁת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-3-3",
+      "title": "3:3",
+      "titleEn": "3:3",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְעָשִׂ֤יתָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סִּֽירֹתָיו֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְדַשְּׁנ֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיָעָיו֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִזְרְקֹתָ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִזְלְגֹתָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמַחְתֹּתָ֑יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְכׇל־כֵּלָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּעֲשֶׂ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נְחֹֽשֶׁת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-3-4",
+      "title": "3:4",
+      "titleEn": "3:4",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְעָשִׂ֤יתָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לּוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִכְבּ��֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַעֲשֵׂ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֶ֣שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נְחֹ֑שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעָשִׂ֣יתָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־הָרֶ֗שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַרְבַּע֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טַבְּעֹ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נְחֹ֔שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַרְבַּ֥ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קְצוֹתָֽיו׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-3-5",
+      "title": "3:5",
+      "titleEn": "3:5",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְנָתַתָּ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֗הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּ֛חַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּרְכֹּ֥ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּזְבֵּ֖חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִלְּמָ֑טָּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָיְתָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָרֶ֔שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲצִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּזְבֵּֽחַ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-3-6",
+      "title": "3:6",
+      "titleEn": "3:6",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְעָשִׂ֤יתָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַדִּים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַמִּזְבֵּ֔חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּדֵּ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲצֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁטִּ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְצִפִּיתָ֥",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נְחֹֽשֶׁת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-3-7",
+      "title": "3:7",
+      "titleEn": "3:7",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהוּבָ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בַּדָּ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּטַּבָּעֹ֑ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָי֣וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַבַּדִּ֗ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־שְׁתֵּ֛י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צַלְעֹ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּזְבֵּ֖חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּשְׂאֵ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-3-8",
+      "title": "3:8",
+      "titleEn": "3:8",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "נְב֥וּב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֻחֹ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּעֲשֶׂ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּאֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֶרְאָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתְךָ֛",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּהָ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֵּ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַעֲשֽׂוּ׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-3-9",
+      "title": "3:9",
+      "titleEn": "3:9",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְעָשִׂ֕יתָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲצַ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּשְׁכָּ֑ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְאַ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֶֽגֶב־תֵּ֠ימָ֠נָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קְלָעִ֨ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֶחָצֵ֜ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֵׁ֣שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מׇשְׁזָ֗ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאָ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָֽאַמָּה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹ֔רֶךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַפֵּאָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֶחָֽת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-3-10",
+      "title": "3:10",
+      "titleEn": "3:10",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְעַמֻּדָ֣יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶשְׂרִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַדְנֵיהֶ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶשְׂרִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נְחֹ֑שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָוֵ֧י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעַמֻּדִ֛ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַחֲשֻׁקֵיהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כָּֽסֶף׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-3-11",
+      "title": "3:11",
+      "titleEn": "3:11",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְכֵ֨ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְאַ֤ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צָפוֹן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּאֹ֔רֶךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קְלָעִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵ֣אָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹ֑רֶךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעַמֻּדָ֣ו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶשְׂרִ֗ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַדְנֵיהֶ֤ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶשְׂרִים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נְחֹ֔שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָוֵ֧י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָֽעַמֻּדִ֛ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַחֲשֻׁקֵיהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כָּֽסֶף׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-3-12",
+      "title": "3:12",
+      "titleEn": "3:12",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְרֹ֤חַב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֶֽחָצֵר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְאַת־יָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קְלָעִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲמִשִּׁ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַמָּ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַמֻּדֵיהֶ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲשָׂרָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַדְנֵיהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲשָׂרָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-3-13",
+      "title": "3:13",
+      "titleEn": "3:13",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְרֹ֣חַב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֶֽחָצֵ֗ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְאַ֛ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קֵ֥דְמָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִזְרָ֖חָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲמִשִּׁ֥ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַמָּֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-3-14",
+      "title": "3:14",
+      "titleEn": "3:14",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַחֲמֵ֨שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶשְׂרֵ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַמָּ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קְלָעִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַכָּתֵ֑ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַמֻּדֵיהֶ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁלֹשָׁ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַדְנֵיהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁלֹשָֽׁה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-3-15",
+      "title": "3:15",
+      "titleEn": "3:15",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְלַכָּתֵף֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשֵּׁנִ֔ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲמֵ֥שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶשְׂרֵ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קְלָעִ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַמֻּדֵיהֶ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁלֹשָׁ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַדְנֵיהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁלֹשָֽׁה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-3-16",
+      "title": "3:16",
+      "titleEn": "3:16",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּלְשַׁ֨עַר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֶֽחָצֵ֜ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מָסָ֣ךְ&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶשְׂרִ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַמָּ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּכֵ֨לֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַרְגָּמָ֜ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְתוֹלַ֧עַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁנִ֛י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשֵׁ֥שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מׇשְׁזָ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַעֲשֵׂ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֹקֵ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַמֻּֽדֵיהֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַרְבָּעָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַדְנֵיהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַרְבָּעָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-3-17",
+      "title": "3:17",
+      "titleEn": "3:17",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כׇּל־עַמּוּדֵ֨י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֶֽחָצֵ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סָבִיב֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְחֻשָּׁקִ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֶּ֔סֶף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָוֵיהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כָּ֑סֶף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַדְנֵיהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נְחֹֽשֶׁת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-3-18",
+      "title": "3:18",
+      "titleEn": "3:18",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֹ֣רֶךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֶֽחָצֵר֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאָ֨ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָֽאַמָּ֜ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְרֹ֣חַב&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲמִשִּׁ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּחֲמִשִּׁ֗ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְקֹמָ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חָמֵ֥שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַמּ֖וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֵׁ֣שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מׇשְׁזָ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַדְנֵיהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נְחֹֽשֶׁת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-3-19",
+      "title": "3:19",
+      "titleEn": "3:19",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לְכֹל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּלֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּשְׁכָּ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּכֹ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲבֹדָת֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכׇל־יְתֵדֹתָ֛יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכׇל־יִתְדֹ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֶחָצֵ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נְחֹֽשֶׁת׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-3-20",
+      "title": "3:20",
+      "titleEn": "3:20",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאַתָּ֞ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּצַוֶּ֣ה&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֗ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיִקְח֨וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵלֶ֜יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֶׁ֣מֶן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זַ֥יִת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָ֛ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כָּתִ֖ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַמָּא֑וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְהַעֲלֹ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֵ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תָּמִֽיד׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Terumah-3-21",
+      "title": "3:21",
+      "titleEn": "3:21",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "בְּאֹ֣הֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹעֵד֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִח֨וּץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַפָּרֹ֜כֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־הָעֵדֻ֗ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַעֲרֹךְ֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֨וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַהֲרֹ֧ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבָנָ֛יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵעֶ֥רֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַד־בֹּ֖קֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֻקַּ֤ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עוֹלָם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְדֹ֣רֹתָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאֵ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵֽל׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    }
+  ]
+}

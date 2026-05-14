@@ -1,0 +1,5208 @@
+{
+  "id": "Tazria",
+  "slug": "tazria",
+  "nameHeb": "ויקרא",
+  "nameEn": "Tazria",
+  "nusach": "torah",
+  "timeOfDay": "any",
+  "totalDuration": 0,
+  "audioUrl": "",
+  "sections": [
+    {
+      "id": "Tazria-1-1",
+      "title": "1:1",
+      "titleEn": "1:1",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְדַבֵּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵּאמֹֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-1-2",
+      "title": "1:2",
+      "titleEn": "1:2",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "דַּבֵּ֞ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־בְּנֵ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאמֹ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִשָּׁה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַזְרִ֔יעַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיָלְדָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָכָ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְטָֽמְאָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁבְעַ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָמִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּימֵ֛י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נִדַּ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דְּוֺתָ֖הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּטְמָֽא׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-1-3",
+      "title": "1:3",
+      "titleEn": "1:3",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּבַיּ֖וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשְּׁמִינִ֑י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִמּ֖וֹל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּשַׂ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עׇרְלָתֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-1-4",
+      "title": "1:4",
+      "titleEn": "1:4",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּשְׁלֹשִׁ֥ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוֹם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּשְׁלֹ֣שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָמִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֵּשֵׁ֖ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּדְמֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טׇהֳרָ֑הֿ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּכׇל־קֹ֣דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹֽא־תִגָּ֗ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶל־הַמִּקְדָּשׁ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תָבֹ֔א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַד־מְלֹ֖את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְמֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טׇהֳרָֽהּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-1-5",
+      "title": "1:5",
+      "titleEn": "1:5",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם־נְקֵבָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֵלֵ֔ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְטָמְאָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁבֻעַ֖יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּנִדָּתָ֑הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשִׁשִּׁ֥ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוֹם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשֵׁ֣שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָמִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֵּשֵׁ֖ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־דְּמֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טׇהֳרָֽהֿ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-1-6",
+      "title": "1:6",
+      "titleEn": "1:6",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּבִמְלֹ֣את&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְמֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טׇהֳרָ֗הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְבֵן֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְבַת֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תָּבִ֞יא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֶּ֤בֶשׂ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־שְׁנָתוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְעֹלָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבֶן־יוֹנָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אוֹ־תֹ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְחַטָּ֑את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־פֶּ֥תַח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹֽהֶל־מוֹעֵ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הַכֹּהֵֽן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-1-7",
+      "title": "1:7",
+      "titleEn": "1:7",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהִקְרִיב֞וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכִפֶּ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלֶ֔יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְטָהֲרָ֖הֿ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמְּקֹ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דָּמֶ֑יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זֹ֤את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תּוֹרַת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיֹּלֶ֔דֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַזָּכָ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֥וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַנְּקֵבָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-1-8",
+      "title": "1:8",
+      "titleEn": "1:8",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם־לֹ֨א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִמְצָ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָדָהּ֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דֵּ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֶׂה֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלָקְחָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁתֵּֽי־תֹרִ֗ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֤וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁנֵי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוֹנָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶחָ֥ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְעֹלָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶחָ֣ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְחַטָּ֑את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכִפֶּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלֶ֛יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְטָהֵֽרָה׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-1",
+      "title": "2:1",
+      "titleEn": "2:1",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְדַבֵּ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶֽל־אַהֲרֹ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאמֹֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-2",
+      "title": "2:2",
+      "titleEn": "2:2",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אָדָ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־יִהְיֶ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְעוֹר־בְּשָׂרוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׂאֵ֤ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֽוֹ־סַפַּ֙חַת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַהֶ֔רֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָיָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְעוֹר־בְּשָׂר֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְנֶ֣גַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צָרָ֑עַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהוּבָא֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־אַהֲרֹ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֛וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־אַחַ֥ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִבָּנָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֲנִֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-3",
+      "title": "2:3",
+      "titleEn": "2:3",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְרָאָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַנֶּ֣גַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּעֽוֹר־הַ֠בָּשָׂ֠ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשֵׂעָ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּנֶּ֜גַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָפַ֣ךְ&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָבָ֗ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמַרְאֵ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנֶּ֙גַע֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָמֹק֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵע֣וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּשָׂר֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֶ֥גַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צָרַ֖עַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ה֑וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְרָאָ֥הוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְטִמֵּ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-4",
+      "title": "2:4",
+      "titleEn": "2:4",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם־בַּהֶ֩רֶת֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְבָנָ֨ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִ֜וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּע֣וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּשָׂר֗וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעָמֹק֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵין־מַרְאֶ֣הָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הָע֔וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּשְׂעָרָ֖הֿ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹא־הָפַ֣ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָבָ֑ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִסְ��ִּ֧יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֛ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַנֶּ֖גַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁבְעַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָמִֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-5",
+      "title": "2:5",
+      "titleEn": "2:5",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְרָאָ֣הוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵן֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּיּ֣וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשְּׁבִיעִי֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִנֵּ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנֶּ֙גַע֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָמַ֣ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּעֵינָ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹֽא־פָשָׂ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנֶּ֖גַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּע֑וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִסְגִּיר֧וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֛ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁבְעַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָמִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֵׁנִֽית׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-6",
+      "title": "2:6",
+      "titleEn": "2:6",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְרָאָה֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֨ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֜וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּיּ֣וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשְּׁבִיעִי֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֵׁנִית֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִנֵּה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֵּהָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנֶּ֔גַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹא־פָשָׂ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנֶּ֖גַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּע֑וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְטִהֲר֤וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִסְפַּ֣חַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִ֔וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכִבֶּ֥ס",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּגָדָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְטָהֵֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-7",
+      "title": "2:7",
+      "titleEn": "2:7",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם־פָּשֹׂ֨ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִפְשֶׂ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּסְפַּ֙חַת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּע֔וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַחֲרֵ֧י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֵרָאֹת֛וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הַכֹּהֵ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְטׇהֳרָת֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנִרְאָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֵׁנִ֖ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הַכֹּהֵֽן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-8",
+      "title": "2:8",
+      "titleEn": "2:8",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְרָאָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִנֵּ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פָּשְׂתָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּסְפַּ֖חַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּע֑וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְטִמְּא֥וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צָרַ֥עַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִֽוא׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-9",
+      "title": "2:9",
+      "titleEn": "2:9",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "נֶ֣גַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צָרַ֔עַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִהְיֶ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאָדָ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהוּבָ֖א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הַכֹּהֵֽן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-10",
+      "title": "2:10",
+      "titleEn": "2:10",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְרָאָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֗ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִנֵּ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׂאֵת־לְבָנָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּע֔וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִ֕יא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָפְכָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֵׂעָ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָבָ֑ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִֽחְיַ֛ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּשָׂ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חַ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּשְׂאֵֽת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-11",
+      "title": "2:11",
+      "titleEn": "2:11",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "צָרַ֨עַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נוֹשֶׁ֤נֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִוא֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּע֣וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּשָׂר֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְטִמְּא֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֑ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַסְגִּרֶ֔נּוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טָמֵ֖א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֽוּא׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-12",
+      "title": "2:12",
+      "titleEn": "2:12",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם־פָּר֨וֹחַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּפְרַ֤ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַצָּרַ֙עַת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּע֔וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכִסְּתָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַצָּרַ֗עַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֚ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־ע֣וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנֶּ֔גַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵרֹאשׁ֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעַד־רַגְלָ֑יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְכׇל־מַרְאֵ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֵינֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵֽן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-13",
+      "title": "2:13",
+      "titleEn": "2:13",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְרָאָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֗ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִנֵּ֨ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִסְּתָ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַצָּרַ֙עַת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־כׇּל־בְּשָׂר֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְטִהַ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַנָּ֑גַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֻּלּ֛וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָפַ֥ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָבָ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טָה֥וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֽוּא׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-14",
+      "title": "2:14",
+      "titleEn": "2:14",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּבְי֨וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֵרָא֥וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בּ֛וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּשָׂ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חַ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִטְמָֽא׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-15",
+      "title": "2:15",
+      "titleEn": "2:15",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְרָאָ֧ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֛ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַבָּשָׂ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַחַ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְטִמְּא֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַבָּשָׂ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַחַ֛י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טָמֵ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ה֖וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צָרַ֥עַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֽוּא׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-16",
+      "title": "2:16",
+      "titleEn": "2:16",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "א֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָשׁ֛וּב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַבָּשָׂ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַחַ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנֶהְפַּ֣ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְלָבָ֑ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבָ֖א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הַכֹּהֵֽן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-17",
+      "title": "2:17",
+      "titleEn": "2:17",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְרָאָ֙הוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִנֵּ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֶהְפַּ֥ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנֶּ֖גַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְלָבָ֑ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְטִהַ֧ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֛ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַנֶּ֖גַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טָה֥וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֽוּא׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-18",
+      "title": "2:18",
+      "titleEn": "2:18",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּבָשָׂ֕ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־יִהְיֶ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֽוֹ־בְעֹר֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁחִ֑ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנִרְפָּֽא׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-19",
+      "title": "2:19",
+      "titleEn": "2:19",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהָיָ֞ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּמְק֤וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשְּׁחִין֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׂאֵ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְבָנָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֥וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַהֶ֖רֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְבָנָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲדַמְדָּ֑מֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנִרְאָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הַכֹּהֵֽן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-20",
+      "title": "2:20",
+      "titleEn": "2:20",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְרָאָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֗ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִנֵּ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַרְאֶ֙הָ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁפָ֣ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הָע֔וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּשְׂעָרָ֖הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָפַ֣ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָבָ֑ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְטִמְּא֧וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֛ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֶֽגַע־צָרַ֥עַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִ֖וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּשְּׁחִ֥ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פָּרָֽחָה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-21",
+      "title": "2:21",
+      "titleEn": "2:21",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִ֣ם&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִרְאֶ֣נָּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֗ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִנֵּ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵֽין־בָּהּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֵׂעָ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָבָ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּשְׁפָלָ֥הֿ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵינֶ֛נָּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הָע֖וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִ֣יא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֵהָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִסְגִּיר֥וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁבְעַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָמִֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-22",
+      "title": "2:22",
+      "titleEn": "2:22",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם־פָּשֹׂ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִפְשֶׂ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּע֑וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְטִמֵּ֧א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֛ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֶ֥גַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִֽוא׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-23",
+      "title": "2:23",
+      "titleEn": "2:23",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם־תַּחְתֶּ֜יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּעֲמֹ֤ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַבַּהֶ֙רֶת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פָשָׂ֔תָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צָרֶ֥בֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשְּׁחִ֖ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִ֑וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְטִהֲר֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵֽן׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-24",
+      "title": "2:24",
+      "titleEn": "2:24",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "א֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָשָׂ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־יִהְיֶ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְעֹר֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִכְוַת־אֵ֑שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְֽהָיְתָ֞ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִֽחְיַ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּכְוָ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּהֶ֛רֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְבָנָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲדַמְדֶּ֖מֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֥וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְבָנָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-25",
+      "title": "2:25",
+      "titleEn": "2:25",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְרָאָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֣הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֡ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִנֵּ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֶהְפַּךְ֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֵׂעָ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָבָ֜ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּבַּהֶ֗רֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמַרְאֶ֙הָ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָמֹ֣ק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הָע֔וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צָרַ֣עַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִ֔וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּמִּכְוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פָּרָ֑חָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְטִמֵּ֤א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֶ֥גַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צָרַ֖עַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִֽוא׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-26",
+      "title": "2:26",
+      "titleEn": "2:26",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִ֣ם&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִרְאֶ֣נָּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֗ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִנֵּ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵֽין־בַּבַּהֶ֙רֶת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֵׂעָ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָבָ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּשְׁפָלָ֥הֿ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵינֶ֛נָּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הָע֖וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִ֣וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֵהָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִסְגִּיר֥וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁבְעַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָמִֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-27",
+      "title": "2:27",
+      "titleEn": "2:27",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְרָאָ֥הוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּיּ֣וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשְּׁבִיעִ֑י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִם־פָּשֹׂ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִפְשֶׂה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּע֔וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְטִמֵּ֤א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֶ֥גַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צָרַ֖עַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִֽוא׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-28",
+      "title": "2:28",
+      "titleEn": "2:28",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם־תַּחְתֶּ֩יהָ֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַעֲמֹ֨ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַבַּהֶ֜רֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹא־פָשְׂתָ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָעוֹר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִ֣וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֵהָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׂאֵ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּכְוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִ֑וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְטִֽהֲרוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־צָרֶ֥בֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּכְוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִֽוא׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-29",
+      "title": "2:29",
+      "titleEn": "2:29",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִישׁ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִשָּׁ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־יִהְיֶ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ב֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נָ֑גַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּרֹ֖אשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֥וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְזָקָֽן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-30",
+      "title": "2:30",
+      "titleEn": "2:30",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְרָאָ֨ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֜ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַנֶּ֗גַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִנֵּ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַרְאֵ֙הוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָמֹ֣ק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הָע֔וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּב֛וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֵׂעָ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צָהֹ֖ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דָּ֑ק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְטִמֵּ֨א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֤וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֶ֣תֶק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ה֔וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צָרַ֧עַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָרֹ֛אשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֥וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזָּקָ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֽוּא׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-31",
+      "title": "2:31",
+      "titleEn": "2:31",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְכִֽי־יִרְאֶ֨ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֜ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־נֶ֣גַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנֶּ֗תֶק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִנֵּ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵין־מַרְאֵ֙הוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָמֹ֣ק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הָע֔וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשֵׂעָ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁחֹ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֣ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בּ֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִסְגִּ֧יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֛ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־נֶ֥גַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנֶּ֖תֶק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁבְעַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָמִֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-32",
+      "title": "2:32",
+      "titleEn": "2:32",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְרָאָ֨ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַנֶּ֘גַע֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּיּ֣וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשְּׁבִיעִי֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִנֵּה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹא־פָשָׂ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנֶּ֔תֶק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹא־הָ֥יָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ב֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֵׂעָ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צָהֹ֑ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמַרְאֵ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנֶּ֔תֶק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֥ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָמֹ֖ק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הָעֽוֹר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-33",
+      "title": "2:33",
+      "titleEn": "2:33",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהִ֨תְגַּלָּ֔ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־הַנֶּ֖תֶק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְגַלֵּ֑חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִסְגִּ֨יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֧ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַנֶּ֛תֶק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁבְעַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָמִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֵׁנִֽית׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-34",
+      "title": "2:34",
+      "titleEn": "2:34",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְרָאָה֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֨ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַנֶּ֜תֶק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּיּ֣וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשְּׁבִיעִ֗י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְ֠הִנֵּ֠ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹא־פָשָׂ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנֶּ֙תֶק֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּע֔וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמַרְאֵ֕הוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵינֶ֥נּוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָמֹ֖ק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הָע֑וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְטִהַ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכִבֶּ֥ס",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּגָדָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְטָהֵֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-35",
+      "title": "2:35",
+      "titleEn": "2:35",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם־פָּשֹׂ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִפְשֶׂ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנֶּ֖תֶק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּע֑וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַחֲרֵ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טׇהֳרָתֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-36",
+      "title": "2:36",
+      "titleEn": "2:36",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְרָאָ֙הוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִנֵּ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פָּשָׂ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנֶּ֖תֶק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּע֑וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹֽא־יְבַקֵּ֧ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֛ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַשֵּׂעָ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַצָּהֹ֖ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טָמֵ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֽוּא׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-37",
+      "title": "2:37",
+      "titleEn": "2:37",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם־בְּעֵינָיו֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָמַ֨ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנֶּ֜תֶק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשֵׂעָ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁחֹ֧ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צָֽמַח־בּ֛וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נִרְפָּ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנֶּ֖תֶק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טָה֣וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ה֑וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְטִהֲר֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵֽן׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-38",
+      "title": "2:38",
+      "titleEn": "2:38",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִישׁ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֽוֹ־אִשָּׁ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־יִהְיֶ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְעוֹר־בְּשָׂרָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּהָרֹ֑ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּהָרֹ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְבָנֹֽת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-39",
+      "title": "2:39",
+      "titleEn": "2:39",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְרָאָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֗ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִנֵּ֧ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְעוֹר־בְּשָׂרָ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּהָרֹ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֵּה֣וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְבָנֹ֑ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֹּ֥הַק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ה֛וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פָּרַ֥ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּע֖וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טָה֥וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֽוּא׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-40",
+      "title": "2:40",
+      "titleEn": "2:40",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִ֕ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִמָּרֵ֖ט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֹאשׁ֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קֵרֵ֥חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ה֖וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טָה֥וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֽוּא׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-41",
+      "title": "2:41",
+      "titleEn": "2:41",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִפְּאַ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פָּנָ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִמָּרֵ֖ט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֹאשׁ֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גִּבֵּ֥חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ה֖וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טָה֥וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֽוּא׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-42",
+      "title": "2:42",
+      "titleEn": "2:42",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְכִֽי־יִהְיֶ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַקָּרַ֙חַת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַגַּבַּ֔חַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֶ֖גַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָבָ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲדַמְדָּ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צָרַ֤עַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פֹּרַ֙חַת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִ֔וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּקָרַחְתּ֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֥וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְגַבַּחְתּֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-43",
+      "title": "2:43",
+      "titleEn": "2:43",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְרָאָ֨ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֜וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֗ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִנֵּ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׂאֵת־הַנֶּ֙גַע֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְבָנָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲדַמְדֶּ֔מֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּקָרַחְתּ֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְגַבַּחְתּ֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּמַרְאֵ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צָרַ֖עַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ע֥וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּשָֽׂר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-44",
+      "title": "2:44",
+      "titleEn": "2:44",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אִישׁ־צָר֥וּעַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ה֖וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טָמֵ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ה֑וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טַמֵּ֧א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְטַמְּאֶ֛נּוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּרֹאשׁ֥וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נִגְעֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-45",
+      "title": "2:45",
+      "titleEn": "2:45",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהַצָּר֜וּעַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־בּ֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנֶּ֗גַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּגָדָ֞יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְי֤וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פְרֻמִים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְרֹאשׁוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְיֶ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פָר֔וּעַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעַל־שָׂפָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַעְטֶ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְטָמֵ֥א&;׀&;טָמֵ֖א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִקְרָֽא׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-46",
+      "title": "2:46",
+      "titleEn": "2:46",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כׇּל־יְמֵ֞י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנֶּ֥גַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בּ֛וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִטְמָ֖א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טָמֵ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ה֑וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּדָ֣ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֵשֵׁ֔ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִח֥וּץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽמַּחֲנֶ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹשָׁבֽוֹ׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-47",
+      "title": "2:47",
+      "titleEn": "2:47",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהַבֶּ֕גֶד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־יִהְיֶ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ב֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֶ֣גַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צָרָ֑עַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּבֶ֣גֶד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צֶ֔מֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּבֶ֥גֶד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פִּשְׁתִּֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-48",
+      "title": "2:48",
+      "titleEn": "2:48",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "א֤וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִֽשְׁתִי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְעֵ֔רֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַפִּשְׁתִּ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלַצָּ֑מֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְע֔וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּכׇל־מְלֶ֥אכֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֽוֹר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-49",
+      "title": "2:49",
+      "titleEn": "2:49",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהָיָ֨ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנֶּ֜גַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְרַקְרַ֣ק&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲדַמְדָּ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּבֶּ֩גֶד֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֨וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָע֜וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֽוֹ־בַשְּׁתִ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אוֹ־בָעֵ֙רֶב֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְכׇל־כְּלִי־ע֔וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֶ֥גַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צָרַ֖עַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ה֑וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהׇרְאָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַכֹּהֵֽן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-50",
+      "title": "2:50",
+      "titleEn": "2:50",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְרָאָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַנָּ֑גַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִסְגִּ֥יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַנֶּ֖גַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁבְעַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָמִֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-51",
+      "title": "2:51",
+      "titleEn": "2:51",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְרָאָ֨ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַנֶּ֜גַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּיּ֣וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשְּׁבִיעִ֗י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־פָשָׂ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנֶּ֙גַע֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּ֠בֶּ֠גֶד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֽוֹ־בַשְּׁתִ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֽוֹ־בָעֵ֙רֶב֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָע֔וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְכֹ֛ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־יֵעָשֶׂ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָע֖וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִמְלָאכָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צָרַ֧עַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַמְאֶ֛רֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנֶּ֖גַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טָמֵ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֽוּא׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-52",
+      "title": "2:52",
+      "titleEn": "2:52",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְשָׂרַ֨ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַבֶּ֜גֶד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֥וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶֽת־הַשְּׁתִ֣י&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָעֵ֗רֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּצֶּ֙מֶר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַפִּשְׁתִּ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֚וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־כׇּל־כְּלִ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָע֔וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־יִהְיֶ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ב֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנָּ֑גַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־צָרַ֤עַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַמְאֶ֙רֶת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִ֔וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּאֵ֖שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּשָּׂרֵֽף׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-53",
+      "title": "2:53",
+      "titleEn": "2:53",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִרְאֶ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵן֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִנֵּה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹא־פָשָׂ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנֶּ֔גַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּבֶּ֕גֶד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֥וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַשְּׁתִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָעֵ֑רֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּכׇל־כְּלִי־עֽוֹר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-54",
+      "title": "2:54",
+      "titleEn": "2:54",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְצִוָּה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכִ֨בְּס֔וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־בּ֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנָּ֑גַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִסְגִּיר֥וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁבְעַת־יָמִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֵׁנִֽית׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-55",
+      "title": "2:55",
+      "titleEn": "2:55",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְרָאָ֨ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֜ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַחֲרֵ֣י&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֻכַּבֵּ֣ס",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַנֶּ֗גַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְ֠הִנֵּ֠ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹֽא־הָפַ֨ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנֶּ֤גַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־עֵינוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהַנֶּ֣גַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹֽא־פָשָׂ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טָמֵ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ה֔וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּאֵ֖שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּשְׂרְפֶ֑נּוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פְּחֶ֣תֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִ֔וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּקָרַחְתּ֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֥וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְגַבַּחְתּֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-56",
+      "title": "2:56",
+      "titleEn": "2:56",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רָאָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵן֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִנֵּה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֵּהָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנֶּ֔גַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַחֲרֵ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֻכַּבֵּ֣ס",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְקָרַ֣ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֗וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הַבֶּ֙גֶד֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הָע֔וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֥וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הַשְּׁתִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֥וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הָעֵֽרֶב׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-57",
+      "title": "2:57",
+      "titleEn": "2:57",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם־תֵּרָאֶ֨ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ע֜וֹד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּ֠בֶּ֠גֶד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֽוֹ־בַשְּׁתִ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֽוֹ־בָעֵ֙רֶב֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְכׇל־כְּלִי־ע֔וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פֹּרַ֖חַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִ֑וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּאֵ֣שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּשְׂרְפֶ֔נּוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־בּ֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנָּֽגַע׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-58",
+      "title": "2:58",
+      "titleEn": "2:58",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהַבֶּ֡גֶד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֽוֹ־הַשְּׁתִ֨י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אוֹ־הָעֵ֜רֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֽוֹ־כׇל־כְּלִ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעוֹר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּכַבֵּ֔ס",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְסָ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנָּ֑גַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכֻבַּ֥ס",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֵׁנִ֖ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְטָהֵֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Tazria-2-59",
+      "title": "2:59",
+      "titleEn": "2:59",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "זֹ֠את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תּוֹרַ֨ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֶֽגַע־צָרַ֜עַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּ֥גֶד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַצֶּ֣מֶר&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַפִּשְׁתִּ֗ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֤וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשְּׁתִי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעֵ֔רֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־כְּלִי־ע֑וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְטַהֲר֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֥וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְטַמְּאֽוֹ׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    }
+  ]
+}

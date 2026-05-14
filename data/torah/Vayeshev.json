@@ -1,0 +1,8193 @@
+{
+  "id": "Vayeshev",
+  "slug": "vayeshev",
+  "nameHeb": "בראשית",
+  "nameEn": "Vayeshev",
+  "nusach": "torah",
+  "timeOfDay": "any",
+  "totalDuration": 0,
+  "audioUrl": "",
+  "sections": [
+    {
+      "id": "Vayeshev-1-1",
+      "title": "1:1",
+      "titleEn": "1:1",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֵּ֣שֶׁב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַעֲקֹ֔ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאֶ֖רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְגוּרֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָבִ֑יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאֶ֖רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּנָֽעַן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-1-2",
+      "title": "1:2",
+      "titleEn": "1:2",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֵ֣לֶּה&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֹּלְד֣וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַעֲקֹ֗ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוֹסֵ֞ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־שְׁבַֽע־עֶשְׂרֵ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁנָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָיָ֨ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֹעֶ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־אֶחָיו֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּצֹּ֔אן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְה֣וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נַ֗עַר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בְּנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִלְהָ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־בְּנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זִלְפָּ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נְשֵׁ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָבִ֑יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיָּבֵ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוֹסֵ֛ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־דִּבָּתָ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רָעָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־אֲבִיהֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-1-3",
+      "title": "1:3",
+      "titleEn": "1:3",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְיִשְׂרָאֵ֗ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָהַ֤ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־יוֹסֵף֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִכׇּל־בָּנָ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־בֶן־זְקֻנִ֥ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ה֖וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ל֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעָ֥שָׂה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ל֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּתֹ֥נֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פַּסִּֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-1-4",
+      "title": "1:4",
+      "titleEn": "1:4",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּרְא֣וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶחָ֗יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־אֹת֞וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָהַ֤ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲבִיהֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִכׇּל־אֶחָ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיִּשְׂנְא֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָכְל֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דַּבְּר֥וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְשָׁלֹֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-1-5",
+      "title": "1:5",
+      "titleEn": "1:5",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיַּחֲלֹ֤ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוֹסֵף֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲל֔וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיַּגֵּ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְאֶחָ֑יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיּוֹסִ֥פוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ע֖וֹד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׂנֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-1-6",
+      "title": "1:6",
+      "titleEn": "1:6",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֹּ֖אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲלֵיהֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁמְעוּ־נָ֕א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַחֲל֥וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזֶּ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חָלָֽמְתִּי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-1-7",
+      "title": "1:7",
+      "titleEn": "1:7",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְ֠הִנֵּ֠ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנַ֜חְנוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְאַלְּמִ֤ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲלֻמִּים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּת֣וֹךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשָּׂדֶ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִנֵּ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קָ֥מָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲלֻמָּתִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְגַם־נִצָּ֑בָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִנֵּ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְסֻבֶּ֙ינָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲלֻמֹּ֣תֵיכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַתִּֽשְׁתַּחֲוֶ֖יןָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַאֲלֻמָּתִֽי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-1-8",
+      "title": "1:8",
+      "titleEn": "1:8",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֹּ֤אמְרוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶחָ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֲמָלֹ֤ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּמְלֹךְ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלֵ֔ינוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִם־מָשׁ֥וֹל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּמְשֹׁ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּ֑נוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיּוֹסִ֤פוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עוֹד֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׂנֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־חֲלֹמֹתָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעַל־דְּבָרָֽיו׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-1-9",
+      "title": "1:9",
+      "titleEn": "1:9",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיַּחֲלֹ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עוֹד֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲל֣וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַחֵ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיְסַפֵּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְאֶחָ֑יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיֹּ֗אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִנֵּ֨ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חָלַ֤מְתִּֽי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲלוֹם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ע֔וֹד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִנֵּ֧ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשֶּׁ֣מֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהַיָּרֵ֗חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַחַ֤ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָשָׂר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כּֽוֹכָבִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִֽשְׁתַּחֲוִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִֽי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-1-10",
+      "title": "1:10",
+      "titleEn": "1:10",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְסַפֵּ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־אָבִיו֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶל־אֶחָיו֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּגְעַר־בּ֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָבִ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיֹּ֣אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ל֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מָ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַחֲל֥וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזֶּ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חָלָ֑מְתָּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֲב֣וֹא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נָב֗וֹא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאִמְּךָ֣",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַחֶ֔יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְהִשְׁתַּחֲוֺ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְךָ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָֽרְצָה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-1-11",
+      "title": "1:11",
+      "titleEn": "1:11",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְקַנְאוּ־ב֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶחָ֑יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאָבִ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁמַ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַדָּבָֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-1-12",
+      "title": "1:12",
+      "titleEn": "1:12",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֵּלְכ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶחָ֑יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִרְע֛וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶׄתׄ־צֹ֥אן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲבִיהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּשְׁכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-1-13",
+      "title": "1:13",
+      "titleEn": "1:13",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֹּ֨אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֜ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־יוֹסֵ֗ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֲל֤וֹא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַחֶ֙יךָ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֹעִ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּשְׁכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְכָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶשְׁלָחֲךָ֣",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲלֵיהֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיֹּ֥אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ל֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִנֵּֽנִי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-1-14",
+      "title": "1:14",
+      "titleEn": "1:14",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֹּ֣אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ל֗וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֶךְ־נָ֨א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רְאֵ֜ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־שְׁל֤וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַחֶ֙יךָ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־שְׁל֣וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַצֹּ֔אן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַהֲשִׁבֵ֖נִי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דָּבָ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּשְׁלָחֵ֙הוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵעֵ֣מֶק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֶבְר֔וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיָּבֹ֖א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁכֶֽמָה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-1-15",
+      "title": "1:15",
+      "titleEn": "1:15",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּמְצָאֵ֣הוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֔ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִנֵּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֹעֶ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּשָּׂדֶ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּשְׁאָלֵ֧הוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאִ֛ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאמֹ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַה־תְּבַקֵּֽשׁ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-1-16",
+      "title": "1:16",
+      "titleEn": "1:16",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֹּ֕אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־אַחַ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָנֹכִ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְבַקֵּ֑שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַגִּֽידָה־נָּ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵיפֹ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֵ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֹעִֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-1-17",
+      "title": "1:17",
+      "titleEn": "1:17",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֹּ֤אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאִישׁ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נָסְע֣וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִזֶּ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁמַ֙עְתִּי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹֽמְרִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֵלְכָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דֹּתָ֑יְנָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיֵּ֤לֶךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוֹסֵף֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַחַ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶחָ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּמְצָאֵ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּדֹתָֽן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-1-18",
+      "title": "1:18",
+      "titleEn": "1:18",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּרְא֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵרָחֹ֑ק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבְטֶ֙רֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִקְרַ֣ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲלֵיהֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּֽתְנַכְּל֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַהֲמִיתֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-1-19",
+      "title": "1:19",
+      "titleEn": "1:19",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֹּאמְר֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֣ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־אָחִ֑יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִנֵּ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּ֛עַל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַחֲלֹמ֥וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַלָּזֶ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּֽא׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-1-20",
+      "title": "1:20",
+      "titleEn": "1:20",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְעַתָּ֣ה&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְכ֣וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנַֽהַרְגֵ֗הוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנַשְׁלִכֵ֙הוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאַחַ֣ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַבֹּר֔וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאָמַ֕רְנוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חַיָּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רָעָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲכָלָ֑תְהוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנִרְאֶ֕ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַה־יִּהְי֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲלֹמֹתָֽיו׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-1-21",
+      "title": "1:21",
+      "titleEn": "1:21",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּשְׁמַ֣ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רְאוּבֵ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיַּצִּלֵ֖הוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִיָּדָ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיֹּ֕אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נַכֶּ֖נּוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נָֽפֶשׁ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-1-22",
+      "title": "1:22",
+      "titleEn": "1:22",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֹּ֨אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲלֵהֶ֣ם&;׀&;רְאוּבֵן֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַל־תִּשְׁפְּכוּ־דָם֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשְׁלִ֣יכוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֗וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הַבּ֤וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזֶּה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּמִּדְבָּ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיָ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַל־תִּשְׁלְחוּ־ב֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְמַ֗עַן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַצִּ֤יל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִיָּדָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַהֲשִׁיב֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־אָבִֽיו׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-1-23",
+      "title": "1:23",
+      "titleEn": "1:23",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְהִ֕י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּֽאֲשֶׁר־בָּ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוֹסֵ֖ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־אֶחָ֑יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיַּפְשִׁ֤יטוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־יוֹסֵף֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־כֻּתׇּנְתּ֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־כְּתֹ֥נֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַפַּסִּ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלָֽיו׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-1-24",
+      "title": "1:24",
+      "titleEn": "1:24",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּ֨קָּחֻ֔הוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיַּשְׁלִ֥כוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַבֹּ֑רָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהַבּ֣וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֵ֔ק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֥ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בּ֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מָֽיִם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-1-25",
+      "title": "1:25",
+      "titleEn": "1:25",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֵּשְׁבוּ֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֶֽאֱכׇל־לֶ֒חֶם֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּשְׂא֤וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֵֽינֵיהֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּרְא֔וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִנֵּה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹרְחַ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׁמְעֵאלִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּאָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִגִּלְעָ֑ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּגְמַלֵּיהֶ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֹֽשְׂאִ֗ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נְכֹאת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּצְרִ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָלֹ֔ט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הוֹלְכִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְהוֹרִ֥יד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִצְרָֽיְמָה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-1-26",
+      "title": "1:26",
+      "titleEn": "1:26",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֹּ֥אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהוּדָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־אֶחָ֑יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַה־בֶּ֗צַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נַהֲרֹג֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־אָחִ֔ינוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכִסִּ֖ינוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־דָּמֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-1-27",
+      "title": "1:27",
+      "titleEn": "1:27",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לְכ֞וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנִמְכְּרֶ֣נּוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיִּשְׁמְעֵאלִ֗ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיָדֵ֙נוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַל־תְּהִי־ב֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־אָחִ֥ינוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְשָׂרֵ֖נוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ה֑וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיִּשְׁמְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶחָֽיו׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-1-28",
+      "title": "1:28",
+      "titleEn": "1:28",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיַּֽעַבְרוּ֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנָשִׁ֨ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִדְיָנִ֜ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סֹֽחֲרִ֗ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיִּמְשְׁכוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיַּֽעֲל֤וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־יוֹסֵף֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הַבּ֔וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּמְכְּר֧וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־יוֹסֵ֛ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיִּשְׁמְעֵאלִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּעֶשְׂרִ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כָּ֑סֶף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיָּבִ֥יאוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־יוֹסֵ֖ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִצְרָֽיְמָה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-1-29",
+      "title": "1:29",
+      "titleEn": "1:29",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיָּ֤שׇׁב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רְאוּבֵן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הַבּ֔וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִנֵּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵין־יוֹסֵ֖ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּבּ֑וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּקְרַ֖ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בְּגָדָֽיו׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-1-30",
+      "title": "1:30",
+      "titleEn": "1:30",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיָּ֥שׇׁב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־אֶחָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיֹּאמַ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיֶּ֣לֶד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵינֶ֔נּוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַאֲנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָ֥נָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִי־בָֽא׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-1-31",
+      "title": "1:31",
+      "titleEn": "1:31",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּקְח֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־כְּתֹ֣נֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוֹסֵ֑ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיִּשְׁחֲטוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׂעִ֣יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִזִּ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּטְבְּל֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַכֻּתֹּ֖נֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּדָּֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-1-32",
+      "title": "1:32",
+      "titleEn": "1:32",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַֽיְשַׁלְּח֞וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־כְּתֹ֣נֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַפַּסִּ֗ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיָּבִ֙יאוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־אֲבִיהֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיֹּאמְר֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זֹ֣את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מָצָ֑אנוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֶּר־נָ֗א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכְּתֹ֧נֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּנְךָ֛",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִ֖וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִם־לֹֽא׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-1-33",
+      "title": "1:33",
+      "titleEn": "1:33",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיַּכִּירָ֤הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיֹּ֙אמֶר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּתֹ֣נֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנִ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חַיָּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רָעָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲכָלָ֑תְהוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טָרֹ֥ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טֹרַ֖ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוֹסֵֽף׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-1-34",
+      "title": "1:34",
+      "titleEn": "1:34",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּקְרַ֤ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַעֲקֹב֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׂמְלֹתָ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיָּ֥שֶׂם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שַׂ֖ק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּמׇתְנָ֑יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּתְאַבֵּ֥ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־בְּנ֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָמִ֥ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רַבִּֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-1-35",
+      "title": "1:35",
+      "titleEn": "1:35",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיָּקֻ֩מוּ֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇל־בָּנָ֨יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכׇל־בְּנֹתָ֜יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְנַחֲמ֗וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיְמָאֵן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְהִתְנַחֵ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיֹּ֕אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־אֵרֵ֧ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־בְּנִ֛י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָבֵ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁאֹ֑לָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיֵּ֥בְךְּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָבִֽיו׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-1-36",
+      "title": "1:36",
+      "titleEn": "1:36",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהַ֨מְּדָנִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מָכְר֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מִצְרָ֑יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְפֽוֹטִיפַר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סְרִ֣יס",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פַּרְעֹ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שַׂ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַטַּבָּחִֽים׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-2-1",
+      "title": "2:1",
+      "titleEn": "2:1",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַֽיְהִי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּעֵ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַהִ֔וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיֵּ֥רֶד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהוּדָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאֵ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶחָ֑יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיֵּ֛ט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַד־אִ֥ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲדֻלָּמִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּשְׁמ֥וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חִירָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-2-2",
+      "title": "2:2",
+      "titleEn": "2:2",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיַּרְא־שָׁ֧ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהוּדָ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּת־אִ֥ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּנַעֲנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּשְׁמ֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שׁ֑וּעַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּקָּחֶ֖הָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיָּבֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵלֶֽיהָ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-2-3",
+      "title": "2:3",
+      "titleEn": "2:3",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַתַּ֖הַר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַתֵּ֣לֶד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֵּ֑ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּקְרָ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־שְׁמ֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֵֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-2-4",
+      "title": "2:4",
+      "titleEn": "2:4",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַתַּ֥הַר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ע֖וֹד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַתֵּ֣לֶד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֵּ֑ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַתִּקְרָ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־שְׁמ֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אוֹנָֽן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-2-5",
+      "title": "2:5",
+      "titleEn": "2:5",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַתֹּ֤סֶף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עוֹד֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַתֵּ֣לֶד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֵּ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַתִּקְרָ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־שְׁמ֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֵׁלָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָיָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִכְזִ֖יב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּלִדְתָּ֥הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-2-6",
+      "title": "2:6",
+      "titleEn": "2:6",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּקַּ֧ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהוּדָ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִשָּׁ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְעֵ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּכוֹר֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּשְׁמָ֖הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תָּמָֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-2-7",
+      "title": "2:7",
+      "titleEn": "2:7",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְהִ֗י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֵ֚ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּכ֣וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהוּדָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רַ֖ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּעֵינֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיְמִתֵ֖הוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-2-8",
+      "title": "2:8",
+      "titleEn": "2:8",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֹּ֤אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהוּדָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְאוֹנָ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֹּ֛א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־אֵ֥שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָחִ֖יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיַבֵּ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֑הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָקֵ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זֶ֖רַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְאָחִֽיךָ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-2-9",
+      "title": "2:9",
+      "titleEn": "2:9",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֵּ֣דַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אוֹנָ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֛י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ל��ֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ל֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְיֶ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזָּ֑רַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָיָ֞ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִם־בָּ֨א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־אֵ֤שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָחִיו֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשִׁחֵ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַ֔רְצָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְבִלְתִּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נְתׇן־זֶ֖רַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְאָחִֽיו׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-2-10",
+      "title": "2:10",
+      "titleEn": "2:10",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֵּ֛רַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּעֵינֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָשָׂ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיָּ֖מֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גַּם־אֹתֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-2-11",
+      "title": "2:11",
+      "titleEn": "2:11",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֹּ֣אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהוּדָה֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְתָמָ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּלָּת֜וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁבִ֧י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַלְמָנָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֵית־אָבִ֗יךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַד־יִגְדַּל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֵׁלָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְנִ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָמַ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פֶּן־יָמ֥וּת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גַּם־ה֖וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּאֶחָ֑יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַתֵּ֣לֶךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תָּמָ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַתֵּ֖שֶׁב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֵּ֥ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָבִֽיהָ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-2-12",
+      "title": "2:12",
+      "titleEn": "2:12",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּרְבּוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיָּמִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַתָּ֖מׇת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּת־שׁ֣וּעַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵֽשֶׁת־יְהוּדָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּנָּ֣חֶם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהוּדָ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיַּ֜עַל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־גֹּֽזְזֵ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צֹאנוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ה֗וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְחִירָ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֵעֵ֥הוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעֲדֻלָּמִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּמְנָֽתָה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-2-13",
+      "title": "2:13",
+      "titleEn": "2:13",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֻּגַּ֥ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְתָמָ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאמֹ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִנֵּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חָמִ֛יךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֹלֶ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִמְנָ֖תָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָגֹ֥ז",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צֹאנֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-2-14",
+      "title": "2:14",
+      "titleEn": "2:14",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַתָּ֩סַר֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּגְדֵ֨י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַלְמְנוּתָ֜הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵֽעָלֶ֗יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַתְּכַ֤ס",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּצָּעִיף֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַתִּתְעַלָּ֔ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַתֵּ֙שֶׁב֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּפֶ֣תַח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֵינַ֔יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־דֶּ֣רֶךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּמְנָ֑תָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רָאֲתָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־גָדַ֣ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֵׁלָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִ֕וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹֽא־נִתְּנָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ל֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְאִשָּֽׁה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-2-15",
+      "title": "2:15",
+      "titleEn": "2:15",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּרְאֶ֣הָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהוּדָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיַּחְשְׁבֶ֖הָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְזוֹנָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִסְּתָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פָּנֶֽיהָ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-2-16",
+      "title": "2:16",
+      "titleEn": "2:16",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֵּ֨ט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵלֶ֜יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הַדֶּ֗רֶךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיֹּ֙אמֶר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָֽבָה־נָּא֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָב֣וֹא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵלַ֔יִךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֚י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָדַ֔ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַלָּת֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִ֑וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַתֹּ֙אמֶר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַה־תִּתֶּן־לִ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תָב֖וֹא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵלָֽי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-2-17",
+      "title": "2:17",
+      "titleEn": "2:17",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֹּ֕אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָנֹכִ֛י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשַׁלַּ֥ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גְּדִֽי־עִזִּ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הַצֹּ֑אן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַתֹּ֕אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִם־תִּתֵּ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֵרָב֖וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֥ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שׇׁלְחֶֽךָ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-2-18",
+      "title": "2:18",
+      "titleEn": "2:18",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֹּ֗אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעֵֽרָבוֹן֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתֶּן־לָךְ֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַתֹּ֗אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֹתָֽמְךָ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּפְתִילֶ֔ךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמַטְּךָ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּיָדֶ֑ךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּתֶּן־לָ֛הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיָּבֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵלֶ֖יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַתַּ֥הַר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-2-19",
+      "title": "2:19",
+      "titleEn": "2:19",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַתָּ֣קׇם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַתֵּ֔לֶךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַתָּ֥סַר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צְעִיפָ֖הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵעָלֶ֑יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַתִּלְבַּ֖שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּגְדֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַלְמְנוּתָֽהּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-2-20",
+      "title": "2:20",
+      "titleEn": "2:20",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּשְׁלַ֨ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהוּדָ֜ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־גְּדִ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָֽעִזִּ֗ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּיַד֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֵעֵ֣הוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָֽעֲדֻלָּמִ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָקַ֥חַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעֵרָב֖וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִיַּ֣ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאִשָּׁ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹ֖א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְצָאָֽהּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-2-21",
+      "title": "2:21",
+      "titleEn": "2:21",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּשְׁאַ֞ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־אַנְשֵׁ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְקֹמָהּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאמֹ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַיֵּ֧ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַקְּדֵשָׁ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִ֥וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָעֵינַ֖יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־הַדָּ֑רֶךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיֹּ֣אמְר֔וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹא־הָיְתָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָזֶ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קְדֵשָֽׁה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-2-22",
+      "title": "2:22",
+      "titleEn": "2:22",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיָּ֙שׇׁב֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־יְהוּדָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיֹּ֖אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְצָאתִ֑יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְגַ֨ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַנְשֵׁ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמָּקוֹם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָֽמְר֔וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹא־הָיְתָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָזֶ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קְדֵשָֽׁה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-2-23",
+      "title": "2:23",
+      "titleEn": "2:23",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֹּ֤אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהוּדָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּֽקַּֽח־לָ֔הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פֶּ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נִהְיֶ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָב֑וּז",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִנֵּ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁלַ֙חְתִּי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַגְּדִ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזֶּ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַתָּ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְצָאתָֽהּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-2-24",
+      "title": "2:24",
+      "titleEn": "2:24",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְהִ֣י&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּמִשְׁלֹ֣שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֳדָשִׁ֗ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיֻּגַּ֨ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִֽיהוּדָ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאמֹר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָֽנְתָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תָּמָ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּלָּתֶ֔ךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְגַ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִנֵּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָרָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִזְנוּנִ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיֹּ֣אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהוּדָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הוֹצִיא֖וּהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְתִשָּׂרֵֽף׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-2-25",
+      "title": "2:25",
+      "titleEn": "2:25",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "הִ֣וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוּצֵ֗את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִ֨יא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁלְחָ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־חָמִ֙יהָ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאמֹ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְאִישׁ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־אֵ֣לֶּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לּ֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָנֹכִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָרָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַתֹּ֙אמֶר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֶּר־נָ֔א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְמִ֞י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַחֹתֶ֧מֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהַפְּתִילִ֛ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהַמַּטֶּ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֵֽלֶּה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-2-26",
+      "title": "2:26",
+      "titleEn": "2:26",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיַּכֵּ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהוּדָ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיֹּ֙אמֶר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צָֽדְקָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמֶּ֔נִּי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־עַל־כֵּ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹא־נְתַתִּ֖יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְשֵׁלָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְנִ֑י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹֽא־יָסַ֥ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ע֖וֹד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְדַעְתָּֽהּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-2-27",
+      "title": "2:27",
+      "titleEn": "2:27",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְהִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּעֵ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִדְתָּ֑הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִנֵּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְאוֹמִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּבִטְנָֽהּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-2-28",
+      "title": "2:28",
+      "titleEn": "2:28",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְהִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְלִדְתָּ֖הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּתֶּן־יָ֑ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַתִּקַּ֣ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמְיַלֶּ֗דֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַתִּקְשֹׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־יָד֤וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁנִי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאמֹ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זֶ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָצָ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רִאשֹׁנָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-2-29",
+      "title": "2:29",
+      "titleEn": "2:29",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְהִ֣י&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּמֵשִׁ֣יב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָד֗וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִנֵּה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָצָ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָחִ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַתֹּ֕אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַה־פָּרַ֖צְתָּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלֶ֣יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פָּ֑רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּקְרָ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁמ֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פָּֽרֶץ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-2-30",
+      "title": "2:30",
+      "titleEn": "2:30",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאַחַר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָצָ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָחִ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־יָד֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשָּׁנִ֑י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּקְרָ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁמ֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זָֽרַח׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-3-1",
+      "title": "3:1",
+      "titleEn": "3:1",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְיוֹסֵ֖ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הוּרַ֣ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִצְרָ֑יְמָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּקְנֵ֡הוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פּוֹטִיפַר֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סְרִ֨יס",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פַּרְעֹ֜ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שַׂ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַטַּבָּחִים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֣ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִצְרִ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִיַּד֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיִּשְׁמְעֵאלִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הוֹרִדֻ֖הוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָֽׁמָּה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-3-2",
+      "title": "3:2",
+      "titleEn": "3:2",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְהִ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־יוֹסֵ֔ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיְהִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֣ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַצְלִ֑יחַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיְהִ֕י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּבֵ֖ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲדֹנָ֥יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּצְרִֽי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-3-3",
+      "title": "3:3",
+      "titleEn": "3:3",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיַּ֣רְא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲדֹנָ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִתּ֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכֹל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־ה֣וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֹשֶׂ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַצְלִ֥יחַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּיָדֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-3-4",
+      "title": "3:4",
+      "titleEn": "3:4",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּמְצָ֨א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוֹסֵ֥ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֵ֛ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּעֵינָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיְשָׁ֣רֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיַּפְקִדֵ֙הוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־בֵּית֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכׇל־יֶשׁ־ל֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נָתַ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּיָדֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-3-5",
+      "title": "3:5",
+      "titleEn": "3:5",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְהִ֡י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאָז֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִפְקִ֨יד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֜וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּבֵית֗וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעַל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֶשׁ־ל֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיְבָ֧רֶךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בֵּ֥ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּצְרִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּגְלַ֣ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוֹסֵ֑ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיְהִ֞י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּרְכַּ֤ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּכׇל־אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֶשׁ־ל֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּבַּ֖יִת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבַשָּׂדֶֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-3-6",
+      "title": "3:6",
+      "titleEn": "3:6",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיַּעֲזֹ֣ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־אֲשֶׁר־לוֹ֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּיַד־יוֹסֵף֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹא־יָדַ֤ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִתּוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְא֔וּמָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִם־הַלֶּ֖חֶם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־ה֣וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אוֹכֵ֑ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיְהִ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוֹסֵ֔ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְפֵה־תֹ֖אַר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וִיפֵ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַרְאֶֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-3-7",
+      "title": "3:7",
+      "titleEn": "3:7",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְהִ֗י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַחַר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַדְּבָרִ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֵ֔לֶּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַתִּשָּׂ֧א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵֽשֶׁת־אֲדֹנָ֛יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־עֵינֶ֖יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־יוֹסֵ֑ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַתֹּ֖אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁכְבָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִמִּֽי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-3-8",
+      "title": "3:8",
+      "titleEn": "3:8",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְמָאֵ֓ן&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיֹּ֙אמֶר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־אֵ֣שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲדֹנָ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֵ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲדֹנִ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹא־יָדַ֥ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִתִּ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַה־בַּבָּ֑יִת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכֹ֥ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־יֶשׁ־ל֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נָתַ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּיָדִֽי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-3-9",
+      "title": "3:9",
+      "titleEn": "3:9",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֵינֶ֨נּוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גָד֜וֹל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּבַּ֣יִת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזֶּה֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמֶּ֒נִּי֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹֽא־חָשַׂ֤ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמֶּ֙נִּי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְא֔וּמָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִם־אוֹתָ֖ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּאֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַתְּ־אִשְׁתּ֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵ֨יךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶֽעֱשֶׂ֜ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָרָעָ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַגְּדֹלָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזֹּ֔את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְחָטָ֖אתִי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵֽאלֹהִֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-3-10",
+      "title": "3:10",
+      "titleEn": "3:10",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְהִ֕י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּדַבְּרָ֥הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־יוֹסֵ֖ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "י֣וֹם&;׀&;י֑וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹא־שָׁמַ֥ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵלֶ֛יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִשְׁכַּ֥ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶצְלָ֖הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִהְי֥וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִמָּֽהּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-3-11",
+      "title": "3:11",
+      "titleEn": "3:11",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַֽיְהִי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּהַיּ֣וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזֶּ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיָּבֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַבַּ֖יְתָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַעֲשׂ֣וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְלַאכְתּ֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵ֨ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֜ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאַנְשֵׁ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַבַּ֛יִת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּבָּֽיִת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-3-12",
+      "title": "3:12",
+      "titleEn": "3:12",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַתִּתְפְּשֵׂ֧הוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּבִגְד֛וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאמֹ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁכְבָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִמִּ֑י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיַּעֲזֹ֤ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּגְדוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּיָדָ֔הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיָּ֖נׇס",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיֵּצֵ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַחֽוּצָה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-3-13",
+      "title": "3:13",
+      "titleEn": "3:13",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַֽיְהִי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּרְאוֹתָ֔הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־עָזַ֥ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּגְד֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּיָדָ֑הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיָּ֖נׇס",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַחֽוּצָה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-3-14",
+      "title": "3:14",
+      "titleEn": "3:14",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַתִּקְרָ֞א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְאַנְשֵׁ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֵיתָ֗הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַתֹּ֤אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָהֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאמֹ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רְא֗וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֵ֥בִיא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָ֛נוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֥ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִבְרִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְצַ֣חֶק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּ֑נוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּ֤א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵלַי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִשְׁכַּ֣ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִמִּ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָאֶקְרָ֖א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּק֥וֹל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גָּדֽוֹל׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-3-15",
+      "title": "3:15",
+      "titleEn": "3:15",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְהִ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְשׇׁמְע֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־הֲרִימֹ֥תִי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קוֹלִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָאֶקְרָ֑א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיַּעֲזֹ֤ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּגְדוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶצְלִ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיָּ֖נׇס",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיֵּצֵ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַחֽוּצָה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-3-16",
+      "title": "3:16",
+      "titleEn": "3:16",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַתַּנַּ֥ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּגְד֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶצְלָ֑הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַד־בּ֥וֹא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲדֹנָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־בֵּיתֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-3-17",
+      "title": "3:17",
+      "titleEn": "3:17",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַתְּדַבֵּ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵלָ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּדְּבָרִ֥ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֵ֖לֶּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאמֹ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּֽא־אֵלַ֞י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעֶ֧בֶד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָֽעִבְרִ֛י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־הֵבֵ֥אתָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָּ֖נוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְצַ֥חֶק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּֽי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-3-18",
+      "title": "3:18",
+      "titleEn": "3:18",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְהִ֕י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּהֲרִימִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קוֹלִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָאֶקְרָ֑א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיַּעֲזֹ֥ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּגְד֛וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶצְלִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיָּ֥נׇס",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַחֽוּצָה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-3-19",
+      "title": "3:19",
+      "titleEn": "3:19",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְהִי֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִשְׁמֹ֨עַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲדֹנָ֜יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־דִּבְרֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִשְׁתּ֗וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דִּבְּרָ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵלָיו֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאמֹ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּדְּבָרִ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֵ֔לֶּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָ֥שָׂה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַבְדֶּ֑ךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּ֖חַר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַפּֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-3-20",
+      "title": "3:20",
+      "titleEn": "3:20",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּקַּח֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲדֹנֵ֨י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוֹסֵ֜ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֗וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיִּתְּנֵ֙הוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־בֵּ֣ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַסֹּ֔הַר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְק֕וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־[אֲסִירֵ֥י]",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "(אסורי)",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמֶּ֖לֶךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲסוּרִ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיְהִי־שָׁ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּבֵ֥ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַסֹּֽהַר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-3-21",
+      "title": "3:21",
+      "titleEn": "3:21",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְהִ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־יוֹסֵ֔ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיֵּ֥ט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵלָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חָ֑סֶד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּתֵּ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חִנּ֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּעֵינֵ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שַׂ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֵּית־הַסֹּֽהַר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-3-22",
+      "title": "3:22",
+      "titleEn": "3:22",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּתֵּ֞ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שַׂ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֵּית־הַסֹּ֙הַר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּיַד־יוֹסֵ֔ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֚ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־הָ֣אֲסִירִ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּבֵ֣ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַסֹּ֑הַר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵ֨ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־אֲשֶׁ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֹשִׂים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ה֖וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָיָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֹשֶֽׂה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-3-23",
+      "title": "3:23",
+      "titleEn": "3:23",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֵ֣ין&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שַׂ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֵּית־הַסֹּ֗הַר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֹאֶ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶֽת־כׇּל־מְא֙וּמָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּיָד֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּאֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִתּ֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽאֲשֶׁר־ה֥וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֹשֶׂ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַצְלִֽיחַ׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-4-1",
+      "title": "4:1",
+      "titleEn": "4:1",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְהִ֗י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַחַר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַדְּבָרִ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֵ֔לֶּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חָ֥טְא֛וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַשְׁקֵ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֶֽלֶךְ־מִצְרַ֖יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָאֹפֶ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַאֲדֹנֵיהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְמֶ֥לֶךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִצְרָֽיִם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-4-2",
+      "title": "4:2",
+      "titleEn": "4:2",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּקְצֹ֣ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פַּרְעֹ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סָרִיסָ֑יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֚ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שַׂ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמַּשְׁקִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעַ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שַׂ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאוֹפִֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-4-3",
+      "title": "4:3",
+      "titleEn": "4:3",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּתֵּ֨ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֜ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּמִשְׁמַ֗ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֵּ֛ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שַׂ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַטַּבָּחִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־בֵּ֣ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַסֹּ֑הַר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְק֕וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוֹסֵ֖ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָס֥וּר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָֽׁם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-4-4",
+      "title": "4:4",
+      "titleEn": "4:4",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַ֠יִּפְקֹ֠ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שַׂ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַטַּבָּחִ֧ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־יוֹסֵ֛ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִתָּ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיְשָׁ֣רֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּהְי֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָמִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּמִשְׁמָֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-4-5",
+      "title": "4:5",
+      "titleEn": "4:5",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיַּֽחַלְמוּ֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲל֨וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁנֵיהֶ֜ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֤ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲלֹמוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּלַ֣יְלָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶחָ֔ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֖ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּפִתְר֣וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲלֹמ֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמַּשְׁקֶ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָאֹפֶ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְמֶ֣לֶךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִצְרַ֔יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲסוּרִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּבֵ֥ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַסֹּֽהַר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-4-6",
+      "title": "4:6",
+      "titleEn": "4:6",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיָּבֹ֧א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲלֵיהֶ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוֹסֵ֖ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּבֹּ֑קֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיַּ֣רְא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִנָּ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זֹעֲפִֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-4-7",
+      "title": "4:7",
+      "titleEn": "4:7",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּשְׁאַ֞ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־סְרִיסֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פַרְעֹ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִתּ֧וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְמִשְׁמַ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֵּ֥ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲדֹנָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאמֹ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַדּ֛וּעַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פְּנֵיכֶ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רָעִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיּֽוֹם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-4-8",
+      "title": "4:8",
+      "titleEn": "4:8",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֹּאמְר֣וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵלָ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲל֣וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חָלַ֔מְנוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּפֹתֵ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֣ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיֹּ֨אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲלֵהֶ֜ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוֹסֵ֗ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֲל֤וֹא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵֽאלֹהִים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פִּתְרֹנִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סַפְּרוּ־נָ֖א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִֽי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-4-9",
+      "title": "4:9",
+      "titleEn": "4:9",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְסַפֵּ֧ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שַֽׂר־הַמַּשְׁקִ֛ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־חֲלֹמ֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְיוֹסֵ֑ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיֹּ֣אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ל֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּחֲלוֹמִ֕י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִנֵּה־גֶ֖פֶן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְפָנָֽי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-4-10",
+      "title": "4:10",
+      "titleEn": "4:10",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּבַגֶּ֖פֶן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁלֹשָׁ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׂרִיגִ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִ֤וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְפֹרַ֙חַת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלְתָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נִצָּ֔הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִבְשִׁ֥ילוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַשְׁכְּלֹתֶ֖יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲנָבִֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-4-11",
+      "title": "4:11",
+      "titleEn": "4:11",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְכ֥וֹס",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פַּרְעֹ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּיָדִ֑י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָאֶקַּ֣ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָֽעֲנָבִ֗ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָֽאֶשְׂחַ֤ט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־כּ֣וֹס",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פַּרְעֹ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָאֶתֵּ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַכּ֖וֹס",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־כַּ֥ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פַּרְעֹֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-4-12",
+      "title": "4:12",
+      "titleEn": "4:12",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֹּ֤אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוֹסֵ֔ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זֶ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פִּתְרֹנ֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁלֹ֙שֶׁת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשָּׂ֣רִגִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁלֹ֥שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָמִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֵֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-4-13",
+      "title": "4:13",
+      "titleEn": "4:13",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "בְּע֣וֹד&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁלֹ֣שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָמִ֗ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשָּׂ֤א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פַרְעֹה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־רֹאשֶׁ֔ךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַהֲשִֽׁיבְךָ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־כַּנֶּ֑ךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנָתַתָּ֤",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כוֹס־פַּרְעֹה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּיָד֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּמִּשְׁפָּט֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָֽרִאשׁ֔וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָיִ֖יתָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַשְׁקֵֽהוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-4-14",
+      "title": "4:14",
+      "titleEn": "4:14",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כִּ֧י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִם־זְכַרְתַּ֣נִי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִתְּךָ֗",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּאֲשֶׁר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִ֣יטַב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָ֔ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעָשִֽׂיתָ־נָּ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִמָּדִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חָ֑סֶד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִזְכַּרְתַּ֙נִי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־פַּרְעֹ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהוֹצֵאתַ֖נִי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הַבַּ֥יִת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזֶּֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-4-15",
+      "title": "4:15",
+      "titleEn": "4:15",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כִּֽי־גֻנֹּ֣ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גֻּנַּ֔בְתִּי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאֶ֖רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעִבְרִ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְגַם־פֹּה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹא־עָשִׂ֣יתִֽי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְא֔וּמָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־שָׂמ֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּבּֽוֹר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-4-16",
+      "title": "4:16",
+      "titleEn": "4:16",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיַּ֥רְא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שַׂר־הָאֹפִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ט֣וֹב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פָּתָ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיֹּ֙אמֶר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־יוֹסֵ֔ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַף־אֲנִי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּחֲלוֹמִ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִנֵּ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁלֹשָׁ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סַלֵּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֹרִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־רֹאשִֽׁי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-4-17",
+      "title": "4:17",
+      "titleEn": "4:17",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּבַסַּ֣ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָֽעֶלְי֗וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִכֹּ֛ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַאֲכַ֥ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פַּרְעֹ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַעֲשֵׂ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹפֶ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָע֗וֹף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹכֵ֥ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הַסַּ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵעַ֥ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֹאשִֽׁי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-4-18",
+      "title": "4:18",
+      "titleEn": "4:18",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיַּ֤עַן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוֹסֵף֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיֹּ֔אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זֶ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פִּתְרֹנ֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁלֹ֙שֶׁת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַסַּלִּ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁלֹ֥שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָמִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֵֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-4-19",
+      "title": "4:19",
+      "titleEn": "4:19",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "בְּע֣וֹד&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁלֹ֣שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָמִ֗ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשָּׂ֨א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פַרְעֹ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־רֹֽאשְׁךָ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵֽעָלֶ֔יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְתָלָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אוֹתְךָ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־עֵ֑ץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאָכַ֥ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָע֛וֹף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בְּשָׂרְךָ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵעָלֶֽיךָ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-4-20",
+      "title": "4:20",
+      "titleEn": "4:20",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְהִ֣י&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּיּ֣וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשְּׁלִישִׁ֗י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "י֚וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֻלֶּ֣דֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־פַּרְעֹ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיַּ֥עַשׂ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִשְׁתֶּ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְכׇל־עֲבָדָ֑יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּשָּׂ֞א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־רֹ֣אשׁ&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שַׂ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמַּשְׁקִ֗ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־רֹ֛אשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שַׂ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֹפִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּת֥וֹךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲבָדָֽיו׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-4-21",
+      "title": "4:21",
+      "titleEn": "4:21",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיָּ֛שֶׁב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־שַׂ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמַּשְׁקִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־מַשְׁקֵ֑הוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּתֵּ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכּ֖וֹס",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־כַּ֥ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פַּרְעֹֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-4-22",
+      "title": "4:22",
+      "titleEn": "4:22",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאֵ֛ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שַׂ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֹפִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תָּלָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּאֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פָּתַ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוֹסֵֽף׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Vayeshev-4-23",
+      "title": "4:23",
+      "titleEn": "4:23",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְלֹֽא־זָכַ֧ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שַֽׂר־הַמַּשְׁקִ֛ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־יוֹסֵ֖ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיִּשְׁכָּחֵֽהוּ׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    }
+  ]
+}

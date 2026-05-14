@@ -1,0 +1,5912 @@
+{
+  "id": "Achrei-Mot",
+  "slug": "achrei-mot",
+  "nameHeb": "ויקרא",
+  "nameEn": "Achrei Mot",
+  "nusach": "torah",
+  "timeOfDay": "any",
+  "totalDuration": 0,
+  "audioUrl": "",
+  "sections": [
+    {
+      "id": "Achrei-Mot-1-1",
+      "title": "1:1",
+      "titleEn": "1:1",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְדַבֵּ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַחֲרֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מ֔וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁנֵ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַהֲרֹ֑ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּקׇרְבָתָ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵי־יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיָּמֻֽתוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-1-2",
+      "title": "1:2",
+      "titleEn": "1:2",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֹּ֨אמֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֜ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דַּבֵּר֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־אַהֲרֹ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָחִ֒יךָ֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַל־יָבֹ֤א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְכׇל־עֵת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הַקֹּ֔דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִבֵּ֖ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַפָּרֹ֑כֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־פְּנֵ֨י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכַּפֹּ֜רֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־הָאָרֹן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָמ֔וּת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֚י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּֽעָנָ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵרָאֶ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־הַכַּפֹּֽרֶת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-1-3",
+      "title": "1:3",
+      "titleEn": "1:3",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "בְּזֹ֛את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָבֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַהֲרֹ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הַקֹּ֑דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּפַ֧ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־בָּקָ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְחַטָּ֖את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַ֥יִל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְעֹלָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-1-4",
+      "title": "1:4",
+      "titleEn": "1:4",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כְּתֹֽנֶת־בַּ֨ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קֹ֜דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִלְבָּ֗שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִֽכְנְסֵי־בַד֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְי֣וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־בְּשָׂרוֹ֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבְאַבְנֵ֥ט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּד֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַחְגֹּ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבְמִצְנֶ֥פֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִצְנֹ֑ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּגְדֵי־קֹ֣דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֵ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְרָחַ֥ץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּמַּ֛יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בְּשָׂר֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּלְבֵשָֽׁם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-1-5",
+      "title": "1:5",
+      "titleEn": "1:5",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּמֵאֵ֗ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲדַת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִקַּ֛ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁנֵֽי־שְׂעִירֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִזִּ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְחַטָּ֑את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַ֥יִל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶחָ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְעֹלָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-1-6",
+      "title": "1:6",
+      "titleEn": "1:6",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהִקְרִ֧יב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַהֲרֹ֛ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־פַּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַחַטָּ֖את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־ל֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכִפֶּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּעֲד֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבְעַ֥ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֵּיתֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-1-7",
+      "title": "1:7",
+      "titleEn": "1:7",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְלָקַ֖ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־שְׁנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשְּׂעִירִ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהֶעֱמִ֤יד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פֶּ֖תַח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹ֥הֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹעֵֽד׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-1-8",
+      "title": "1:8",
+      "titleEn": "1:8",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְנָתַ֧ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַהֲרֹ֛ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־שְׁנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשְּׂעִירִ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גֹּרָל֑וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גּוֹרָ֤ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶחָד֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְגוֹרָ֥ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶחָ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַעֲזָאזֵֽל׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-1-9",
+      "title": "1:9",
+      "titleEn": "1:9",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהִקְרִ֤יב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַהֲרֹן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַשָּׂעִ֔יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלָ֛יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַגּוֹרָ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיהֹוָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעָשָׂ֖הוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חַטָּֽאת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-1-10",
+      "title": "1:10",
+      "titleEn": "1:10",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהַשָּׂעִ֗יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלָ֨ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלָ֤יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַגּוֹרָל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַעֲזָאזֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יׇֽעֳמַד־חַ֛י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְכַפֵּ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלָ֑יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְשַׁלַּ֥ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֛וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַעֲזָאזֵ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּדְבָּֽרָה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-1-11",
+      "title": "1:11",
+      "titleEn": "1:11",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהִקְרִ֨יב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַהֲרֹ֜ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־פַּ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַֽחַטָּאת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־ל֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכִפֶּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּֽעֲד֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבְעַ֣ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֵּית֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשָׁחַ֛ט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־פַּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַֽחַטָּ֖את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־לֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-1-12",
+      "title": "1:12",
+      "titleEn": "1:12",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְלָקַ֣ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְלֹֽא־הַ֠מַּחְתָּ֠ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גַּֽחֲלֵי־אֵ֞שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵעַ֤ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּזְבֵּ֙חַ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִלִּפְנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמְלֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חׇפְנָ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קְטֹ֥רֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סַמִּ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דַּקָּ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהֵבִ֖יא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִבֵּ֥ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַפָּרֹֽכֶת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-1-13",
+      "title": "1:13",
+      "titleEn": "1:13",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְנָתַ֧ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶֽת־הַקְּטֹ֛רֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־הָאֵ֖שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכִסָּ֣ה&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲנַ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַקְּטֹ֗רֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַכַּפֹּ֛רֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־הָעֵד֖וּת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָמֽוּת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-1-14",
+      "title": "1:14",
+      "titleEn": "1:14",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְלָקַח֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִדַּ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַפָּ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִזָּ֧ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְאֶצְבָּע֛וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־פְּנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכַּפֹּ֖רֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קֵ֑דְמָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלִפְנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכַּפֹּ֗רֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַזֶּ֧ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֶֽׁבַע־פְּעָמִ֛ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הַדָּ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאֶצְבָּעֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-1-15",
+      "title": "1:15",
+      "titleEn": "1:15",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְשָׁחַ֞ט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־שְׂעִ֤יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַֽחַטָּאת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָעָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהֵבִיא֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־דָּמ֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מִבֵּ֖ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַפָּרֹ֑כֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעָשָׂ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־דָּמ֗וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּאֲשֶׁ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָשָׂה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְדַ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַפָּ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִזָּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֛וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־הַכַּפֹּ֖רֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלִפְנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכַּפֹּֽרֶת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-1-16",
+      "title": "1:16",
+      "titleEn": "1:16",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְכִפֶּ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־הַקֹּ֗דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִטֻּמְאֹת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִפִּשְׁעֵיהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְכׇל־חַטֹּאתָ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכֵ֤ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַעֲשֶׂה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְאֹ֣הֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹעֵ֔ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשֹּׁכֵ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִתָּ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּת֖וֹךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טֻמְאֹתָֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-1-17",
+      "title": "1:17",
+      "titleEn": "1:17",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְכׇל־אָדָ֞ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹא־יִהְיֶ֣ה&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאֹ֣הֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹעֵ֗ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּבֹא֛וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְכַפֵּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּקֹּ֖דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַד־צֵאת֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכִפֶּ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּעֲדוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבְעַ֣ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֵּית֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבְעַ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־קְהַ֥ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵֽל׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-1-18",
+      "title": "1:18",
+      "titleEn": "1:18",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְיָצָ֗א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הַמִּזְבֵּ֛חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵֽי־יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכִפֶּ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלָ֑יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלָקַ֞ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִדַּ֤ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַפָּר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִדַּ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשָּׂעִ֔יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנָתַ֛ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־קַרְנ֥וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּזְבֵּ֖חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סָבִֽיב׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-1-19",
+      "title": "1:19",
+      "titleEn": "1:19",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהִזָּ֨ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלָ֧יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הַדָּ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאֶצְבָּע֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֶׁ֣בַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פְּעָמִ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְטִהֲר֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְקִדְּשׁ֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִטֻּמְאֹ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵֽל׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-1-20",
+      "title": "1:20",
+      "titleEn": "1:20",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְכִלָּה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִכַּפֵּ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַקֹּ֔דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־אֹ֥הֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹעֵ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־הַמִּזְבֵּ֑חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִקְרִ֖יב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַשָּׂעִ֥יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֶחָֽי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-1-21",
+      "title": "1:21",
+      "titleEn": "1:21",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְסָמַ֨ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַהֲרֹ֜ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־שְׁתֵּ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָדָ֗ו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֣ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֹ֣אשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשָּׂעִיר֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַחַי֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִתְוַדָּ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלָ֗יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־כׇּל־עֲוֺנֹת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־כׇּל־פִּשְׁעֵיהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְכׇל־חַטֹּאתָ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנָתַ֤ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־רֹ֣אשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשָּׂעִ֔יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשִׁלַּ֛ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּיַד־אִ֥ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִתִּ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּדְבָּֽרָה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-1-22",
+      "title": "1:22",
+      "titleEn": "1:22",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְנָשָׂ֨א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשָּׂעִ֥יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלָ֛יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־כׇּל־עֲוֺנֹתָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־אֶ֣רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גְּזֵרָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשִׁלַּ֥ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַשָּׂעִ֖יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּמִּדְבָּֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-1-23",
+      "title": "1:23",
+      "titleEn": "1:23",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּבָ֤א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַהֲרֹן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־אֹ֣הֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹעֵ֔ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּפָשַׁט֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בִּגְדֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַבָּ֔ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָבַ֖שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּבֹא֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הַקֹּ֑דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִנִּיחָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָֽׁם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-1-24",
+      "title": "1:24",
+      "titleEn": "1:24",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְרָחַ֨ץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בְּשָׂר֤וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַמַּ֙יִם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּמָק֣וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קָד֔וֹשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלָבַ֖שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בְּגָדָ֑יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיָצָ֗א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעָשָׂ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־עֹֽלָתוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־עֹלַ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכִפֶּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּעֲד֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבְעַ֥ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעָֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-1-25",
+      "title": "1:25",
+      "titleEn": "1:25",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאֵ֛ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֵ֥לֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַֽחַטָּ֖את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַקְטִ֥יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּזְבֵּֽחָה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-1-26",
+      "title": "1:26",
+      "titleEn": "1:26",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהַֽמְשַׁלֵּ֤חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַשָּׂעִיר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽעֲזָאזֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְכַבֵּ֣ס",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּגָדָ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְרָחַ֥ץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בְּשָׂר֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּמָּ֑יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַחֲרֵי־כֵ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָב֥וֹא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הַֽמַּחֲנֶֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-1-27",
+      "title": "1:27",
+      "titleEn": "1:27",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאֵת֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פַּ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַֽחַטָּ֜את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵ֣ת&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׂעִ֣יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַֽחַטָּ֗את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הוּבָ֤א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־דָּמָם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְכַפֵּ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּקֹּ֔דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוֹצִ֖יא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מִח֣וּץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽמַּחֲנֶ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשָׂרְפ֣וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָאֵ֔שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־עֹרֹתָ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־בְּשָׂרָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־פִּרְשָֽׁם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-1-28",
+      "title": "1:28",
+      "titleEn": "1:28",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהַשֹּׂרֵ֣ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְכַבֵּ֣ס",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּגָדָ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְרָחַ֥ץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בְּשָׂר֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּמָּ֑יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַחֲרֵי־כֵ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָב֥וֹא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הַֽמַּחֲנֶֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-1-29",
+      "title": "1:29",
+      "titleEn": "1:29",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהָיְתָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְחֻקַּ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עוֹלָ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּחֹ֣דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַ֠שְּׁבִיעִ֠י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּֽעָשׂ֨וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַחֹ֜דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּעַנּ֣וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־נַפְשֹֽׁתֵיכֶ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכׇל־מְלָאכָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַעֲשׂ֔וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָֽאֶזְרָ֔ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהַגֵּ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַגָּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּתוֹכְכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-1-30",
+      "title": "1:30",
+      "titleEn": "1:30",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כִּֽי־בַיּ֥וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַזֶּ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְכַפֵּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲלֵיכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְטַהֵ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִכֹּל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חַטֹּ֣אתֵיכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּטְהָֽרוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-1-31",
+      "title": "1:31",
+      "titleEn": "1:31",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "שַׁבַּ֨ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שַׁבָּת֥וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִיא֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעִנִּיתֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־נַפְשֹׁתֵיכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֻקַּ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עוֹלָֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-1-32",
+      "title": "1:32",
+      "titleEn": "1:32",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְכִפֶּ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֜ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־יִמְשַׁ֣ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֗וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַאֲשֶׁ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְמַלֵּא֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־יָד֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְכַהֵ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּ֣חַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָבִ֑יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלָבַ֛שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בִּגְדֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַבָּ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּגְדֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַקֹּֽדֶשׁ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-1-33",
+      "title": "1:33",
+      "titleEn": "1:33",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְכִפֶּר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מִקְדַּ֣שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַקֹּ֔דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־אֹ֧הֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹעֵ֛ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־הַמִּזְבֵּ֖חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְכַפֵּ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעַ֧ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֲנִ֛ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעַל־כׇּל־עַ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַקָּהָ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְכַפֵּֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-1-34",
+      "title": "1:34",
+      "titleEn": "1:34",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהָֽיְתָה־זֹּ֨את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֜ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְחֻקַּ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עוֹלָ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְכַפֵּ֞ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־בְּנֵ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִכׇּל־חַטֹּאתָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַחַ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּשָּׁנָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיַּ֕עַשׂ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּאֲשֶׁ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צִוָּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מֹשֶֽׁה׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-2-1",
+      "title": "2:1",
+      "titleEn": "2:1",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְדַבֵּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵּאמֹֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-2-2",
+      "title": "2:2",
+      "titleEn": "2:2",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "דַּבֵּ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶֽל־אַהֲרֹ֜ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶל־בָּנָ֗יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאָמַרְתָּ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲלֵיהֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זֶ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַדָּבָ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־צִוָּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאמֹֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-2-3",
+      "title": "2:3",
+      "titleEn": "2:3",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אִ֥ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִישׁ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִבֵּ֣ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׁחַ֜ט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שׁ֥וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אוֹ־כֶ֛שֶׂב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אוֹ־עֵ֖ז",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּֽמַּחֲנֶ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֚וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׁחַ֔ט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִח֖וּץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽמַּחֲנֶֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-2-4",
+      "title": "2:4",
+      "titleEn": "2:4",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאֶל־פֶּ֜תַח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹ֣הֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹעֵד֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֱבִיאוֹ֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְהַקְרִ֤יב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קׇרְבָּן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽיהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִשְׁכַּ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דָּ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֵחָשֵׁ֞ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָאִ֤ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַהוּא֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דָּ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁפָ֔ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנִכְרַ֛ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאִ֥ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַה֖וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקֶּ֥רֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַמּֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-2-5",
+      "title": "2:5",
+      "titleEn": "2:5",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לְמַ֩עַן֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָבִ֜יאוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֗ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶֽת־זִבְחֵיהֶם֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֵ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זֹבְחִים֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־פְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשָּׂדֶה֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וֶֽהֱבִיאֻ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽיהֹוָ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־פֶּ֛תַח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹ֥הֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹעֵ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הַכֹּהֵ֑ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְזָ֨בְח֜וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זִבְחֵ֧י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁלָמִ֛ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַֽיהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אוֹתָֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-2-6",
+      "title": "2:6",
+      "titleEn": "2:6",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְזָרַ֨ק",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֤ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַדָּם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־מִזְבַּ֣ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פֶּ֖תַח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹ֣הֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹעֵ֑ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִקְטִ֣יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַחֵ֔לֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְרֵ֥יחַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נִיחֹ֖חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-2-7",
+      "title": "2:7",
+      "titleEn": "2:7",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְלֹא־יִזְבְּח֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עוֹד֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־זִבְחֵיהֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַשְּׂעִירִ֕ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֵ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זֹנִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַחֲרֵיהֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֻקַּ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עוֹלָ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּֽהְיֶה־זֹּ֥את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְדֹרֹתָֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-2-8",
+      "title": "2:8",
+      "titleEn": "2:8",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַאֲלֵהֶ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֹּאמַ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֥ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִישׁ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִבֵּ֣ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִן־הַגֵּ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־יָג֣וּר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּתוֹכָ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־יַעֲלֶ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֹלָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אוֹ־זָֽבַח׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-2-9",
+      "title": "2:9",
+      "titleEn": "2:9",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאֶל־פֶּ֜תַח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹ֤הֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹעֵד֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְבִיאֶ֔נּוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַעֲשׂ֥וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיהֹוָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנִכְרַ֛ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאִ֥ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַה֖וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵעַמָּֽיו׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-2-10",
+      "title": "2:10",
+      "titleEn": "2:10",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִ֨ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֜ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִבֵּ֣ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֗ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִן־הַגֵּר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַגָּ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּתוֹכָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֹאכַ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־דָּ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנָתַתִּ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פָנַ֗י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּנֶּ֙פֶשׁ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֹכֶ֣לֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַדָּ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהִכְרַתִּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֖הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקֶּ֥רֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַמָּֽהּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-2-11",
+      "title": "2:11",
+      "titleEn": "2:11",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כִּ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֶ֣פֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַבָּשָׂר֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּדָּ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִוא֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַאֲנִ֞י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נְתַתִּ֤יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־הַמִּזְבֵּ֔חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְכַפֵּ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־נַפְשֹׁתֵיכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־הַדָּ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ה֖וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּנֶּ֥פֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְכַפֵּֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-2-12",
+      "title": "2:12",
+      "titleEn": "2:12",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "עַל־כֵּ֤ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָמַ֙רְתִּי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִבְנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־נֶ֥פֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִכֶּ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹא־תֹ֣אכַל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דָּ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהַגֵּ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַגָּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּתוֹכְכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹא־יֹ֥אכַל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דָּֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-2-13",
+      "title": "2:13",
+      "titleEn": "2:13",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִ֨ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֜ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִבְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֗ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִן־הַגֵּר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַגָּ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּתוֹכָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָצ֜וּד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צֵ֥יד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חַיָּ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אוֹ־ע֖וֹף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֵאָכֵ֑ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשָׁפַךְ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־דָּמ֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכִסָּ֖הוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּעָפָֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-2-14",
+      "title": "2:14",
+      "titleEn": "2:14",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כִּֽי־נֶ֣פֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־בָּשָׂ֗ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דָּמ֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְנַפְשׁוֹ֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הוּא֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָֽאֹמַר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִבְנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דַּ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־בָּשָׂ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֹאכֵ֑לוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֶ֤פֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־בָּשָׂר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דָּמ֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִ֔וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־אֹכְלָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִכָּרֵֽת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-2-15",
+      "title": "2:15",
+      "titleEn": "2:15",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְכׇל־נֶ֗פֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֹּאכַ֤ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נְבֵלָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּטְרֵפָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּאֶזְרָ֖ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבַגֵּ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְכִבֶּ֨ס",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּגָדָ֜יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְרָחַ֥ץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּמַּ֛יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְטָמֵ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַד־הָעֶ֖רֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְטָהֵֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-2-16",
+      "title": "2:16",
+      "titleEn": "2:16",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְכַבֵּ֔ס",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבְשָׂר֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִרְחָ֑ץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנָשָׂ֖א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲוֺנֽוֹ׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-3-1",
+      "title": "3:1",
+      "titleEn": "3:1",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְדַבֵּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵּאמֹֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-3-2",
+      "title": "3:2",
+      "titleEn": "3:2",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "דַּבֵּר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאָמַרְתָּ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲלֵהֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹהֵיכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-3-3",
+      "title": "3:3",
+      "titleEn": "3:3",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כְּמַעֲשֵׂ֧ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶֽרֶץ־מִצְרַ֛יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְשַׁבְתֶּם־בָּ֖הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַעֲשׂ֑וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּכְמַעֲשֵׂ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶֽרֶץ־כְּנַ֡עַן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִי֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵבִ֨יא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְכֶ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁ֙מָּה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַעֲשׂ֔וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבְחֻקֹּתֵיהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֵלֵֽכוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-3-4",
+      "title": "3:4",
+      "titleEn": "3:4",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֶת־מִשְׁפָּטַ֧י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּעֲשׂ֛וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־חֻקֹּתַ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּשְׁמְר֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָלֶ֣כֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּהֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹהֵיכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-3-5",
+      "title": "3:5",
+      "titleEn": "3:5",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּשְׁמַרְתֶּ֤ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־חֻקֹּתַי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־מִשְׁפָּטַ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַעֲשֶׂ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָדָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָחַ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּהֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָֽה׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-3-6",
+      "title": "3:6",
+      "titleEn": "3:6",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אִ֥ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִישׁ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־כׇּל־שְׁאֵ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּשָׂר֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִקְרְב֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְגַלּ֣וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶרְוָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָֽה׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-3-7",
+      "title": "3:7",
+      "titleEn": "3:7",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "עֶרְוַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָבִ֛יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעֶרְוַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִמְּךָ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְגַלֵּ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִמְּךָ֣",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִ֔וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְגַלֶּ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶרְוָתָֽהּ׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-3-8",
+      "title": "3:8",
+      "titleEn": "3:8",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "עֶרְוַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵֽשֶׁת־אָבִ֖יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְגַלֵּ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶרְוַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָבִ֖יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִֽוא׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-3-9",
+      "title": "3:9",
+      "titleEn": "3:9",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "עֶרְוַ֨ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲחֽוֹתְךָ֤",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַת־אָבִ֙יךָ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַת־אִמֶּ֔ךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹלֶ֣דֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּ֔יִת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹלֶ֣דֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ח֑וּץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְגַלֶּ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶרְוָתָֽן׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-3-10",
+      "title": "3:10",
+      "titleEn": "3:10",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "עֶרְוַ֤ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּת־בִּנְךָ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "א֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַֽת־בִּתְּךָ֔",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְגַלֶּ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶרְוָתָ֑ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶרְוָתְךָ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֵֽנָּה׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-3-11",
+      "title": "3:11",
+      "titleEn": "3:11",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "עֶרְוַ֨ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּת־אֵ֤שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָבִ֙יךָ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹלֶ֣דֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָבִ֔יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲחוֹתְךָ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִ֑וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְגַלֶּ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶרְוָתָֽהּ׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-3-12",
+      "title": "3:12",
+      "titleEn": "3:12",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "עֶרְוַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲחוֹת־אָבִ֖יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְגַלֵּ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁאֵ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָבִ֖יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִֽוא׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-3-13",
+      "title": "3:13",
+      "titleEn": "3:13",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "עֶרְוַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲחֽוֹת־אִמְּךָ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְגַלֵּ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־שְׁאֵ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִמְּךָ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִֽוא׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-3-14",
+      "title": "3:14",
+      "titleEn": "3:14",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "עֶרְוַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲחִֽי־אָבִ֖יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְגַלֵּ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־אִשְׁתּוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִקְרָ֔ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דֹּדָֽתְךָ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִֽוא׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-3-15",
+      "title": "3:15",
+      "titleEn": "3:15",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "עֶרְוַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּלָּֽתְךָ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְגַלֵּ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֤שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּנְךָ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִ֔וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְגַלֶּ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶרְוָתָֽהּ׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-3-16",
+      "title": "3:16",
+      "titleEn": "3:16",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "עֶרְוַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵֽשֶׁת־אָחִ֖יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְגַלֵּ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶרְוַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָחִ֖יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִֽוא׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-3-17",
+      "title": "3:17",
+      "titleEn": "3:17",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "עֶרְוַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִשָּׁ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבִתָּ֖הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְגַלֵּ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶֽת־בַּת־בְּנָ֞הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־בַּת־בִּתָּ֗הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֤א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִקַּח֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְגַלּ֣וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶרְוָתָ֔הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שַׁאֲרָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֵ֖נָּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זִמָּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִֽוא׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-3-18",
+      "title": "3:18",
+      "titleEn": "3:18",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִשָּׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־אֲחֹתָ֖הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִקָּ֑ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִצְרֹ֗ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְגַלּ֧וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶרְוָתָ֛הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלֶ֖יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּחַיֶּֽיהָ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-3-19",
+      "title": "3:19",
+      "titleEn": "3:19",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאֶל־אִשָּׁ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנִדַּ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "טֻמְאָתָ֑הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִקְרַ֔ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְגַלּ֖וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶרְוָתָֽהּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-3-20",
+      "title": "3:20",
+      "titleEn": "3:20",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאֶל־אֵ֙שֶׁת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲמִֽיתְךָ֔",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹא־תִתֵּ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁכׇבְתְּךָ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְזָ֑רַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְטׇמְאָה־בָֽהּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-3-21",
+      "title": "3:21",
+      "titleEn": "3:21",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּמִֽזַּרְעֲךָ֥",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹא־תִתֵּ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְהַעֲבִ֣יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַמֹּ֑לֶךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹ֧א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְחַלֵּ֛ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־שֵׁ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹהֶ֖יךָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-3-22",
+      "title": "3:22",
+      "titleEn": "3:22",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאֶ֨ת־זָכָ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִשְׁכַּ֖ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִשְׁכְּבֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִשָּׁ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תּוֹעֵבָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִֽוא׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-3-23",
+      "title": "3:23",
+      "titleEn": "3:23",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּבְכׇל־בְּהֵמָ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹא־תִתֵּ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁכׇבְתְּךָ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְטׇמְאָה־בָ֑הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאִשָּׁ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹֽא־תַעֲמֹ֞ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֧י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְהֵמָ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְרִבְעָ֖הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תֶּ֥בֶל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֽוּא׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-3-24",
+      "title": "3:24",
+      "titleEn": "3:24",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אַל־תִּֽטַּמְּא֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּכׇל־אֵ֑לֶּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְכׇל־אֵ֙לֶּה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נִטְמְא֣וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַגּוֹיִ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־אֲנִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְשַׁלֵּ֖חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִפְּנֵיכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-3-25",
+      "title": "3:25",
+      "titleEn": "3:25",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַתִּטְמָ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֔רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָאֶפְקֹ֥ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲוֺנָ֖הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלֶ֑יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַתָּקִ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֖רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־יֹשְׁבֶֽיהָ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-3-26",
+      "title": "3:26",
+      "titleEn": "3:26",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּשְׁמַרְתֶּ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַתֶּ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־חֻקֹּתַי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־מִשְׁפָּטַ֔י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַעֲשׂ֔וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִכֹּ֥ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַתּוֹעֵבֹ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֵ֑לֶּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָֽאֶזְרָ֔ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהַגֵּ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַגָּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּתוֹכְכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-3-27",
+      "title": "3:27",
+      "titleEn": "3:27",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כִּ֚י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־כׇּל־הַתּוֹעֵבֹ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָשׂ֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַנְשֵֽׁי־הָאָ֖רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵיכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַתִּטְמָ֖א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָֽרֶץ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-3-28",
+      "title": "3:28",
+      "titleEn": "3:28",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְלֹֽא־תָקִ֤יא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֙רֶץ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּטַֽמַּאֲכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָ֑הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּאֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קָאָ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַגּ֖וֹי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵיכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-3-29",
+      "title": "3:29",
+      "titleEn": "3:29",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כִּ֚י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַעֲשֶׂ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִכֹּ֥ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַתּוֹעֵבֹ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֵ֑לֶּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנִכְרְת֛וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנְּפָשׁ֥וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעֹשֹׂ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקֶּ֥רֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַמָּֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Achrei-Mot-3-30",
+      "title": "3:30",
+      "titleEn": "3:30",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּשְׁמַרְתֶּ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מִשְׁמַרְתִּ֗י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְבִלְתִּ֨י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲשׂ֜וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵחֻקּ֤וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַתּֽוֹעֵבֹת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נַעֲשׂ֣וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵיכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִֽטַּמְּא֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּהֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלֹהֵיכֶֽם׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    }
+  ]
+}

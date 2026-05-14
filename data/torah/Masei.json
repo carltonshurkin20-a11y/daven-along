@@ -1,0 +1,8143 @@
+{
+  "id": "Masei",
+  "slug": "masei",
+  "nameHeb": "במדבר",
+  "nameEn": "Masei",
+  "nusach": "torah",
+  "timeOfDay": "any",
+  "totalDuration": 0,
+  "audioUrl": "",
+  "sections": [
+    {
+      "id": "Masei-1-1",
+      "title": "1:1",
+      "titleEn": "1:1",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֵ֜לֶּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַסְעֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְנֵֽי־יִשְׂרָאֵ֗ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָצְא֛וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאֶ֥רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִצְרַ֖יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְצִבְאֹתָ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּיַד־מֹשֶׁ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַהֲרֹֽן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-2",
+      "title": "1:2",
+      "titleEn": "1:2",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּכְתֹּ֨ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁ֜ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מוֹצָאֵיהֶ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְמַסְעֵיהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־פִּ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵ֥לֶּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַסְעֵיהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְמוֹצָאֵיהֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-3",
+      "title": "1:3",
+      "titleEn": "1:3",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּסְע֤וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵֽרַעְמְסֵס֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּחֹ֣דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָרִאשׁ֔וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּחֲמִשָּׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָשָׂ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "י֖וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַחֹ֣דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָרִאשׁ֑וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִֽמׇּחֳרַ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַפֶּ֗סַח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָצְא֤וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְנֵֽי־יִשְׂרָאֵל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּיָ֣ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רָמָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְעֵינֵ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־מִצְרָֽיִם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-4",
+      "title": "1:4",
+      "titleEn": "1:4",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּמִצְרַ֣יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְקַבְּרִ֗ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵת֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִכָּ֧ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־בְּכ֑וֹר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבֵאלֹ֣הֵיהֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָשָׂ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁפָטִֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-5",
+      "title": "1:5",
+      "titleEn": "1:5",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּסְע֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְנֵֽי־יִשְׂרָאֵ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵרַעְמְסֵ֑ס",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיַּחֲנ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּסֻכֹּֽת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-6",
+      "title": "1:6",
+      "titleEn": "1:6",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּסְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִסֻּכֹּ֑ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיַּחֲנ֣וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְאֵתָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּקְצֵ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּדְבָּֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-7",
+      "title": "1:7",
+      "titleEn": "1:7",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּסְעוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵֽאֵתָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיָּ֙שׇׁב֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־פִּ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַחִירֹ֔ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־פְּנֵ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּ֣עַל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צְפ֑וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיַּחֲנ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִגְדֹּֽל׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-8",
+      "title": "1:8",
+      "titleEn": "1:8",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּסְעוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִפְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַֽחִירֹ֔ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיַּֽעַבְר֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְתוֹךְ־הַיָּ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּדְבָּ֑רָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיֵּ֨לְכ֜וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דֶּ֣רֶךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁלֹ֤שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָמִים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּמִדְבַּ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵתָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיַּחֲנ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּמָרָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-9",
+      "title": "1:9",
+      "titleEn": "1:9",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּסְעוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמָּרָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיָּבֹ֖אוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵילִ֑מָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּ֠בְאֵילִ֠ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁתֵּ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֶשְׂרֵ֞ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֵינֹ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַ֛יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְשִׁבְעִ֥ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּמָרִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיַּחֲנוּ־שָֽׁם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-10",
+      "title": "1:10",
+      "titleEn": "1:10",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּסְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאֵילִ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיַּחֲנ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־יַם־סֽוּף׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-11",
+      "title": "1:11",
+      "titleEn": "1:11",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּסְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִיַּם־ס֑וּף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיַּחֲנ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּמִדְבַּר־סִֽין׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-12",
+      "title": "1:12",
+      "titleEn": "1:12",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּסְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמִּדְבַּר־סִ֑ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיַּחֲנ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּדׇפְקָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-13",
+      "title": "1:13",
+      "titleEn": "1:13",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּסְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִדׇּפְקָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיַּחֲנ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאָלֽוּשׁ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-14",
+      "title": "1:14",
+      "titleEn": "1:14",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּסְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאָל֑וּשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיַּחֲנוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּרְפִידִ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹא־הָ֨יָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַ֛יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָעָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִשְׁתּֽוֹת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-15",
+      "title": "1:15",
+      "titleEn": "1:15",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּסְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵרְפִידִ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיַּחֲנ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּמִדְבַּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סִינָֽי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-16",
+      "title": "1:16",
+      "titleEn": "1:16",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּסְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמִּדְבַּ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סִינָ֑י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיַּחֲנ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּקִבְרֹ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַֽתַּאֲוָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-17",
+      "title": "1:17",
+      "titleEn": "1:17",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּסְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקִּבְרֹ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַֽתַּאֲוָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיַּחֲנ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּחֲצֵרֹֽת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-18",
+      "title": "1:18",
+      "titleEn": "1:18",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּסְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵחֲצֵרֹ֑ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיַּחֲנ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּרִתְמָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-19",
+      "title": "1:19",
+      "titleEn": "1:19",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּסְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵרִתְמָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיַּחֲנ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּרִמֹּ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פָּֽרֶץ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-20",
+      "title": "1:20",
+      "titleEn": "1:20",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּסְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵרִמֹּ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פָּ֑רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיַּחֲנ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּלִבְנָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-21",
+      "title": "1:21",
+      "titleEn": "1:21",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּסְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִלִּבְנָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיַּחֲנ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּרִסָּֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-22",
+      "title": "1:22",
+      "titleEn": "1:22",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּסְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵרִסָּ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיַּחֲנ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּקְהֵלָֽתָה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-23",
+      "title": "1:23",
+      "titleEn": "1:23",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּסְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקְּהֵלָ֑תָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיַּחֲנ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּהַר־שָֽׁפֶר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-24",
+      "title": "1:24",
+      "titleEn": "1:24",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּסְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵֽהַר־שָׁ֑פֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיַּחֲנ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּחֲרָדָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-25",
+      "title": "1:25",
+      "titleEn": "1:25",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּסְע֖ו��",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵחֲרָדָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיַּחֲנ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּמַקְהֵלֹֽת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-26",
+      "title": "1:26",
+      "titleEn": "1:26",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּסְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמַּקְהֵלֹ֑ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיַּחֲנ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּתָֽחַת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-27",
+      "title": "1:27",
+      "titleEn": "1:27",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּסְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִתָּ֑חַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיַּחֲנ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּתָֽרַח׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-28",
+      "title": "1:28",
+      "titleEn": "1:28",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּסְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִתָּ֑רַח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיַּחֲנ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּמִתְקָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-29",
+      "title": "1:29",
+      "titleEn": "1:29",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּסְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמִּתְקָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיַּחֲנ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּחַשְׁמֹנָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-30",
+      "title": "1:30",
+      "titleEn": "1:30",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּסְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵֽחַשְׁמֹנָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיַּחֲנ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּמֹסֵרֽוֹת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-31",
+      "title": "1:31",
+      "titleEn": "1:31",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּסְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמֹּסֵר֑וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיַּחֲנ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּבְנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַעֲקָֽן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-32",
+      "title": "1:32",
+      "titleEn": "1:32",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּסְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִבְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַעֲקָ֑ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיַּחֲנ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּחֹ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַגִּדְגָּֽד׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-33",
+      "title": "1:33",
+      "titleEn": "1:33",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּסְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵחֹ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַגִּדְגָּ֑ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיַּחֲנ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּיׇטְבָֽתָה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-34",
+      "title": "1:34",
+      "titleEn": "1:34",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּסְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִיׇּטְבָ֑תָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיַּחֲנ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּעַבְרֹנָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-35",
+      "title": "1:35",
+      "titleEn": "1:35",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּסְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵֽעַבְרֹנָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיַּחֲנ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּעֶצְיֹ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גָּֽבֶר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-36",
+      "title": "1:36",
+      "titleEn": "1:36",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּסְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵעֶצְיֹ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גָּ֑בֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיַּחֲנ֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְמִדְבַּר־צִ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִ֥וא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קָדֵֽשׁ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-37",
+      "title": "1:37",
+      "titleEn": "1:37",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּסְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקָּדֵ֑שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיַּחֲנוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּהֹ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָהָ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּקְצֵ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶ֥רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱדֽוֹם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-38",
+      "title": "1:38",
+      "titleEn": "1:38",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיַּ֩עַל֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַהֲרֹ֨ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֜ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הֹ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָהָ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־פִּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיָּ֣מׇת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּשְׁנַ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָֽאַרְבָּעִ֗ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְצֵ֤את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵֽי־יִשְׂרָאֵל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאֶ֣רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִצְרַ֔יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּחֹ֥דֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַחֲמִישִׁ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאֶחָ֥ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַחֹֽדֶשׁ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-39",
+      "title": "1:39",
+      "titleEn": "1:39",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאַהֲרֹ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־שָׁלֹ֧שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעֶשְׂרִ֛ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמְאַ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁנָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּמֹת֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּהֹ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָהָֽר׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-40",
+      "title": "1:40",
+      "titleEn": "1:40",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּשְׁמַ֗ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַֽכְּנַעֲנִי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֶ֣לֶךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֲרָ֔ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהֽוּא־יֹשֵׁ֥ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּנֶּ֖גֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאֶ֣רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּנָ֑עַן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּבֹ֖א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵֽל׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-41",
+      "title": "1:41",
+      "titleEn": "1:41",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּסְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵהֹ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָהָ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיַּחֲנ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּצַלְמֹנָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-42",
+      "title": "1:42",
+      "titleEn": "1:42",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּסְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִצַּלְמֹנָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיַּחֲנ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּפוּנֹֽן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-43",
+      "title": "1:43",
+      "titleEn": "1:43",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּסְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִפּוּנֹ֑ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיַּחֲנ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאֹבֹֽת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-44",
+      "title": "1:44",
+      "titleEn": "1:44",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּסְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאֹבֹ֑ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיַּחֲנ֛וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּעִיֵּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעֲבָרִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּגְב֥וּל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹאָֽב׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-45",
+      "title": "1:45",
+      "titleEn": "1:45",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּסְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵעִיִּ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיַּחֲנ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּדִיבֹ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גָּֽד׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-46",
+      "title": "1:46",
+      "titleEn": "1:46",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּסְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִדִּיבֹ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גָּ֑ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיַּחֲנ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּעַלְמֹ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דִּבְלָתָֽיְמָה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-47",
+      "title": "1:47",
+      "titleEn": "1:47",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּסְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵעַלְמֹ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דִּבְלָתָ֑יְמָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיַּחֲנ֛וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּהָרֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעֲבָרִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נְבֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-48",
+      "title": "1:48",
+      "titleEn": "1:48",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיִּסְע֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵהָרֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעֲבָרִ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיַּחֲנוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּעַֽרְבֹ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹאָ֔ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַרְדֵּ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְרֵחֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-49",
+      "title": "1:49",
+      "titleEn": "1:49",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיַּחֲנ֤וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־הַיַּרְדֵּן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִבֵּ֣ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיְשִׁמֹ֔ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָבֵ֣ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַשִּׁטִּ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּעַֽרְבֹ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹאָֽב׃&;{ס}&;&;&;&;&;&;&;&;",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-50",
+      "title": "1:50",
+      "titleEn": "1:50",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְדַבֵּ֧ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּעַֽרְבֹ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹאָ֑ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־יַרְדֵּ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְרֵח֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאמֹֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-51",
+      "title": "1:51",
+      "titleEn": "1:51",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "דַּבֵּר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאָמַרְתָּ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲלֵהֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַתֶּ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֹבְרִ֥ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַיַּרְדֵּ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־אֶ֥רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּנָֽעַן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-52",
+      "title": "1:52",
+      "titleEn": "1:52",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְה֨וֹרַשְׁתֶּ֜ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־כׇּל־יֹשְׁבֵ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֙רֶץ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִפְּנֵיכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאִ֨בַּדְתֶּ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־מַשְׂכִּיֹּתָ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵ֨ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־צַלְמֵ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַסֵּֽכֹתָם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּאַבֵּ֔דוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־בָּמוֹתָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּשְׁמִֽידוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-53",
+      "title": "1:53",
+      "titleEn": "1:53",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהוֹרַשְׁתֶּ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָאָ֖רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וִֽישַׁבְתֶּם־בָּ֑הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נָתַ֥תִּי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָאָ֖רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָרֶ֥שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָֽהּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-54",
+      "title": "1:54",
+      "titleEn": "1:54",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהִתְנַחַלְתֶּם֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָאָ֨רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּגוֹרָ֜ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְמִשְׁפְּחֹֽתֵיכֶ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָרַ֞ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּרְבּ֤וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־נַחֲלָתוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלַמְעַט֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּמְעִ֣יט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־נַחֲלָת֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־יֵ֨צֵא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ל֥וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁ֛מָּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַגּוֹרָ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ל֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְיֶ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְמַטּ֥וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲבֹתֵיכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּתְנֶחָֽלוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-55",
+      "title": "1:55",
+      "titleEn": "1:55",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם־לֹ֨א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תוֹרִ֜ישׁוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־יֹשְׁבֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֘רֶץ֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִפְּנֵיכֶם֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָיָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תּוֹתִ֣ירוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵהֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְשִׂכִּים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּעֵ֣ינֵיכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלִצְנִינִ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּצִדֵּיכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְצָרְר֣וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְכֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־הָאָ֕רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַתֶּ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֹשְׁבִ֥ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּֽהּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-1-56",
+      "title": "1:56",
+      "titleEn": "1:56",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהָיָ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כַּאֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דִּמִּ֛יתִי",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַעֲשׂ֥וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶֽעֱשֶׂ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶֽם׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-2-1",
+      "title": "2:1",
+      "titleEn": "2:1",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְדַבֵּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵּאמֹֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-2-2",
+      "title": "2:2",
+      "titleEn": "2:2",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "צַ֞ו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בְּנֵ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאָמַרְתָּ֣",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲלֵהֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּֽי־אַתֶּ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּאִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־הָאָ֣רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּנָ֑עַן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זֹ֣את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֗רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּפֹּ֤ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּֽנַחֲלָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶ֥רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּנַ֖עַן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִגְבֻלֹתֶֽיהָ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-2-3",
+      "title": "2:3",
+      "titleEn": "2:3",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהָיָ֨ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֧ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פְּאַת־נֶ֛גֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמִּדְבַּר־צִ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־יְדֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱד֑וֹם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָיָ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גְּב֣וּל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נֶ֔גֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקְצֵ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָם־הַמֶּ֖לַח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קֵֽדְמָה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-2-4",
+      "title": "2:4",
+      "titleEn": "2:4",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְנָסַ֣ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶם֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַגְּב֨וּל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִנֶּ֜גֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְמַעֲלֵ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַקְרַבִּים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעָ֣בַר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צִ֔נָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "(והיה)",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "[וְהָיוּ֙]",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תּֽוֹצְאֹתָ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִנֶּ֖גֶב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְקָדֵ֣שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּרְנֵ֑עַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיָצָ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲצַר־אַדָּ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעָבַ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַצְמֹֽנָה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-2-5",
+      "title": "2:5",
+      "titleEn": "2:5",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְנָסַ֧ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַגְּב֛וּל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵעַצְמ֖וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נַ֣חְלָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִצְרָ֑יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָי֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תוֹצְאֹתָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיָּֽמָּה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-2-6",
+      "title": "2:6",
+      "titleEn": "2:6",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּגְב֣וּל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָיָ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיָּ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַגָּד֖וֹל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּגְב֑וּל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זֶֽה־יִהְיֶ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גְּב֥וּל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-2-7",
+      "title": "2:7",
+      "titleEn": "2:7",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְזֶֽה־יִהְיֶ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גְּב֣וּל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צָפ֑וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִן־הַיָּם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַגָּדֹ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּתָא֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֹ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָהָֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-2-8",
+      "title": "2:8",
+      "titleEn": "2:8",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "מֵהֹ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָהָ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְּתָא֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְבֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲמָ֑ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָי֛וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תּוֹצְאֹ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַגְּבֻ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צְדָֽדָה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-2-9",
+      "title": "2:9",
+      "titleEn": "2:9",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְיָצָ֤א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַגְּבֻל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זִפְרֹ֔נָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָי֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תוֹצְאֹתָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חֲצַ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֵינָ֑ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זֶֽה־יִהְיֶ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גְּב֥וּל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צָפֽוֹן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-2-10",
+      "title": "2:10",
+      "titleEn": "2:10",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהִתְאַוִּיתֶ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִגְב֣וּל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קֵ֑דְמָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵחֲצַ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֵינָ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁפָֽמָה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-2-11",
+      "title": "2:11",
+      "titleEn": "2:11",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְיָרַ֨ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַגְּבֻ֧ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִשְּׁפָ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָרִבְלָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקֶּ֣דֶם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָעָ֑יִן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיָרַ֣ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַגְּבֻ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמָחָ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־כֶּ֥תֶף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָם־כִּנֶּ֖רֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קֵֽדְמָה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-2-12",
+      "title": "2:12",
+      "titleEn": "2:12",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְיָרַ֤ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַגְּבוּל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיַּרְדֵּ֔נָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָי֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תוֹצְאֹתָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמֶּ֑לַח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זֹאת֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּהְיֶ֨ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֛רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִגְבֻלֹתֶ֖יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סָבִֽיב׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-2-13",
+      "title": "2:13",
+      "titleEn": "2:13",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְצַ֣ו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בְּנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאמֹ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זֹ֣את",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאָ֗רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּתְנַחֲל֤וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתָהּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּגוֹרָ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צִוָּ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָתֵ֛ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְתִשְׁעַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמַּטּ֖וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַחֲצִ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמַּטֶּֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-2-14",
+      "title": "2:14",
+      "titleEn": "2:14",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כִּ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָקְח֞וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַטֵּ֨ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְנֵ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָראוּבֵנִי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְבֵ֣ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲבֹתָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמַטֵּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְנֵֽי־הַגָּדִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְבֵ֣ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲבֹתָ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַחֲצִי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַטֵּ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְנַשֶּׁ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָקְח֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נַחֲלָתָֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-2-15",
+      "title": "2:15",
+      "titleEn": "2:15",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "שְׁנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמַּטּ֖וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַחֲצִ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמַּטֶּ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָקְח֣וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נַחֲלָתָ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵעֵ֛בֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְיַרְדֵּ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְרֵח֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קֵ֥דְמָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִזְרָֽחָה׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-2-16",
+      "title": "2:16",
+      "titleEn": "2:16",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְדַבֵּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵּאמֹֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-2-17",
+      "title": "2:17",
+      "titleEn": "2:17",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֵ֚לֶּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁמ֣וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָֽאֲנָשִׁ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־יִנְחֲל֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָאָ֑רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶלְעָזָר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וִיהוֹשֻׁ֖עַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּן־נֽוּן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-2-18",
+      "title": "2:18",
+      "titleEn": "2:18",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְנָשִׂ֥יא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶחָ֛ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נָשִׂ֥יא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶחָ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמַּטֶּ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּקְח֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִנְחֹ֥ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָאָֽרֶץ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-2-19",
+      "title": "2:19",
+      "titleEn": "2:19",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאֵ֖לֶּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁמ֣וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֲנָשִׁ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְמַטֵּ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהוּדָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כָּלֵ֖ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־יְפֻנֶּֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-2-20",
+      "title": "2:20",
+      "titleEn": "2:20",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּלְמַטֵּה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁמְע֔וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁמוּאֵ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־עַמִּיהֽוּד׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-2-21",
+      "title": "2:21",
+      "titleEn": "2:21",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לְמַטֵּ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִנְיָמִ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלִידָ֖ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־כִּסְלֽוֹן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-2-22",
+      "title": "2:22",
+      "titleEn": "2:22",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּלְמַטֵּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְנֵי־דָ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נָשִׂ֑יא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֻּקִּ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־יׇגְלִֽי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-2-23",
+      "title": "2:23",
+      "titleEn": "2:23",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לִבְנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוֹסֵ֔ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְמַטֵּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְנֵֽי־מְנַשֶּׁ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נָשִׂ֑יא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חַנִּיאֵ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־אֵפֹֽד׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-2-24",
+      "title": "2:24",
+      "titleEn": "2:24",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּלְמַטֵּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְנֵֽי־אֶפְרַ֖יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נָשִׂ֑יא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "קְמוּאֵ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־שִׁפְטָֽן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-2-25",
+      "title": "2:25",
+      "titleEn": "2:25",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּלְמַטֵּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְנֵֽי־זְבוּלֻ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נָשִׂ֑יא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֱלִיצָפָ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־פַּרְנָֽךְ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-2-26",
+      "title": "2:26",
+      "titleEn": "2:26",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּלְמַטֵּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְנֵֽי־יִשָּׂשכָ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נָשִׂ֑יא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פַּלְטִיאֵ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־עַזָּֽן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-2-27",
+      "title": "2:27",
+      "titleEn": "2:27",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּלְמַטֵּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְנֵי־אָשֵׁ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נָשִׂ֑יא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲחִיה֖וּד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־שְׁלֹמִֽי׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-2-28",
+      "title": "2:28",
+      "titleEn": "2:28",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּלְמַטֵּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְנֵֽי־נַפְתָּלִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נָשִׂ֑יא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פְּדַהְאֵ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־עַמִּיהֽוּד׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-2-29",
+      "title": "2:29",
+      "titleEn": "2:29",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֵ֕לֶּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֖ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צִוָּ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְנַחֵ֥ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בְּנֵֽי־יִשְׂרָאֵ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאֶ֥רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּנָֽעַן׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-3-1",
+      "title": "3:1",
+      "titleEn": "3:1",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְדַבֵּ֧ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּעַֽרְבֹ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹאָ֑ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־יַרְדֵּ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְרֵח֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאמֹֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-3-2",
+      "title": "3:2",
+      "titleEn": "3:2",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "צַו֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵל֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנָתְנ֣וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַלְוִיִּ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִֽנַּחֲלַ֛ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲחֻזָּתָ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָרִ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָשָׁ֑בֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִגְרָ֗שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֶֽעָרִים֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סְבִיבֹ֣תֵיהֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּתְּנ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַלְוִיִּֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-3-3",
+      "title": "3:3",
+      "titleEn": "3:3",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהָי֧וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֶֽעָרִ֛ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָשָׁ֑בֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִגְרְשֵׁיהֶ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְי֤וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִבְהֶמְתָּם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלִרְכֻשָׁ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּלְכֹ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "חַיָּתָֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-3-4",
+      "title": "3:4",
+      "titleEn": "3:4",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּמִגְרְשֵׁי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֶֽעָרִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּתְּנ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַלְוִיִּ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקִּ֤יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעִיר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וָח֔וּצָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶ֥לֶף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַמָּ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "סָבִֽיב׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-3-5",
+      "title": "3:5",
+      "titleEn": "3:5",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּמַדֹּתֶ֞ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִח֣וּץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָעִ֗יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־פְּאַת־קֵ֣דְמָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַלְפַּ֪יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּֽאַמָּ֟ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־פְּאַת־נֶ֩גֶב֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַלְפַּ֨יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּאַמָּ֜ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־פְּאַת־יָ֣ם&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַלְפַּ֣יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּֽאַמָּ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵ֨ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "פְּאַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צָפ֛וֹן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַלְפַּ֥יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּאַמָּ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהָעִ֣יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַּתָּ֑וֶךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "זֶ֚ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִהְיֶ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָהֶ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִגְרְשֵׁ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֶעָרִֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-3-6",
+      "title": "3:6",
+      "titleEn": "3:6",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאֵ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֶֽעָרִ֗ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּתְּנוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַלְוִיִּ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֚ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֵׁשׁ־עָרֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּקְלָ֔ט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּתְּנ֔וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָנֻ֥ס",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁ֖מָּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָרֹצֵ֑חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַעֲלֵיהֶ֣ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּתְּנ֔וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַרְבָּעִ֥ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּשְׁתַּ֖יִם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִֽיר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-3-7",
+      "title": "3:7",
+      "titleEn": "3:7",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כׇּל־הֶעָרִ֗ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּתְּנוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַלְוִיִּ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַרְבָּעִ֥ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּשְׁמֹנֶ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִ֑יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶתְהֶ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֶת־מִגְרְשֵׁיהֶֽן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-3-8",
+      "title": "3:8",
+      "titleEn": "3:8",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהֶֽעָרִ֗ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּתְּנוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאֲחֻזַּ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵי־יִשְׂרָאֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵאֵ֤ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָרַב֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּרְבּ֔וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמֵאֵ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמְעַ֖ט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תַּמְעִ֑יטוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֗ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּפִ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נַחֲלָתוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִנְחָ֔לוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִתֵּ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵעָרָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַלְוִיִּֽם׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-3-9",
+      "title": "3:9",
+      "titleEn": "3:9",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְדַבֵּ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מֹשֶׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵּאמֹֽר׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-3-10",
+      "title": "3:10",
+      "titleEn": "3:10",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "דַּבֵּר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאָמַרְתָּ֖",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲלֵהֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַתֶּ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֹבְרִ֥ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הַיַּרְדֵּ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַ֥רְצָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּנָֽעַן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-3-11",
+      "title": "3:11",
+      "titleEn": "3:11",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהִקְרִיתֶ֤ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָרִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָרֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקְלָ֖ט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּהְיֶ֣ינָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנָ֥ס",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁ֙מָּה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֹצֵ֔חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַכֵּה־נֶ֖פֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּשְׁגָגָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-3-12",
+      "title": "3:12",
+      "titleEn": "3:12",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהָי֨וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֧ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֶעָרִ֛ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְמִקְלָ֖ט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִגֹּאֵ֑ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹ֤א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָמוּת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָרֹצֵ֔חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַד־עׇמְד֛וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעֵדָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַמִּשְׁפָּֽט׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-3-13",
+      "title": "3:13",
+      "titleEn": "3:13",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהֶעָרִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּתֵּ֑נוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֵׁשׁ־עָרֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקְלָ֖ט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּהְיֶ֥ינָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-3-14",
+      "title": "3:14",
+      "titleEn": "3:14",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֵ֣ת&;׀",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁלֹ֣שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֶעָרִ֗ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּתְּנוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֵעֵ֣בֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַיַּרְדֵּ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאֵת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שְׁלֹ֣שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֶֽעָרִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּתְּנ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאֶ֣רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כְּנָ֑עַן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָרֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקְלָ֖ט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּהְיֶֽינָה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-3-15",
+      "title": "3:15",
+      "titleEn": "3:15",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "לִבְנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֗ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלַגֵּ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלַתּוֹשָׁב֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּתוֹכָ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּהְיֶ֛ינָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֵׁשׁ־הֶעָרִ֥ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֵ֖לֶּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְמִקְלָ֑ט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָנ֣וּס",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁ֔מָּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּל־מַכֵּה־נֶ֖פֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּשְׁגָגָֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-3-16",
+      "title": "3:16",
+      "titleEn": "3:16",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם־בִּכְלִ֨י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַרְזֶ֧ל&;׀&;הִכָּ֛הוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיָּמֹ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֹצֵ֣חַֽ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ה֑וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מ֥וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוּמַ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָרֹצֵֽחַ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-3-17",
+      "title": "3:17",
+      "titleEn": "3:17",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִ֡ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּאֶ֣בֶן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָד֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־יָמ֨וּת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּ֥הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִכָּ֛הוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיָּמֹ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֹצֵ֣חַֽ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ה֑וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מ֥וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוּמַ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָרֹצֵֽחַ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-3-18",
+      "title": "3:18",
+      "titleEn": "3:18",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "א֡וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּכְלִ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֵֽץ־יָד֩",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־יָמ֨וּת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בּ֥וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִכָּ֛הוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיָּמֹ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֹצֵ֣חַֽ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ה֑וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מ֥וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוּמַ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָרֹצֵֽחַ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-3-19",
+      "title": "3:19",
+      "titleEn": "3:19",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "גֹּאֵ֣ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַדָּ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ה֥וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָמִ֖ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָרֹצֵ֑חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּפִגְעוֹ־ב֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ה֥וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְמִתֶֽנּוּ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-3-20",
+      "title": "3:20",
+      "titleEn": "3:20",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם־בְּשִׂנְאָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֶהְדֳּפֶ֑נּוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֽוֹ־הִשְׁלִ֥יךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלָ֛יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בִּצְדִיָּ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיָּמֹֽת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-3-21",
+      "title": "3:21",
+      "titleEn": "3:21",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "א֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְאֵיבָ֞ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הִכָּ֤הוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְיָדוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיָּמֹ֔ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֽוֹת־יוּמַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמַּכֶּ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֹצֵ֣חַֽ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ה֑וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גֹּאֵ֣ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַדָּ֗ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָמִ֛ית",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָרֹצֵ֖חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּפִגְעוֹ־בֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-3-22",
+      "title": "3:22",
+      "titleEn": "3:22",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם־בְּפֶ֥תַע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּלֹא־אֵיבָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הֲדָפ֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אוֹ־הִשְׁלִ֥יךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלָ֛יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כׇּ��־כְּלִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּלֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צְדִיָּֽה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-3-23",
+      "title": "3:23",
+      "titleEn": "3:23",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "א֣וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְכׇל־אֶ֜בֶן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־יָמ֥וּת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּהּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּלֹ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רְא֔וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיַּפֵּ֥ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָלָ֖יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַיָּמֹ֑ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהוּא֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹא־אוֹיֵ֣ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ל֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מְבַקֵּ֖שׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רָעָתֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-3-24",
+      "title": "3:24",
+      "titleEn": "3:24",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְשָֽׁפְטוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָֽעֵדָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֵּ֚ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמַּכֶּ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּבֵ֖ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גֹּאֵ֣ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַדָּ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֥ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּשְׁפָּטִ֖ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָאֵֽלֶּה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-3-25",
+      "title": "3:25",
+      "titleEn": "3:25",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהִצִּ֨ילוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָעֵדָ֜ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָרֹצֵ֗חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִיַּד֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גֹּאֵ֣ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַדָּם֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהֵשִׁ֤יבוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָֽעֵדָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־עִ֥יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקְלָט֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־נָ֣ס",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָׁ֑מָּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְיָ֣שַׁב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּ֗הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַד־מוֹת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַגָּדֹ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־מָשַׁ֥ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹת֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּשֶׁ֥מֶן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַקֹּֽדֶשׁ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-3-26",
+      "title": "3:26",
+      "titleEn": "3:26",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם־יָצֹ֥א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֵצֵ֖א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָרֹצֵ֑חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־גְּבוּל֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִ֣יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקְלָט֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָנ֖וּס",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שָֽׁמָּה׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-3-27",
+      "title": "3:27",
+      "titleEn": "3:27",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וּמָצָ֤א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֹתוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גֹּאֵ֣ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַדָּ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִח֕וּץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִגְב֖וּל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עִ֣יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקְלָט֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְרָצַ֞ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "גֹּאֵ֤ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַדָּם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָ֣רֹצֵ֔חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֥ין",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ל֖וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דָּֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-3-28",
+      "title": "3:28",
+      "titleEn": "3:28",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כִּ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְעִ֤יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקְלָטוֹ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֵשֵׁ֔ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַד־מ֖וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַגָּדֹ֑ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְאַחֲרֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַגָּדֹ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יָשׁוּב֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָרֹצֵ֔חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־אֶ֖רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲחֻזָּתֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-3-29",
+      "title": "3:29",
+      "titleEn": "3:29",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְהָי֨וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֵ֧לֶּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָכֶ֛ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְחֻקַּ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִשְׁפָּ֖ט",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְדֹרֹתֵיכֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּכֹ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹשְׁבֹתֵיכֶֽם׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-3-30",
+      "title": "3:30",
+      "titleEn": "3:30",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כׇּ֨ל־מַכֵּה־נֶ֔פֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְפִ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עֵדִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִרְצַ֖ח",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָרֹצֵ֑חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְעֵ֣ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶחָ֔ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹא־יַעֲנֶ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְנֶ֖פֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָמֽוּת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-3-31",
+      "title": "3:31",
+      "titleEn": "3:31",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְלֹֽא־תִקְח֥וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֹ֙פֶר֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְנֶ֣פֶשׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רֹצֵ֔חַ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־ה֥וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רָשָׁ֖ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָמ֑וּת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּי־מ֖וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוּמָֽת׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-3-32",
+      "title": "3:32",
+      "titleEn": "3:32",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְלֹא־תִקְח֣וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֹ֔פֶר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָנ֖וּס",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־עִ֣יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִקְלָט֑וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָשׁוּב֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָשֶׁ֣בֶת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּאָ֔רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַד־מ֖וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַכֹּהֵֽן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-3-33",
+      "title": "3:33",
+      "titleEn": "3:33",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְלֹֽא־תַחֲנִ֣יפוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָאָ֗רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַתֶּם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּ֔הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַדָּ֔ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "ה֥וּא",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַחֲנִ֖יף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָאָ֑רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלָאָ֣רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֹֽא־יְכֻפַּ֗ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַדָּם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֣ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֻׁפַּךְ־בָּ֔הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּי־אִ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּדַ֥ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֹׁפְכֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-3-34",
+      "title": "3:34",
+      "titleEn": "3:34",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְלֹ֧א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תְטַמֵּ֣א",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָאָ֗רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֤ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַתֶּם֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֹשְׁבִ֣ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בָּ֔הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֖י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֹׁכֵ֣ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּתוֹכָ֑הּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֚י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲנִ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שֹׁכֵ֕ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּת֖וֹךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵֽל׃&;{פ}",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-4-1",
+      "title": "4:1",
+      "titleEn": "4:1",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַֽיִּקְרְב֞וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רָאשֵׁ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָֽאָב֗וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְמִשְׁפַּ֤חַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵֽי־גִלְעָד֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־מָכִ֣יר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶּן־מְנַשֶּׁ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִֽמִּשְׁפְּחֹ֖ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יוֹסֵ֑ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽיְדַבְּר֞וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִפְנֵ֤י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְלִפְנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַנְּשִׂאִ֔ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "רָאשֵׁ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָב֖וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִבְנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵֽל׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-4-2",
+      "title": "4:2",
+      "titleEn": "4:2",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיֹּאמְר֗וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־אֲדֹנִי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צִוָּ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָתֵ֨ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־הָאָ֧רֶץ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנַחֲלָ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּגוֹרָ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִבְנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֑ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַֽאדֹנִי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צֻוָּ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בַֽיהֹוָ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָתֵ֗ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶֽת־נַחֲלַ֛ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צְלׇפְחָ֥ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָחִ֖ינוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִבְנֹתָֽיו׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-4-3",
+      "title": "4:3",
+      "titleEn": "4:3",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְ֠הָי֠וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְאֶחָ֞ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִבְּנֵ֨י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "שִׁבְטֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְנֵֽי־יִשְׂרָאֵל֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְנָשִׁים֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנִגְרְעָ֤ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נַחֲלָתָן֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִנַּחֲלַ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲבֹתֵ֔ינוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנוֹסַ֕ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֚ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נַחֲלַ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמַּטֶּ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּהְיֶ֖ינָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָהֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִגֹּרַ֥ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נַחֲלָתֵ֖נוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִגָּרֵֽעַ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-4-4",
+      "title": "4:4",
+      "titleEn": "4:4",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְאִם־יִהְיֶ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַיֹּבֵל֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִבְנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵל֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנֽוֹסְפָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נַחֲלָתָ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֚ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נַחֲלַ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמַּטֶּ֔ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֥ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּהְיֶ֖ינָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לָהֶ֑ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִֽנַּחֲלַת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַטֵּ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲבֹתֵ֔ינוּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִגָּרַ֖ע",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נַחֲלָתָֽן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-4-5",
+      "title": "4:5",
+      "titleEn": "4:5",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַיְצַ֤ו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מֹשֶׁה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־פִּ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאמֹ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֵּ֛ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַטֵּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְנֵֽי־יוֹסֵ֖ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דֹּבְרִֽים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-4-6",
+      "title": "4:6",
+      "titleEn": "4:6",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "זֶ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַדָּבָ֞ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁר־צִוָּ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִבְנ֤וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צְלׇפְחָד֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לֵאמֹ֔ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לַטּ֥וֹב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּעֵינֵיהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּהְיֶ֣ינָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְנָשִׁ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַ֗ךְ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְמִשְׁפַּ֛חַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַטֵּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲבִיהֶ֖ם",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּהְיֶ֥ינָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְנָשִֽׁים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-4-7",
+      "title": "4:7",
+      "titleEn": "4:7",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְלֹֽא־תִסֹּ֤ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נַחֲלָה֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִבְנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמַּטֶּ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־מַטֶּ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֗ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנַחֲלַת֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַטֵּ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲבֹתָ֔יו",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִדְבְּק֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵֽל׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-4-8",
+      "title": "4:8",
+      "titleEn": "4:8",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְכׇל־בַּ֞ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יֹרֶ֣שֶׁת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נַחֲלָ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמַּטּוֹת֮",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵל֒",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְאֶחָ֗ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמִּשְׁפַּ֛חַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַטֵּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אָבִ֖יהָ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִּהְיֶ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְאִשָּׁ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְמַ֗עַן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִֽירְשׁוּ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֔ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אִ֖ישׁ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נַחֲלַ֥ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲבֹתָֽיו׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-4-9",
+      "title": "4:9",
+      "titleEn": "4:9",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וְלֹֽא־תִסֹּ֧ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נַחֲלָ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִמַּטֶּ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְמַטֶּ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אַחֵ֑ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כִּי־אִישׁ֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנַ֣חֲלָת֔וֹ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִדְבְּק֕וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַטּ֖וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵֽל׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-4-10",
+      "title": "4:10",
+      "titleEn": "4:10",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "כַּאֲשֶׁ֛ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צִוָּ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶת־מֹשֶׁ֑ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "כֵּ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עָשׂ֖וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנ֥וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צְלׇפְחָֽד׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-4-11",
+      "title": "4:11",
+      "titleEn": "4:11",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "וַתִּהְיֶ֜ינָה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מַחְלָ֣ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "תִרְצָ֗ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְחׇגְלָ֧ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וּמִלְכָּ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְנֹעָ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנ֣וֹת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צְלׇפְחָ֑ד",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לִבְנֵ֥י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "דֹדֵיהֶ֖ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְנָשִֽׁים׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-4-12",
+      "title": "4:12",
+      "titleEn": "4:12",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "מִֽמִּשְׁפְּחֹ֛ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּנֵֽי־מְנַשֶּׁ֥ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בֶן־יוֹסֵ֖ף",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הָי֣וּ",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "לְנָשִׁ֑ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וַתְּהִי֙",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "נַחֲלָתָ֔ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַל־מַטֵּ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מִשְׁפַּ֥חַת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲבִיהֶֽן׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "id": "Masei-4-13",
+      "title": "4:13",
+      "titleEn": "4:13",
+      "translation": "",
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "אֵ֣לֶּה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "הַמִּצְוֺ֞ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "וְהַמִּשְׁפָּטִ֗ים",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֲשֶׁ֨ר",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "צִוָּ֧ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְהֹוָ֛ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּיַד־מֹשֶׁ֖ה",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "אֶל־בְּנֵ֣י",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יִשְׂרָאֵ֑ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "בְּעַֽרְבֹ֣ת",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "מוֹאָ֔ב",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "עַ֖ל",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יַרְדֵּ֥ן",
+              "start": 0,
+              "end": 0
+            },
+            {
+              "text": "יְרֵחֽוֹ׃",
+              "start": 0,
+              "end": 0
+            }
+          ],
+          "translation": ""
+        }
+      ]
+    }
+  ]
+}
